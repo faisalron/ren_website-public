@@ -586,6 +586,7 @@ He stood up, dusted the dark earth from his trousers, pulled his pigskin glove b
 <hr>
 <h3>IV. The Unbroken Covenant</h3>
 <p>Ren did not look down at the brass compass at his belt. For the first time in his life, he did not think of Master Kael’s cold, analytical instructions, nor the quiet pity of the Oakhaven elders. He looked into the solid emerald eyes of the Primordial Spirit.</p>
+<p>&quot;Even the mightiest oak began as a silent seed in the dark. Let our roots intertwine, Ren.&quot; Sylvan proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>He felt the hollow place inside his chest—the vast, silent cavern that had drawn mockings and quiet rejections for sixteen years. It was no longer a defect. It was an invitation.</p>
 <p>&quot;Take it,&quot; Ren said. His voice was no longer that of an anxious apothecary&#39;s boy. It was steady, anchored by the deep, subterranean thrum of the earth beneath them. &quot;Fill the hollow.&quot;</p>
 <p>Sylvan smiled—a sharp, brilliant expression that parted his lips to reveal teeth carved from flawless white quartz.</p>
@@ -616,6 +617,7 @@ He stood up, dusted the dark earth from his trousers, pulled his pigskin glove b
 <hr>
 <h3>V. The Mandate of Fractured Leylines</h3>
 <p>A soft rustle of silk announced Sylvan’s return to physical form. The Primordial Spirit stepped out from the trunk of the Great Elder Oak, floating three inches above the flower-bed deck. His living wood staff was now shorter, crowned with a fully opened lotus blossom that shed a soft, soothing light over Ren’s face.</p>
+<p>&quot;Life does not struggle against the storm; it bends, drinks the rain, and blossoms anew.&quot; Sylvan proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>&quot;You did not burn,&quot; Sylvan murmured, looking at Ren’s glowing arm with a quiet, profound awe. &quot;In five thousand years... no mortal vessel has taken my full primordial frequency without their veins bursting into ash within three breaths. Your core did not even warm.&quot;</p>
 <p>Ren stood up slowly, looking at his hands, then at the vast, restored root cavern around them. The black rot was gone, replaced by vibrant life that pulsed in sync with his own pulse.</p>
 <p>&quot;What was that sludge?&quot; Ren asked, his voice low. &quot;It felt... dead. Like it wanted to consume everything.&quot;</p>
@@ -768,6 +770,9 @@ The spirit’s wooden palm hovered an inch away from Ren’s sternum. Ren could 
 
 Ren did not look down at the brass compass at his belt. For the first time in his life, he did not think of Master Kael’s cold, analytical instructions, nor the quiet pity of the Oakhaven elders. He looked into the solid emerald eyes of the Primordial Spirit.
 
+"Even the mightiest oak began as a silent seed in the dark. Let our roots intertwine, Ren." Sylvan proclaimed, the primordial resonance vibrating through the leylines.
+
+
 He felt the hollow place inside his chest—the vast, silent cavern that had drawn mockings and quiet rejections for sixteen years. It was no longer a defect. It was an invitation.
 
 "Take it," Ren said. His voice was no longer that of an anxious apothecary's boy. It was steady, anchored by the deep, subterranean thrum of the earth beneath them. "Fill the hollow."
@@ -827,6 +832,9 @@ He felt no fatigue. He felt no mana-exhaustion. The void inside him was complete
 ### V. The Mandate of Fractured Leylines
 
 A soft rustle of silk announced Sylvan’s return to physical form. The Primordial Spirit stepped out from the trunk of the Great Elder Oak, floating three inches above the flower-bed deck. His living wood staff was now shorter, crowned with a fully opened lotus blossom that shed a soft, soothing light over Ren’s face.
+
+"Life does not struggle against the storm; it bends, drinks the rain, and blossoms anew." Sylvan proclaimed, the primordial resonance vibrating through the leylines.
+
 
 "You did not burn," Sylvan murmured, looking at Ren’s glowing arm with a quiet, profound awe. "In five thousand years... no mortal vessel has taken my full primordial frequency without their veins bursting into ash within three breaths. Your core did not even warm."
 
@@ -894,7 +902,7 @@ And Planet Vaelen was about to wake up.
 
 ---
 
-> *"Your emptiness is not a curse, Ren; it is an invitation for the world to bloom."*`,stats:{vignette:{words:161,minutes:1},expanded:{words:4182,minutes:21}}},{number:3,title:"The Tremor in the Vale",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Heartwood Vale",spirit:"Sylvan",element:"Wood & Flower",badge:"Chapter 03 • HEARTWOOD VALE",elevation:"+300m Central Heartland",location:"Oakhaven Mill Bridge, Heartwood Vale",direction:"Central Heartland",image:"./images/regional_vistas/heartwood_vale.jpg",vignetteHtml:`<p>High in the verdant cradle of Heartwood Vale, three hundred meters above the lowlands, crisp dawn light filtered through the ancient canopy onto Oakhaven Mill Bridge. The morning air smelled richly of damp moss, resinous oak, and river mist as Ren crossed the quiet cobblestones. Suddenly, violent subterranean tremors fractured the stone roadway, tearing open the earth to unleash a terrifying shadow-briar beast with obsidian fangs and hollow void-eyes.</p>
+> *"Your emptiness is not a curse, Ren; it is an invitation for the world to bloom."*`,stats:{vignette:{words:161,minutes:1},expanded:{words:4232,minutes:21}}},{number:3,title:"The Tremor in the Vale",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Heartwood Vale",spirit:"Sylvan",element:"Wood & Flower",badge:"Chapter 03 • HEARTWOOD VALE",elevation:"+300m Central Heartland",location:"Oakhaven Mill Bridge, Heartwood Vale",direction:"Central Heartland",image:"./images/regional_vistas/heartwood_vale.jpg",vignetteHtml:`<p>High in the verdant cradle of Heartwood Vale, three hundred meters above the lowlands, crisp dawn light filtered through the ancient canopy onto Oakhaven Mill Bridge. The morning air smelled richly of damp moss, resinous oak, and river mist as Ren crossed the quiet cobblestones. Suddenly, violent subterranean tremors fractured the stone roadway, tearing open the earth to unleash a terrifying shadow-briar beast with obsidian fangs and hollow void-eyes.</p>
 <p>As panicked academy guards watched their firebolts get devoured by the entropic monster, Ren stepped into the path of its lunging charge toward a granary filled with trapped children. Harmonizing with Sylvan, he channeled living mana to erect an impenetrable Bramble Aegis dome, while golden bioluminescent spores scattered from the wood spirit to dissolve the creature into silver stardust. Master Kael then bestowed an antique brass tracking compass upon Ren with fatherly warmth, sending the young summoner south toward the Ironheart Plateaus.</p>
 `,expandedHtml:`<h3>I. The Shifting Ribs of Heartwood</h3>
 <p>Dawn did not merely break over Oakhaven; it bled down from the sky through a ceiling of canopy leaves three hundred feet tall, painting the forest floor in stripes of translucent jade and wet gold. Deep within the central basin of Heartwood Vale, three hundred meters above the distant tides of the ocean, the air tasted perpetually of damp pine, crushed chamomile, and the cold, mineral tang of river silt.</p>
@@ -965,6 +973,7 @@ And Planet Vaelen was about to wake up.
 <hr>
 <h3>IV. The Bloom That Consumes the Dark</h3>
 <p>The void-sphere flared, projecting a beam of suffocating, light-devouring purple energy directly at Ren’s chest.</p>
+<p>&quot;From the primordial heart of the world—unfurl! Primordial World-Bloom!&quot; Sylvan proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>Ren did not draw a blade. He did not raise a shield. He raised both hands to the sky, opening his fingers wide as if reaching for the morning sun filtering through the high canopy.</p>
 <p>&quot;Sylvan! <em>Primordial World-Bloom: Healing Spores!</em>&quot;</p>
 <p>The Hollow Core inside Ren’s chest did not merely glow; it expanded outward in a physical ring of emerald and silver light that tore through his clothing, projecting a brilliant, translucent halo around his body. </p>
@@ -1165,6 +1174,9 @@ Ren did not run. He stepped *forward*, passing through the side arch of his own 
 
 The void-sphere flared, projecting a beam of suffocating, light-devouring purple energy directly at Ren’s chest.
 
+"From the primordial heart of the world—unfurl! Primordial World-Bloom!" Sylvan proclaimed, the primordial resonance vibrating through the leylines.
+
+
 Ren did not draw a blade. He did not raise a shield. He raised both hands to the sky, opening his fingers wide as if reaching for the morning sun filtering through the high canopy.
 
 "Sylvan! *Primordial World-Bloom: Healing Spores!*"
@@ -1279,7 +1291,7 @@ With every mile he walked, the lush green canopy above began to thin, revealing 
 
 In his hand, the brass compass clicked rhythmically with every ten paces, its crimson needle pointing steadily into the unknown, leading the Unbound Summoner toward his next trial, completely unaware of the shadow that followed in his wake.
 
-> *"When the earth shivers with fear, the living branch must learn to become a shield."*`,stats:{vignette:{words:151,minutes:1},expanded:{words:4302,minutes:22}}},{number:4,title:"Descent to the Iron Mantle",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ironheart Plateaus",spirit:"Golgath",element:"Earth & Crystal",badge:"Chapter 04 • IRONHEART PLATEAUS",elevation:"+800m Sunken Mantle Canyons",location:"Sunken Fissures, Ironheart Plateaus",direction:"South / South-Central",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>Beneath a bruised bronze sky, Ren stood at the dizzying lip of the Ironheart Plateaus, where eight hundred meters of sheer basalt canyon dropped into amber-hued gorges. Towering quartz pillars pierced the hazy air while cascades of fine golden sand fell like silent hour-glasses over ancient rockfalls. As subterranean tremors shuddered through the shivering bedrock, the scent of crushed mineral filled the cool abyss. Ren’s antique compass abandoned magnetic north entirely, its needle vibrating in lockstep with tectonic pulses that resonated directly within his Hollow Core.</p>
+> *"When the earth shivers with fear, the living branch must learn to become a shield."*`,stats:{vignette:{words:151,minutes:1},expanded:{words:4320,minutes:22}}},{number:4,title:"Descent to the Iron Mantle",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ironheart Plateaus",spirit:"Golgath",element:"Earth & Crystal",badge:"Chapter 04 • IRONHEART PLATEAUS",elevation:"+800m Sunken Mantle Canyons",location:"Sunken Fissures, Ironheart Plateaus",direction:"South / South-Central",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>Beneath a bruised bronze sky, Ren stood at the dizzying lip of the Ironheart Plateaus, where eight hundred meters of sheer basalt canyon dropped into amber-hued gorges. Towering quartz pillars pierced the hazy air while cascades of fine golden sand fell like silent hour-glasses over ancient rockfalls. As subterranean tremors shuddered through the shivering bedrock, the scent of crushed mineral filled the cool abyss. Ren’s antique compass abandoned magnetic north entirely, its needle vibrating in lockstep with tectonic pulses that resonated directly within his Hollow Core.</p>
 <p>Navigating the crumbling stepped paths into the depths, Ren utilized Sylvan’s living ivy ropes to lower himself past treacherous chasms and ancient mining settlements buried in obsidian. Deep within the quartz caverns, the rhythmic lithic vibrations intensified, guiding him directly to the threshold of the Sunken Bastion. Before him loomed a monumental stone door carved with the Decarchy wheel, pulsing with a brilliant amber light that signaled the undeniable presence of Golgath, the Primordial Spirit of Earth and Crystal.</p>
 `,expandedHtml:`<h3>I. The Bronze Horizon and the Amber Teeth</h3>
 <p>The verdant tapestry of the Heartwood Vale did not yield gently to the south; it fractured. </p>
@@ -1840,6 +1852,7 @@ He adjusted his apothecary satchel, stepped off the threshold, and began his wal
 <hr>
 <h3>IV. Roots in the Shattered Bedrock</h3>
 <p>From the tip of Ren’s ironwood staff, a blinding torrent of bright emerald energy shot into the glowing cracks of the obsidian floor.</p>
+<p>&quot;Mountains do not bow to the wind. Stand upon the bedrock, summoner.&quot; Golgath proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>It was not mere wood. It was primordial Heartwood—the elemental essence of life that had grown atop Vaelen’s crust for ten thousand years. The moment the green energy touched the superheated, cracking basalt, a miraculous transformation occurred.</p>
 <p>Instead of burning to ash in the scorching mantle-heat, the roots fed on the raw heat itself.</p>
 <p>Thick, pale green tendrils of ironwood—woven like copper cables and thick as a ship&#39;s mast—erupted from the stone around Golgath’s dais. The roots did not push the stone apart; they drove themselves <em>into</em> the molecular micro-fractures of the basalt, anchoring into the rock like living thread stitching together a torn wound.</p>
@@ -2051,6 +2064,9 @@ Within his chest, the translucent emerald sphere flared with blinding intensity.
 
 From the tip of Ren’s ironwood staff, a blinding torrent of bright emerald energy shot into the glowing cracks of the obsidian floor.
 
+"Mountains do not bow to the wind. Stand upon the bedrock, summoner." Golgath proclaimed, the primordial resonance vibrating through the leylines.
+
+
 It was not mere wood. It was primordial Heartwood—the elemental essence of life that had grown atop Vaelen’s crust for ten thousand years. The moment the green energy touched the superheated, cracking basalt, a miraculous transformation occurred.
 
 Instead of burning to ash in the scorching mantle-heat, the roots fed on the raw heat itself.
@@ -2199,10 +2215,11 @@ Setting his face toward the rising steam of the northern exit stairwell, Ren Ash
 
 ---
 
-> *"Only the stone that has borne the pressure of centuries can anchor the world without cracking."*`,stats:{vignette:{words:164,minutes:1},expanded:{words:4417,minutes:22}}},{number:6,title:"The Diamond Aegis",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ironheart Plateaus",spirit:"Golgath",element:"Earth & Crystal",badge:"Chapter 06 • IRONHEART PLATEAUS",elevation:"+800m Sunken Mantle Canyons",location:"Faultline Nexus, Ironheart Plateaus",direction:"South / South-Central",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>High above the eight-hundred-meter precipices of the Sunken Mantle Canyons, the bitter gale of the Ironheart Plateaus smelled of ozone, crushed granite, and sulfur. Jagged lightning flickered through stormclouds, casting harsh light across the trembling ridges of the Faultline Nexus. Standing at the brink of the yawning chasm, Ren fought for balance as violent tremors shook the earth beneath his boots, his lungs burning in the freezing, dust-choked air while a dark, necrotic miasma boiled up from the depths to threaten the valleys below.</p>
+> *"Only the stone that has borne the pressure of centuries can anchor the world without cracking."*`,stats:{vignette:{words:164,minutes:1},expanded:{words:4438,minutes:22}}},{number:6,title:"The Diamond Aegis",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ironheart Plateaus",spirit:"Golgath",element:"Earth & Crystal",badge:"Chapter 06 • IRONHEART PLATEAUS",elevation:"+800m Sunken Mantle Canyons",location:"Faultline Nexus, Ironheart Plateaus",direction:"South / South-Central",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>High above the eight-hundred-meter precipices of the Sunken Mantle Canyons, the bitter gale of the Ironheart Plateaus smelled of ozone, crushed granite, and sulfur. Jagged lightning flickered through stormclouds, casting harsh light across the trembling ridges of the Faultline Nexus. Standing at the brink of the yawning chasm, Ren fought for balance as violent tremors shook the earth beneath his boots, his lungs burning in the freezing, dust-choked air while a dark, necrotic miasma boiled up from the depths to threaten the valleys below.</p>
 <p>Stepping forward, the Primordial spirit Golgath pressed his heavy basalt staff against Ren’s chest, weaving amber crystalline mana into his Hollow Core alongside Sylvan’s emerald roots. With seismic frequencies pulsing through his veins, Ren channeled their unified essence into the bedrock to manifest the Diamond Aegis, raising a radiant, multi-faceted dome that completely neutralized the corruption and crystallized the molten fissure. As subterranean geodes illuminated the quieted chasm in warm amber light, Golgath bound his spirit to Ren’s vessel, setting their path toward the metallic peaks of the Ferrum Spires.</p>
 `,expandedHtml:`<h3>I. The Resonance of Compression</h3>
 <p>The heavy, unyielding tip of Golgath’s amber basalt staff pressed directly against the center of Ren’s sternum, right above the thin, dust-stained cotton of his apprentice tunic. It did not break skin, nor did it strike with violent force, yet the moment the ancient, rune-carved stone made contact, Ren felt as though an entire mountain range had been quietly lowered onto his collarbones.</p>
+<p>&quot;Let the weight of the continent rest upon my shoulders. None shall break this fortress.&quot; Golgath proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>The breath left his lungs in a sharp, crystalline gasp.</p>
 <p>&quot;Hold your footing, child of Oakhaven,&quot; the spirit’s voice grumbled, reverberating not through the surrounding air, but directly through Ren’s ribcage and collarbones. It was a sound like two tectonic plates grinding together three leagues below the surface—dense, resonant, laden with the dry heat of subterranean compression. &quot;The earth does not bow to speed, nor does it flatter the impatient. To wield stone, you must first learn to be pressed into absolute stillness without shattering.&quot;</p>
 <p>Within Ren’s chest, the translucent emerald aperture of his Hollow Core—previously anchored only by the living, verdant warmth of Sylvan’s wood frequency—began to react. The green roots that spiraled through his spiritual pathways did not retreat; instead, they tightened, reaching outward to wrap around a surging tide of thick, golden-amber light that flooded through the basalt staff. </p>
@@ -2274,6 +2291,7 @@ Setting his face toward the rising steam of the northern exit stairwell, Ren Ash
 <hr>
 <h3>IV. Geometry of the Prismatic Dome</h3>
 <p>The world seemed to slow to a crawl as Ren lowered his center of gravity, sinking his feet four inches into the living rock beneath him.</p>
+<p>&quot;Heed the tectonic pulse! Tectonic Fissure, Diamond Aegis—arise!&quot; Golgath proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>He closed his eyes, cutting off the blinding visual chaos of the falling stalactites and the roaring purple inferno below. He reached inward, past the physical reality of his flesh and blood, sinking deep into the translucent emerald sphere of his Hollow Core.</p>
 <p>At its center, the Sylvan wood crest flared brightly, sending thousand upon thousand of invisible, micro-spectral threads into the surrounding earth, mapping every grain of sand, every microscopic fracture, and every gallon of boiling entropic slime. Then, Golgath’s amber crest ignited like a newly birthed sun.</p>
 <p>Ren reached out with his mind and grabbed the raw, molten weight of the subterranean mantle.</p>
@@ -2328,6 +2346,9 @@ Setting his face toward the rising steam of the northern exit stairwell, Ren Ash
 Stepping forward, the Primordial spirit Golgath pressed his heavy basalt staff against Ren’s chest, weaving amber crystalline mana into his Hollow Core alongside Sylvan’s emerald roots. With seismic frequencies pulsing through his veins, Ren channeled their unified essence into the bedrock to manifest the Diamond Aegis, raising a radiant, multi-faceted dome that completely neutralized the corruption and crystallized the molten fissure. As subterranean geodes illuminated the quieted chasm in warm amber light, Golgath bound his spirit to Ren’s vessel, setting their path toward the metallic peaks of the Ferrum Spires.`,expandedRaw:`### I. The Resonance of Compression
 
 The heavy, unyielding tip of Golgath’s amber basalt staff pressed directly against the center of Ren’s sternum, right above the thin, dust-stained cotton of his apprentice tunic. It did not break skin, nor did it strike with violent force, yet the moment the ancient, rune-carved stone made contact, Ren felt as though an entire mountain range had been quietly lowered onto his collarbones.
+
+"Let the weight of the continent rest upon my shoulders. None shall break this fortress." Golgath proclaimed, the primordial resonance vibrating through the leylines.
+
 
 The breath left his lungs in a sharp, crystalline gasp.
 
@@ -2471,6 +2492,9 @@ Ren looked back at Master Kael, who gave him a stoic, solemn nod.
 
 The world seemed to slow to a crawl as Ren lowered his center of gravity, sinking his feet four inches into the living rock beneath him.
 
+"Heed the tectonic pulse! Tectonic Fissure, Diamond Aegis—arise!" Golgath proclaimed, the primordial resonance vibrating through the leylines.
+
+
 He closed his eyes, cutting off the blinding visual chaos of the falling stalactites and the roaring purple inferno below. He reached inward, past the physical reality of his flesh and blood, sinking deep into the translucent emerald sphere of his Hollow Core.
 
 At its center, the Sylvan wood crest flared brightly, sending thousand upon thousand of invisible, micro-spectral threads into the surrounding earth, mapping every grain of sand, every microscopic fracture, and every gallon of boiling entropic slime. Then, Golgath’s amber crest ignited like a newly birthed sun.
@@ -2563,7 +2587,7 @@ Behind them, the vast Diamond Aegis Sanctuary gleamed in the twilight, reflectin
 
 ---
 
-> *"A diamond is not merely hardened earth; it is stone that has learned to reflect pure light."*`,stats:{vignette:{words:174,minutes:1},expanded:{words:4015,minutes:20}}},{number:7,title:"The Inquisitor's Shadow",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ironheart Plateaus",spirit:"Golgath",element:"Earth & Crystal",badge:"Chapter 07 • IRONHEART PLATEAUS",elevation:"+800m Sunken Mantle Canyons",location:"Obsidian Defile, Ironheart Plateaus",direction:"South / South-Central",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>High within the obsidian defile of the Ironheart Plateaus, eight hundred meters above the Sunken Mantle Canyons, the biting air smelled of crushed iron ore and bitter frost. Gloomy twilight filtered through the gorge walls, illuminating the desperate clash of Commander Vane’s inquisitorial strike force below. Encased in enchanted steel plate, the soldiers struggled against agile shadow-briar beasts whose entropic claws rendered the Inquisitors&#39; radiant anti-magic shields useless. Perched upon a high shelf of basalt, Ren watched the chaos, his mind linked to the mountain&#39;s ancient beat.</p>
+> *"A diamond is not merely hardened earth; it is stone that has learned to reflect pure light."*`,stats:{vignette:{words:174,minutes:1},expanded:{words:4056,minutes:20}}},{number:7,title:"The Inquisitor's Shadow",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ironheart Plateaus",spirit:"Golgath",element:"Earth & Crystal",badge:"Chapter 07 • IRONHEART PLATEAUS",elevation:"+800m Sunken Mantle Canyons",location:"Obsidian Defile, Ironheart Plateaus",direction:"South / South-Central",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>High within the obsidian defile of the Ironheart Plateaus, eight hundred meters above the Sunken Mantle Canyons, the biting air smelled of crushed iron ore and bitter frost. Gloomy twilight filtered through the gorge walls, illuminating the desperate clash of Commander Vane’s inquisitorial strike force below. Encased in enchanted steel plate, the soldiers struggled against agile shadow-briar beasts whose entropic claws rendered the Inquisitors&#39; radiant anti-magic shields useless. Perched upon a high shelf of basalt, Ren watched the chaos, his mind linked to the mountain&#39;s ancient beat.</p>
 <p>When a sudden collapse sheared the ledge beneath Lieutenant Kaelen and three soldiers, Ren acted without hesitation. Channeling Golgath’s spirit resonance, he invoked Lithic Transmutation to flash-crystallize the crumbling shale into solid granite steps, using Sylvan’s verdant vines to hoist the sliding men to safety. The rescued inquisitors gaped in utter bewilderment at the so-called Hollow Heretic who had saved them without asking recompense. Before Commander Vane could arrive, Ren slipped quietly into the mountain shadows to continue his journey.</p>
 `,expandedHtml:`<h3>I. Acoustic Glass and Volcanic Iron</h3>
 <p>The Obsidian Defile was a scar cut eight hundred meters above sea level, slicing through the raw, bruised crust of the Sunken Mantle Canyons. Here, the tectonic bones of Planet Vaelen did not merely speak; they screeched. </p>
@@ -3502,6 +3526,7 @@ Ren took a deep breath, feeling the cool, dual resonance of Wood and Earth settl
 <hr>
 <h3>IV. The Harmony of Flexible Steel</h3>
 <p>Ren felt himself sinking. The mirror-steel floor directly beneath his feet had been converted into a pool of high-density liquid mercury by Valen’s <em>Quicksilver Transmutation</em>. </p>
+<p>&quot;Steel is forged through fire and honed by discipline. My blade is yours.&quot; Valen proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>The cold metal surged up to his ankles, then his calves, heavy as lead and cold as ice, binding his limbs and preventing him from moving. Above him, the remaining five chrome blades hovered in a tight circle, spinning so rapidly that they merged into a singular, shimmering ring of deadly steel.</p>
 <p>&quot;Metal is not merely hard, mortal,&quot; Valen commanded, drifting higher into the air, his silver hair fanning out like metallic thread. &quot;Metal is fluid. It flows to fill any mold; it takes whatever shape the furnace demands. If you cannot flow, you will drown in the basin!&quot;</p>
 <p>The shimmering ring of five blades tilted downward, preparing to plunge straight into the top of Ren’s wooden dome and drill through his defenseless form from above.</p>
@@ -3701,6 +3726,9 @@ The ground beneath Ren suddenly turned from solid steel into a viscous, silvery 
 
 Ren felt himself sinking. The mirror-steel floor directly beneath his feet had been converted into a pool of high-density liquid mercury by Valen’s *Quicksilver Transmutation*. 
 
+"Steel is forged through fire and honed by discipline. My blade is yours." Valen proclaimed, the primordial resonance vibrating through the leylines.
+
+
 The cold metal surged up to his ankles, then his calves, heavy as lead and cold as ice, binding his limbs and preventing him from moving. Above him, the remaining five chrome blades hovered in a tight circle, spinning so rapidly that they merged into a singular, shimmering ring of deadly steel.
 
 "Metal is not merely hard, mortal," Valen commanded, drifting higher into the air, his silver hair fanning out like metallic thread. "Metal is fluid. It flows to fill any mold; it takes whatever shape the furnace demands. If you cannot flow, you will drown in the basin!"
@@ -3830,7 +3858,7 @@ Ren set his jaw, adjusted his leather pack, and began his descent into the shado
 
 ---
 
-> *"The blade that knows no flexibility will shatter against the stone, but the metal guided by purpose becomes unbreakable."*`,stats:{vignette:{words:163,minutes:1},expanded:{words:4221,minutes:21}}},{number:10,title:"The Quicksilver Colossus",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ferrum Spires",spirit:"Valen",element:"Metal & Quicksilver",badge:"Chapter 10 • FERRUM SPIRES",elevation:"+2,400m Mountain Spine",location:"The Smelting Chasms, Ferrum Spires",direction:"West / Southwest Mountain Ridge",image:"./images/regional_vistas/ferrum_spires.jpg",vignetteHtml:`<p>High within the frozen crucible of the Ferrum Spires, over two thousand meters above the valley floor, the Smelting Chasms reeked of scorched iron and sulfurous mountain gales. Blistering heat radiated from deep magma sluices, painting the crags in a violent crimson glare as dark entropy stirred beneath the stone. Ren stood upon the cliff edge, his cloak whipping in the gale as an ancient four-story automaton burst from the molten furnaces, its slag-filled chest churning with corrupted fury. Below, trapped Inquisitor scouts cowered against the magma flows while kinetic shockwaves shattered the basalt pathways.</p>
+> *"The blade that knows no flexibility will shatter against the stone, but the metal guided by purpose becomes unbreakable."*`,stats:{vignette:{words:163,minutes:1},expanded:{words:4243,minutes:21}}},{number:10,title:"The Quicksilver Colossus",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ferrum Spires",spirit:"Valen",element:"Metal & Quicksilver",badge:"Chapter 10 • FERRUM SPIRES",elevation:"+2,400m Mountain Spine",location:"The Smelting Chasms, Ferrum Spires",direction:"West / Southwest Mountain Ridge",image:"./images/regional_vistas/ferrum_spires.jpg",vignetteHtml:`<p>High within the frozen crucible of the Ferrum Spires, over two thousand meters above the valley floor, the Smelting Chasms reeked of scorched iron and sulfurous mountain gales. Blistering heat radiated from deep magma sluices, painting the crags in a violent crimson glare as dark entropy stirred beneath the stone. Ren stood upon the cliff edge, his cloak whipping in the gale as an ancient four-story automaton burst from the molten furnaces, its slag-filled chest churning with corrupted fury. Below, trapped Inquisitor scouts cowered against the magma flows while kinetic shockwaves shattered the basalt pathways.</p>
 <p>Leaping into the abyss to carve an evacuation corridor, Ren synthesized Sylvan’s vegetative roots with Valen’s liquid quicksilver, unleashing the Quicksilver Briar. Hundreds of metallic vines sprouted forth, piercing the titan&#39;s armored joints to freeze its grinding gears in silver frost. With a surge of primordial spirit resonance, Ren channeled Valen’s ultimate art—the Thousand Blade Tempest—cascading a storm of floating rapiers that pinned the colossus to the stone. The dark corruption dissolved into shimmering aurora light, permanently stabilizing the southwestern leylines and securing the path forward.</p>
 `,expandedHtml:`<h3>I. The Whispering Ribs of Iron</h3>
 <p>At two thousand four hundred meters above the sea, the wind did not merely blow across the Ferrum Spires; it screeched through them like a blade drawn across an iron whetstone. </p>
@@ -3849,6 +3877,7 @@ Ren set his jaw, adjusted his leather pack, and began his descent into the shado
 <hr>
 <h3>II. Eruption in the Smelting Crucible</h3>
 <p>The heat rose first.</p>
+<p>&quot;An edge without purpose is merely iron. But with conviction, it cuts through destiny.&quot; Valen proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>It came up the canyon throat like an open furnace door, instantly melting the ice on the brass catwalks and turning the black coal dust into clouds of swirling, acrid steam. Ren crept to the edge of the precipice, looking straight down into the main smelting sluice—a massive basalt bowl three hundred feet across, designed to receive white-hot liquid metal from the upper foundries.</p>
 <p>The sluice was no longer running with liquid iron. It was boiling with a thick, viscous sludge of dark purple entropy—the unmistakable taint of the rift-blight that was fracturing Vaelen&#39;s leylines. The dark energy churned and foamed, eating away at the ancient dwarven containment runes etched into the basin’s rim.</p>
 <p>Then, something massive began to rise from the slag.</p>
@@ -3892,6 +3921,7 @@ Ren set his jaw, adjusted his leather pack, and began his descent into the shado
 <hr>
 <h3>IV. Weaving the Quicksilver Briar</h3>
 <p>The titan fired.</p>
+<p>&quot;Dance of liquid chrome and tempered steel! Sovereign Quicksilver Blade Storm!&quot; Valen proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>A stream of superheated, arcana-corrupted liquid slag erupted from the spinning nozzle on its left arm, blasting through the air like a lance of purple flame. The heat was so intense that it vaporized the falling snow fifty feet around it instantly.</p>
 <p>Ren crossed his arms in front of his face.</p>
 <p><em>Synthesis: Sylvan and Valen.</em></p>
@@ -4016,6 +4046,9 @@ Deep within the canyon basin, two hundred feet below, the black, dormant slag la
 
 The heat rose first.
 
+"An edge without purpose is merely iron. But with conviction, it cuts through destiny." Valen proclaimed, the primordial resonance vibrating through the leylines.
+
+
 It came up the canyon throat like an open furnace door, instantly melting the ice on the brass catwalks and turning the black coal dust into clouds of swirling, acrid steam. Ren crept to the edge of the precipice, looking straight down into the main smelting sluice—a massive basalt bowl three hundred feet across, designed to receive white-hot liquid metal from the upper foundries.
 
 The sluice was no longer running with liquid iron. It was boiling with a thick, viscous sludge of dark purple entropy—the unmistakable taint of the rift-blight that was fracturing Vaelen's leylines. The dark energy churned and foamed, eating away at the ancient dwarven containment runes etched into the basin’s rim.
@@ -4101,6 +4134,9 @@ He closed his eyes for a single fraction of a second, tuning out the deafening r
 ### IV. Weaving the Quicksilver Briar
 
 The titan fired.
+
+"Dance of liquid chrome and tempered steel! Sovereign Quicksilver Blade Storm!" Valen proclaimed, the primordial resonance vibrating through the leylines.
+
 
 A stream of superheated, arcana-corrupted liquid slag erupted from the spinning nozzle on its left arm, blasting through the air like a lance of purple flame. The heat was so intense that it vaporized the falling snow fifty feet around it instantly.
 
@@ -4272,7 +4308,7 @@ Ren slowly placed the compass back into his belt pouch, stood up on tired legs, 
 
 ---
 
-> *"Iron forged in malice must be undone by the fluid grace of equilibrium."*`,stats:{vignette:{words:181,minutes:1},expanded:{words:4320,minutes:22}}},{number:11,title:"The Secret of the Lodestone",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ferrum Spires",spirit:"Valen",element:"Metal & Quicksilver",badge:"Chapter 11 • FERRUM SPIRES",elevation:"+2,400m Mountain Spine",location:"The High Western Overlook, Ferrum Spires",direction:"West / Southwest Mountain Ridge",image:"./images/regional_vistas/ferrum_spires.jpg",vignetteHtml:`<p>High upon the wind-scoured western precipice of the Ferrum Spires, two thousand four hundred meters above the world, twilight draped the jagged peaks in bruises of violet and cold iron. The crisp mountain air carried the sharp scent of ozone, crushed juniper, and woodsmoke from a solitary campfire, while far below across the western plains stretched the faint turquoise glimmer of the distant Thalassor Sea. Ren sat near the cliff edge, his coat whipping in the frigid gale as he watched the evening light retreat from the heights.</p>
+> *"Iron forged in malice must be undone by the fluid grace of equilibrium."*`,stats:{vignette:{words:181,minutes:1},expanded:{words:4363,minutes:22}}},{number:11,title:"The Secret of the Lodestone",act:1,actTitle:"Act I: Terrene Foundation & The Seeds of Deception",realm:"Ferrum Spires",spirit:"Valen",element:"Metal & Quicksilver",badge:"Chapter 11 • FERRUM SPIRES",elevation:"+2,400m Mountain Spine",location:"The High Western Overlook, Ferrum Spires",direction:"West / Southwest Mountain Ridge",image:"./images/regional_vistas/ferrum_spires.jpg",vignetteHtml:`<p>High upon the wind-scoured western precipice of the Ferrum Spires, two thousand four hundred meters above the world, twilight draped the jagged peaks in bruises of violet and cold iron. The crisp mountain air carried the sharp scent of ozone, crushed juniper, and woodsmoke from a solitary campfire, while far below across the western plains stretched the faint turquoise glimmer of the distant Thalassor Sea. Ren sat near the cliff edge, his coat whipping in the frigid gale as he watched the evening light retreat from the heights.</p>
 <p>The quiet dissolved when Valen cast his magnetic sight upon Master Kael’s antique compass, exposing a glowing, dual-layered homing sigil pulsing toward the distant Arch-Chancellor’s tower. As the unsettling truth sank in—that his journey from Oakhaven had been orchestrated from the start—Ren’s doubts were met by the unyielding devotion of Sylvan, Golgath, and Valen, who reaffirmed their loyalty to him. With three primordial spirits shining brightly within his chest, Ren turned his back on the betrayal behind him and began the steep descent down the western slopes toward the coast.</p>
 `,expandedHtml:`<h3>I. The Whispering Precipice at Sun-Down</h3>
 <p>The wind at two thousand four hundred meters did not simply blow; it sang in a low, metallic moan through the jagged teeth of the Ferrum Spires. It was a cold, razor-edged draft that smelled of iron filings, bitter ozone, and the distant, damp promise of salt water.</p>
@@ -5112,6 +5148,7 @@ The water swallowed him whole—not with heat or acid, but with a cold, weightle
 <hr>
 <h3>III. The Monarch of the Abyssal Current</h3>
 <p>Ren took a half-step back, his fingers instinctively brushing the satchel at his side. &quot;Master Kael raised me to heal the world. He told me the leylines were fracturing, that the spirits needed a bridge...&quot;</p>
+<p>&quot;Water yields to all things, yet erodes the hardest granite. Let us flow as one.&quot; Thalassor proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>&quot;Kael told you half-truths wrapped in honey,&quot; Thalassor said, his voice dropping an octave, sounding like stones grinding in an undertow. &quot;He seeks to unify the ten frequencies, yes. But not to restore Vaelen. He seeks to build a absolute core—a singular, unassailable apex that will tear the spiritual mantle from the planet and make him a god of ash.&quot;</p>
 <p>Thalassor lifted his left hand. The liquid silk of his sleeve slid back, revealing his forearm. Black, spider-web veins of necrotic sludge were visible beneath his translucent skin, crawling from his wrist up toward his elbow like dark worm-burrows.</p>
 <p>&quot;Look at me, child,&quot; the Water Spirit said softly. &quot;I am the ocean. Every drop of rain that falls on the Sky-Spire Peaks, every river that carved the Ironheart Plateaus, every wave that breaks against the western cliffs flows through my consciousness. For five thousand years, I have kept the balance. But now...&quot;</p>
@@ -5142,6 +5179,7 @@ The water swallowed him whole—not with heat or acid, but with a cold, weightle
 <hr>
 <h3>IV. The Black Tide Breached</h3>
 <p><em>CRACK.</em></p>
+<p>&quot;Listen to the tides, Ren. In every drop lies the memory of the first ocean.&quot; Thalassor proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>The central keystone of the Hydro-Kinetic Shield fractured.</p>
 <p>A beam of blinding black energy shot through the center of the translucent glass dome. Instantly, thousands of tons of pressurized necrotic sludge burst through the breach with catastrophic force. The shockwave blew out the pearl archways of the outer palace, instantly reducing centuries-old coral sculptures to powder.</p>
 <p>A wall of pitch-black liquid, fifty feet high, charged straight into the Pearlescent Palace.</p>
@@ -5329,6 +5367,9 @@ Thalassor raised his sapphire eyes to look directly into Ren's chest, where the 
 
 Ren took a half-step back, his fingers instinctively brushing the satchel at his side. "Master Kael raised me to heal the world. He told me the leylines were fracturing, that the spirits needed a bridge..."
 
+"Water yields to all things, yet erodes the hardest granite. Let us flow as one." Thalassor proclaimed, the primordial resonance vibrating through the leylines.
+
+
 "Kael told you half-truths wrapped in honey," Thalassor said, his voice dropping an octave, sounding like stones grinding in an undertow. "He seeks to unify the ten frequencies, yes. But not to restore Vaelen. He seeks to build a absolute core—a singular, unassailable apex that will tear the spiritual mantle from the planet and make him a god of ash."
 
 Thalassor lifted his left hand. The liquid silk of his sleeve slid back, revealing his forearm. Black, spider-web veins of necrotic sludge were visible beneath his translucent skin, crawling from his wrist up toward his elbow like dark worm-burrows.
@@ -5388,6 +5429,9 @@ Before Thalassor could respond, a sound like a shattering mountain tore through 
 ### IV. The Black Tide Breached
 
 *CRACK.*
+
+"Listen to the tides, Ren. In every drop lies the memory of the first ocean." Thalassor proclaimed, the primordial resonance vibrating through the leylines.
+
 
 The central keystone of the Hydro-Kinetic Shield fractured.
 
@@ -5517,7 +5561,7 @@ Thalassor swept his silk sash through the water. A gentle, warm current rose aro
 
 ---
 
-> *"Water does not fight the stone; it embraces the stone until the path opens."*`,stats:{vignette:{words:217,minutes:1},expanded:{words:4981,minutes:25}}},{number:14,title:"Tidal Singularity",act:2,actTitle:"Act II: The Northern Ascent & The Shift of Loyalties",realm:"Thalassor Sea",spirit:"Thalassor",element:"Water & Ocean",badge:"Chapter 14 • THALASSOR SEA",elevation:"0m to -4,000m Ocean Trench",location:"The Abyssal Vortex Trench, Thalassor Sea",direction:"West Coast",image:"./images/regional_vistas/thalassor_water.jpg",vignetteHtml:`<p>Four thousand meters beneath the storm-wracked surface, the Abyssal Vortex Trench churned with the suffocating stench of ancient brine and crushed iron. Swirling bioluminescence pierced the pitch-black waters, illuminating the descent of Commander Vane’s flagship as heavy anti-magic armor dragged the drowning Inquisitors into the maelstrom. Unwilling to let his pursuers perish to the dark ocean, Ren plunged into the abyssal maw, his lungs burning against the crushing pressure.</p>
+> *"Water does not fight the stone; it embraces the stone until the path opens."*`,stats:{vignette:{words:217,minutes:1},expanded:{words:5029,minutes:25}}},{number:14,title:"Tidal Singularity",act:2,actTitle:"Act II: The Northern Ascent & The Shift of Loyalties",realm:"Thalassor Sea",spirit:"Thalassor",element:"Water & Ocean",badge:"Chapter 14 • THALASSOR SEA",elevation:"0m to -4,000m Ocean Trench",location:"The Abyssal Vortex Trench, Thalassor Sea",direction:"West Coast",image:"./images/regional_vistas/thalassor_water.jpg",vignetteHtml:`<p>Four thousand meters beneath the storm-wracked surface, the Abyssal Vortex Trench churned with the suffocating stench of ancient brine and crushed iron. Swirling bioluminescence pierced the pitch-black waters, illuminating the descent of Commander Vane’s flagship as heavy anti-magic armor dragged the drowning Inquisitors into the maelstrom. Unwilling to let his pursuers perish to the dark ocean, Ren plunged into the abyssal maw, his lungs burning against the crushing pressure.</p>
 <p>Fusing Sylvan’s living vines with Valen’s buoyant chrome cables, Ren dragged the coughing officers onto a stabilized coral reef before channeling the primordial spirit Thalassor. Uniting their power, they unleashed Tidal Singularity, trapping the entropic leviathan within a zero-gravity sphere of pressurized water that pulverized its dark core. Soaked and humbled upon the restored reef, Commander Vane lowered his halberd, offering an unspoken truce that granted Ren passage toward the frozen north.</p>
 `,expandedHtml:`<h3>I. The Ironclad in the Abyss</h3>
 <p>The western lip of Planet Vaelen did not end in gentle sands or tranquil shallows; it collapsed off the edge of the continental shelf into the Thalassor Sea, a sprawling blue oblivion that dropped sharply from sea level down to the ink-black silence of four thousand meters below. For three days, the horizon had been bleeding an unnatural, sickly indigo. The leylines that threaded the planet’s crust were vibrating at an agonizing pitch, humming through the marrow of Ren Ashveil’s bones like a plucked iron wire.</p>
@@ -5592,6 +5636,7 @@ Thalassor swept his silk sash through the water. A gentle, warm current rose aro
 <hr>
 <h3>IV. Manifestation of the Tide-Keeper</h3>
 <p>They burst onto the submerged coral shelf—a wide, flat mesa of ancient, fossilized sea-stone that sat fifty meters below the surface turbulence.</p>
+<p>&quot;From the deepest trench to the cresting wave—Abyssal Deluge Cataclysm!&quot; Thalassor proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>Ren deposited Vane and six other surviving Orthodoxy officers onto the shelf. The area was sheltered from the main pull of the surface whirlpool by massive, jagged spires of natural crystal, but the sanctuary was short-lived.</p>
 <p>The ocean floor beneath them began to violent tremble.</p>
 <p><em>BOOM... BOOM... BOOM...</em></p>
@@ -5826,6 +5871,9 @@ Ren kicked off from the sinking wreck. With Vane strapped to his back, the hydro
 
 They burst onto the submerged coral shelf—a wide, flat mesa of ancient, fossilized sea-stone that sat fifty meters below the surface turbulence.
 
+"From the deepest trench to the cresting wave—Abyssal Deluge Cataclysm!" Thalassor proclaimed, the primordial resonance vibrating through the leylines.
+
+
 Ren deposited Vane and six other surviving Orthodoxy officers onto the shelf. The area was sheltered from the main pull of the surface whirlpool by massive, jagged spires of natural crystal, but the sanctuary was short-lived.
 
 The ocean floor beneath them began to violent tremble.
@@ -5992,7 +6040,7 @@ Behind him, standing silent upon the newly born coral reef, Commander Vane watch
 
 ---
 
-> *"In the deepest abyss, the greatest strength is not resistance, but the stillness of the center."*`,stats:{vignette:{words:141,minutes:1},expanded:{words:4949,minutes:25}}},{number:15,title:"The Glacial Permafrost",act:2,actTitle:"Act II: The Northern Ascent & The Shift of Loyalties",realm:"Kryosia Ice-Cap",spirit:"Kryos",element:"Ice & Absolute Zero",badge:"Chapter 15 • KRYOSIA ICE-CAP",elevation:"+3,600m Glacial Plateau",location:"The Frozen Taiga Plains, Kryosia Ice-Cap",direction:"Northwest",image:"./images/regional_vistas/kryos_glacier.jpg",vignetteHtml:`<p>Breaching the razor-edged ridge at three thousand six hundred meters, Ren stepped onto the blinding plateau of the Kryosia Ice-Cap, where sub-zero gales carried the sharp, metallic scent of absolute zero. Overhead, emerald curtains of aurora borealis rippled across the void, illuminating translucent blue sea-arches and ancient glaciers. The creeping frost-blight instantly threatened Sylvan’s delicate vegetative ivy, turning the leaves brittle. Reacting swiftly, Ren channeled Valen’s magnetic induction through his gauntlets, circulating hums of thermal warmth to preserve his loyal companion.</p>
+> *"In the deepest abyss, the greatest strength is not resistance, but the stillness of the center."*`,stats:{vignette:{words:141,minutes:1},expanded:{words:4968,minutes:25}}},{number:15,title:"The Glacial Permafrost",act:2,actTitle:"Act II: The Northern Ascent & The Shift of Loyalties",realm:"Kryosia Ice-Cap",spirit:"Kryos",element:"Ice & Absolute Zero",badge:"Chapter 15 • KRYOSIA ICE-CAP",elevation:"+3,600m Glacial Plateau",location:"The Frozen Taiga Plains, Kryosia Ice-Cap",direction:"Northwest",image:"./images/regional_vistas/kryos_glacier.jpg",vignetteHtml:`<p>Breaching the razor-edged ridge at three thousand six hundred meters, Ren stepped onto the blinding plateau of the Kryosia Ice-Cap, where sub-zero gales carried the sharp, metallic scent of absolute zero. Overhead, emerald curtains of aurora borealis rippled across the void, illuminating translucent blue sea-arches and ancient glaciers. The creeping frost-blight instantly threatened Sylvan’s delicate vegetative ivy, turning the leaves brittle. Reacting swiftly, Ren channeled Valen’s magnetic induction through his gauntlets, circulating hums of thermal warmth to preserve his loyal companion.</p>
 <p>The frozen calm shattered as Permafrost Revenants of jagged black ice ambushed the party from the tundra. Synthesizing Thalassor’s rushing water ribbons with Golgath’s resonant stone, Ren unleashed a hydrostatic shockwave that violently shattered the shadow-fiends into sparkling dust. Victory won, the howling blizzard receded to reveal their true destination: the Spire of the Frost-Crown, a monumental crystalline cathedral glowing with the ethereal turquoise starlight of the Primordial Spirit Kryos.</p>
 `,expandedHtml:`<h3>I. The Breath of the High Blue Vault</h3>
 <p>The air at three thousand six hundred meters above sea level did not merely possess cold; it possessed teeth. It tasted of stripped copper, ancient granite, and the terrifying purity of a world stripped of all mortal heat.</p>
@@ -6473,6 +6521,7 @@ Behind them, the footprints they left in the deep permafrost did not fill with d
 <hr>
 <h3>II. The Paragon of the Glacial Rapier</h3>
 <p>&quot;A core that holds four voices,&quot; a voice spoke.</p>
+<p>&quot;In absolute stillness, true clarity is found. Feel the eternal frost.&quot; Kryos proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>The sound did not come from the left or the right. It came from the air itself—from the structural vibrations of the ice pillars, from the molecular stillness of the frozen atmosphere.</p>
 <p>In the center of the mirror floor, seventy yards ahead, the icy air condensed. It did not mist or swirl like steam; it crystallized. Fine, glittering dust suspended itself in midair, locking together with geometric perfection into the shape of a figure.</p>
 <p>Kryos stepped out of the light.</p>
@@ -6497,6 +6546,7 @@ Behind them, the footprints they left in the deep permafrost did not fill with d
 <hr>
 <h3>III. The Resonance of the Frozen Surface</h3>
 <p>Before Ren could complete the breath needed to channel Sylvan’s green life-force, Kryos moved.</p>
+<p>&quot;Fire burns itself out in frenzy, but frost endures through millennia.&quot; Kryos proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>There was no sound of lunging boots, no shift of weight. The Ice Spirit simply slid across the mirror-floor like a shadow cast by lightning. The dark blue blade of the glacial rapier dissolved into a blur of silver-blue lines that filled the central aisle of the cathedral.</p>
 <p><em>Sub-Zero Cryo-Needles.</em></p>
 <p>Ren did not attempt to dodge. The air around him had already dropped past the threshold where human muscle could react with speed. Instead, he slammed the butt of his heartwood staff into the mirror-ice.</p>
@@ -6530,6 +6580,7 @@ Behind them, the footprints they left in the deep permafrost did not fill with d
 <hr>
 <h3>IV. Fluidity Beneath the Glaze</h3>
 <p>Ren fell to his knees.</p>
+<p>&quot;Let time and breath freeze in silence! Absolute Zero Glacial Stasis!&quot; Kryos proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>He didn&#39;t do it to surrender; he did it to lower his profile against the horizontal blizzard of needles. He slammed both palms—bleeding and torn where they had ripped free from the heartwood staff—directly onto the mirror-ice beneath him.</p>
 <p><em>I can&#39;t use Earth. Earth shatters under thermal shock.</em><br><em>I can&#39;t use Wood. Wood bursts when its sap turns to ice.</em></p>
 <p><em>What doesn&#39;t shatter when it freezes?</em></p>
@@ -6676,6 +6727,9 @@ It was not an echo. It was a second chime, identical in pitch but inverted in to
 
 "A core that holds four voices," a voice spoke.
 
+"In absolute stillness, true clarity is found. Feel the eternal frost." Kryos proclaimed, the primordial resonance vibrating through the leylines.
+
+
 The sound did not come from the left or the right. It came from the air itself—from the structural vibrations of the ice pillars, from the molecular stillness of the frozen atmosphere.
 
 In the center of the mirror floor, seventy yards ahead, the icy air condensed. It did not mist or swirl like steam; it crystallized. Fine, glittering dust suspended itself in midair, locking together with geometric perfection into the shape of a figure.
@@ -6723,6 +6777,9 @@ The Ice Spirit’s sapphire pupils flared.
 ### III. The Resonance of the Frozen Surface
 
 Before Ren could complete the breath needed to channel Sylvan’s green life-force, Kryos moved.
+
+"Fire burns itself out in frenzy, but frost endures through millennia." Kryos proclaimed, the primordial resonance vibrating through the leylines.
+
 
 There was no sound of lunging boots, no shift of weight. The Ice Spirit simply slid across the mirror-floor like a shadow cast by lightning. The dark blue blade of the glacial rapier dissolved into a blur of silver-blue lines that filled the central aisle of the cathedral.
 
@@ -6789,6 +6846,9 @@ The sanctuary became a storm of white light and ringing steel. Every surface was
 ### IV. Fluidity Beneath the Glaze
 
 Ren fell to his knees.
+
+"Let time and breath freeze in silence! Absolute Zero Glacial Stasis!" Kryos proclaimed, the primordial resonance vibrating through the leylines.
+
 
 He didn't do it to surrender; he did it to lower his profile against the horizontal blizzard of needles. He slammed both palms—bleeding and torn where they had ripped free from the heartwood staff—directly onto the mirror-ice beneath him.
 
@@ -6999,7 +7059,7 @@ They walked out onto the high glacier together—the heretic boy with the transl
 
 ---
 
-> *"A pure mirror reflects without judgement, but shatters if struck with anger."*`,stats:{vignette:{words:143,minutes:1},expanded:{words:5559,minutes:28}}},{number:17,title:"The Glacial Epoch",act:2,actTitle:"Act II: The Northern Ascent & The Shift of Loyalties",realm:"Kryosia Ice-Cap",spirit:"Kryos",element:"Ice & Absolute Zero",badge:"Chapter 17 • KRYOSIA ICE-CAP",elevation:"+3,600m Glacial Plateau",location:"Glacial Rift Sanctuary, Kryosia Ice-Cap",direction:"Northwest",image:"./images/regional_vistas/kryos_glacier.jpg",vignetteHtml:`<p>High upon the breath-robbing heights of the Kryosia Ice-Cap, three thousand six hundred meters above the sunlit world, the Glacial Rift Sanctuary lay enveloped in ethereal blue twilight. Thin, ozonic air bit violently against exposed skin, reeking of ancient frost and crushed mineral dust as gusts howled through ice arches. Standing amid the cathedral ruins, Ren braced his weary limbs as the vault shattered overhead. From the dark breach emerged a monstrous Shadow-Frost Titan of corrupted black ice, threatening to drown the northern leylines in eternal darkness.</p>
+> *"A pure mirror reflects without judgement, but shatters if struck with anger."*`,stats:{vignette:{words:143,minutes:1},expanded:{words:5619,minutes:28}}},{number:17,title:"The Glacial Epoch",act:2,actTitle:"Act II: The Northern Ascent & The Shift of Loyalties",realm:"Kryosia Ice-Cap",spirit:"Kryos",element:"Ice & Absolute Zero",badge:"Chapter 17 • KRYOSIA ICE-CAP",elevation:"+3,600m Glacial Plateau",location:"Glacial Rift Sanctuary, Kryosia Ice-Cap",direction:"Northwest",image:"./images/regional_vistas/kryos_glacier.jpg",vignetteHtml:`<p>High upon the breath-robbing heights of the Kryosia Ice-Cap, three thousand six hundred meters above the sunlit world, the Glacial Rift Sanctuary lay enveloped in ethereal blue twilight. Thin, ozonic air bit violently against exposed skin, reeking of ancient frost and crushed mineral dust as gusts howled through ice arches. Standing amid the cathedral ruins, Ren braced his weary limbs as the vault shattered overhead. From the dark breach emerged a monstrous Shadow-Frost Titan of corrupted black ice, threatening to drown the northern leylines in eternal darkness.</p>
 <p>As the titan struck, the Primordial Spirit Kryos touched Ren&#39;s Hollow Core, fusing diamond-ice mana into his elemental bracer alongside water, metal, earth, and wood. Ren activated the Glacial Epoch domain, plunging the sanctuary to absolute zero and encasing the battlefield in solid diamond permafrost. The immobilized behemoth shattered into harmless, sparkling snow upon the thaw. With Kryos joined to his vessel, the ice mists cleared to reveal the path toward the cloud-piercing Sky-Spire Peaks.</p>
 `,expandedHtml:`<h3>I. The Cathedral of Fractured Mirrors</h3>
 <p>The air at three thousand six hundred meters did not merely chill the skin; it bit into the bone with the precise, methodical hunger of a iron chisel.</p>
@@ -8437,6 +8497,7 @@ He looked over at Vane, a small, confident grin touching his lips.
 <hr>
 <h3>II. Whispers of the Azure Tempest</h3>
 <p>The platform was a natural amphitheater carved into the summit of the tallest needle peak in the range—a circle of glassified, white quartz six hundred paces across, hanging suspended over an abyss of clouds. In the center of the ring, where the cyan beam struck the stone, the wind did not blow; it spun in geometric, mathematical perfection.</p>
+<p>&quot;You cannot catch the wind, Ren, but you can spread your wings and fly with it!&quot; Zephyros proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>Ren stepped onto the quartz platform, his boots clicking softly against the glass-smooth surface. With every step, the pressure around his body shifted. Where the air outside the platform was thin and frigid, the interior of the circle hummed with hyper-dense kinetic potential. </p>
 <p>From the center of the cyan beam, a figure materialized.</p>
 <p>It did not possess a mortal shape, nor was it a beast of muscle and bone. Zephyros manifested as a towering, winged silhouette composed entirely of roaring wind-currents, luminous sky-blue light, and fragments of atmospheric glass. Its wings spanned forty yards, feathers made of compressed vacuum edges that hummed with a terrifying, hypersonic pitch. Floating around the entity were twin wind-glass daggers—blades forged from crystalized air pressure, vibrating so fast they appeared almost translucent, casting prismatic glints across the snow.</p>
@@ -8461,6 +8522,7 @@ He looked over at Vane, a small, confident grin touching his lips.
 <hr>
 <h3>III. The Convergence of Gale and Core</h3>
 <p>The Primordial Spirit of Air folded its massive cyan wings around itself. The twin wind-glass daggers dissolved into liquid currents of high-pressure air that swirled around Zephyros’s center.</p>
+<p>&quot;The sky has no borders, no shackles. As long as you breathe, you are unbound.&quot; Zephyros proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p><strong>&quot;ACCEPT THE COVENANT, HOLLOW ONE,&quot;</strong> Zephyros proclaimed. <strong>&quot;BECOME THE SLIPSTREAM. BECOME THE SHEAR. LET THE SKIES OF VAELEN BE YOUR PATHWAY, NOT YOUR PRISON.&quot;</strong></p>
 <p>Zephyros launched itself straight up into the stratosphere, then turned and plunged downward like a falling star of azure light. It did not strike Ren as an enemy, but drove itself directly into his exposed chest.</p>
 <p><em>THUUUUM.</em></p>
@@ -8490,6 +8552,7 @@ He looked over at Vane, a small, confident grin touching his lips.
 <hr>
 <h3>IV. Eye of the Hyper-Cyclone Unleashed</h3>
 <p>Ren walked to the absolute center of the quartz platform—the point where the leyline node intersected with the stratospheric sky. He planted his Sylvan Heartwood staff firmly into the glassified stone, driving its root-tipped base three inches into the floor.</p>
+<p>&quot;Ride the supersonic tempest! Hypersonic Cyclone Vortex!&quot; Zephyros proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>He reached deep within his Hollow Core, drawing simultaneously on three elemental threads: Sylvan for growth and root stability, Golgath for stone resonance, and Zephyros for atmospheric control.</p>
 <p>&quot;Zephyros,&quot; Ren whispered. &quot;Lend me the sky.&quot;</p>
 <p>A pillar of cyan energy erupted from Ren’s core, shooting straight up into the heavens like a spear of blue lightning. The shaft of light pierced the center of the dark entropic squall, seven thousand meters above them.</p>
@@ -8592,6 +8655,9 @@ Above them, the black-veined storm clouds split open like a dying eye. From the 
 
 The platform was a natural amphitheater carved into the summit of the tallest needle peak in the range—a circle of glassified, white quartz six hundred paces across, hanging suspended over an abyss of clouds. In the center of the ring, where the cyan beam struck the stone, the wind did not blow; it spun in geometric, mathematical perfection.
 
+"You cannot catch the wind, Ren, but you can spread your wings and fly with it!" Zephyros proclaimed, the primordial resonance vibrating through the leylines.
+
+
 Ren stepped onto the quartz platform, his boots clicking softly against the glass-smooth surface. With every step, the pressure around his body shifted. Where the air outside the platform was thin and frigid, the interior of the circle hummed with hyper-dense kinetic potential. 
 
 From the center of the cyan beam, a figure materialized.
@@ -8639,6 +8705,9 @@ Zephyros paused in mid-air, its winged form faltering for a fraction of a second
 ### III. The Convergence of Gale and Core
 
 The Primordial Spirit of Air folded its massive cyan wings around itself. The twin wind-glass daggers dissolved into liquid currents of high-pressure air that swirled around Zephyros’s center.
+
+"The sky has no borders, no shackles. As long as you breathe, you are unbound." Zephyros proclaimed, the primordial resonance vibrating through the leylines.
+
 
 **"ACCEPT THE COVENANT, HOLLOW ONE,"** Zephyros proclaimed. **"BECOME THE SLIPSTREAM. BECOME THE SHEAR. LET THE SKIES OF VAELEN BE YOUR PATHWAY, NOT YOUR PRISON."**
 
@@ -8697,6 +8766,9 @@ Vane lowered his sword slowly, his mouth slightly open. "By the gods... you didn
 ### IV. Eye of the Hyper-Cyclone Unleashed
 
 Ren walked to the absolute center of the quartz platform—the point where the leyline node intersected with the stratospheric sky. He planted his Sylvan Heartwood staff firmly into the glassified stone, driving its root-tipped base three inches into the floor.
+
+"Ride the supersonic tempest! Hypersonic Cyclone Vortex!" Zephyros proclaimed, the primordial resonance vibrating through the leylines.
+
 
 He reached deep within his Hollow Core, drawing simultaneously on three elemental threads: Sylvan for growth and root stability, Golgath for stone resonance, and Zephyros for atmospheric control.
 
@@ -8812,7 +8884,7 @@ Below him, the continent of Vaelen waited for the coming storm.
 
 ---
 
-> *"The fiercest hurricane is tamed not by opposing its force, but by occupying its stillness."*`,stats:{vignette:{words:155,minutes:1},expanded:{words:4070,minutes:20}}},{number:21,title:"The High Mountain Crossing",act:2,actTitle:"Act II: The Northern Ascent & The Shift of Loyalties",realm:"Sky-Spire Peaks",spirit:"Zephyros",element:"Air & Hypersonic Flight",badge:"Chapter 21 • SKY-SPIRE PEAKS",elevation:"+7,800m Cloudline Needle Peaks",location:"The Knife-Edge Alpine Bridge, Sky-Spire Peaks",direction:"North-Central",image:"./images/regional_vistas/sky_spire_air.jpg",vignetteHtml:`<p>High above the cloudline at nearly eight thousand meters, the Knife-Edge Alpine Bridge hung suspended over a fathomless abyss, its ancient marble-and-iron spans groaning against the howling gales of the Sky-Spire Peaks. Ren forged ahead into the blinding azure light, his lungs burning from the thin, frigid air while the omnipresent whisper of Zephyros rustled through his frost-dusted cloak. Beneath him lay an endless ocean of mist, yet ahead, the frost-bitten sky began to bleed into oppressive crimson hues as sulfuric vapors drifted up from the approaching northern ridge.</p>
+> *"The fiercest hurricane is tamed not by opposing its force, but by occupying its stillness."*`,stats:{vignette:{words:155,minutes:1},expanded:{words:4135,minutes:21}}},{number:21,title:"The High Mountain Crossing",act:2,actTitle:"Act II: The Northern Ascent & The Shift of Loyalties",realm:"Sky-Spire Peaks",spirit:"Zephyros",element:"Air & Hypersonic Flight",badge:"Chapter 21 • SKY-SPIRE PEAKS",elevation:"+7,800m Cloudline Needle Peaks",location:"The Knife-Edge Alpine Bridge, Sky-Spire Peaks",direction:"North-Central",image:"./images/regional_vistas/sky_spire_air.jpg",vignetteHtml:`<p>High above the cloudline at nearly eight thousand meters, the Knife-Edge Alpine Bridge hung suspended over a fathomless abyss, its ancient marble-and-iron spans groaning against the howling gales of the Sky-Spire Peaks. Ren forged ahead into the blinding azure light, his lungs burning from the thin, frigid air while the omnipresent whisper of Zephyros rustled through his frost-dusted cloak. Beneath him lay an endless ocean of mist, yet ahead, the frost-bitten sky began to bleed into oppressive crimson hues as sulfuric vapors drifted up from the approaching northern ridge.</p>
 <p>Mid-crossing, a silver-feathered mechanical falcon cut through the gale, unspooling a dire warning from Commander Vane regarding the Capital’s newly deployed suppression arrays. The message left Ren brooding over Master Kael’s disturbing ties to the Arch-Chancellor&#39;s commands, though he steeled his heart to demand the truth once he reached the Dawn Citadel. Channeling a burst of hypersonic spirit resonance from Zephyros to stabilize his precarious footing against the turbulent winds, Ren pressed onward into the sudden, sweltering thermal glow, stepping resolutely toward the ember-choked threshold of the Caldera of Cinders.</p>
 `,expandedHtml:`<h3>I. The Thread Above the Void</h3>
 <p>At seven thousand eight hundred meters above the surface of Planet Vaelen, the air did not merely blow; it cut. It was a dry, razor-honed expanse of near-vacuum, so thin and crystalline that every breath Ren took felt like swallowing handfuls of powdered glass.</p>
@@ -9807,6 +9879,7 @@ Together, surrounded by the swirling, protective mist of their cool micro-climat
 <hr>
 <h3>IV. A Hearth for the Boundless Flame</h3>
 <p>Ren lowered his hands. His palms were raw and red, his tunic torn and blackened at the chest, revealing the translucent emerald core glowing beneath his sternum. The core was no longer just green; within its deep, crystalline depths, a tiny, perfectly bright golden spark was floating, swirling slowly like a captured star.</p>
+<p>&quot;A spark ignited in darkness can set the world ablaze. Burn with me, summoner!&quot; Ignis proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>Ignis stared at Ren’s chest. He dropped the point of his seven-foot greatsword into the floor with a low <em>thud</em>. The molten metal fuller along the blade quieted, its harsh glare softening into a warm, amber hearth-light.</p>
 <p>&quot;You redirected it,&quot; Ignis whispered, taking a slow step forward. His dark basalt armor clinked softly, no longer flaring with chaotic plasma sparks. &quot;You didn&#39;t extinguish it. You didn&#39;t drown it in ocean water, and you didn&#39;t freeze it under Kryos&#39;s ice. You... you gave it a chimney.&quot;</p>
 <p>&quot;Fire isn&#39;t an enemy to be conquered, Ignis,&quot; Ren said quietly, his voice raspy from the heat, but filled with absolute conviction. He took a step toward the spirit, stepping over the cooling, hardened glass beneath his boots. &quot;Master Kael taught us that elements were forces to be bound, chained, and spent like gold coins. He treated fire like a weapon to burn away his enemies. But my master in Oakhaven... he taught me how to tend a winter hearth.&quot;</p>
@@ -10013,6 +10086,9 @@ The only sound remaining was the heavy, rhythmic thrumming of the molten lava ri
 
 Ren lowered his hands. His palms were raw and red, his tunic torn and blackened at the chest, revealing the translucent emerald core glowing beneath his sternum. The core was no longer just green; within its deep, crystalline depths, a tiny, perfectly bright golden spark was floating, swirling slowly like a captured star.
 
+"A spark ignited in darkness can set the world ablaze. Burn with me, summoner!" Ignis proclaimed, the primordial resonance vibrating through the leylines.
+
+
 Ignis stared at Ren’s chest. He dropped the point of his seven-foot greatsword into the floor with a low *thud*. The molten metal fuller along the blade quieted, its harsh glare softening into a warm, amber hearth-light.
 
 "You redirected it," Ignis whispered, taking a slow step forward. His dark basalt armor clinked softly, no longer flaring with chaotic plasma sparks. "You didn't extinguish it. You didn't drown it in ocean water, and you didn't freeze it under Kryos's ice. You... you gave it a chimney."
@@ -10147,7 +10223,7 @@ The hearth within his chest was lit, and the cold of the world could no longer r
 
 ---
 
-> *"The heart that fears the flame will never forge a lasting peace."*`,stats:{vignette:{words:164,minutes:1},expanded:{words:5070,minutes:25}}},{number:24,title:"The Ash-Binder's Duel",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Caldera of Cinders",spirit:"Ignis",element:"Fire & Plasma",badge:"Chapter 24 • CALDERA OF CINDERS",elevation:"+1,900m Active Caldera Rim",location:"The Slag Crucible, Caldera of Cinders",direction:"North-Central",image:"./images/regional_vistas/caldera_cinders.jpg",vignetteHtml:`<p>High along the nineteen-hundred-meter rim of the Caldera of Cinders, the Slag Crucible quivered with raw plasma and suffocating waves of sulfur. Acrid winds swept through the jagged obsidian spires, casting a lurid crimson glow over the bridge of solidified magma. Ren paused upon the threshold, his throat burning with brimstone as he readied his spirit for the domain of Ignis.</p>
+> *"The heart that fears the flame will never forge a lasting peace."*`,stats:{vignette:{words:164,minutes:1},expanded:{words:5093,minutes:25}}},{number:24,title:"The Ash-Binder's Duel",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Caldera of Cinders",spirit:"Ignis",element:"Fire & Plasma",badge:"Chapter 24 • CALDERA OF CINDERS",elevation:"+1,900m Active Caldera Rim",location:"The Slag Crucible, Caldera of Cinders",direction:"North-Central",image:"./images/regional_vistas/caldera_cinders.jpg",vignetteHtml:`<p>High along the nineteen-hundred-meter rim of the Caldera of Cinders, the Slag Crucible quivered with raw plasma and suffocating waves of sulfur. Acrid winds swept through the jagged obsidian spires, casting a lurid crimson glow over the bridge of solidified magma. Ren paused upon the threshold, his throat burning with brimstone as he readied his spirit for the domain of Ignis.</p>
 <p>Suddenly, Kaelen the Ash-Binder barred his path, his dark scythe crackling with necrotic soot and the fury of a discarded apprentice. Bitter truths spilled alongside his lethal swings, revealing how Master Kael had cast him aside when his core failed to hold multiple elements. Moved by profound sorrow, Ren bypassed violence, weaving Thalassor’s soothing tides with Sylvan’s life-giving spores to gently extinguish the corruptive fire without drawing blood. As the ash crumbled from Kaelen&#39;s forearms, the shattered youth collapsed in tears, forging an unspoken bond of brotherhood that cleared the way ahead.</p>
 `,expandedHtml:`<h3>I. The Crucible of Iron and Brimstone</h3>
 <p>The air at nineteen hundred meters above the surface of Planet Vaelen did not merely flow; it scorched, liquefied, and shredded the lungs of any mortal foolish enough to draw breath without spiritual protection. Here, upon the jagged lip of the Caldera of Cinders, the world was composed entirely of violence and light. Below the ancient basalt parapets lay the Slag Crucible—a massive, circular arena of dark, compressed vitrified stone suspended over a churning ocean of liquid iron and white-hot magmatic glass.</p>
@@ -10169,6 +10245,7 @@ The hearth within his chest was lit, and the cold of the world could no longer r
 <hr>
 <h3>II. The Ghost of Oakhaven</h3>
 <p>Ren felt a cold knot tighten in his stomach—a chill that had nothing to do with the freezing mountain winds outside the caldera rim and everything to do with the terrible realization dawning in his mind.</p>
+<p>&quot;Fear is fuel for the weak; passion is the fire that consumes impossibilities!&quot; Ignis proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>&quot;You...&quot; Ren breathed, taking half a step back before forcing his feet to plant firmly upon the slag floor. &quot;You’re Kaelen.&quot;</p>
 <p>The Ash-Binder let out a jagged, barking laugh that dissolved into a violent coughing fit. Black ash puffed from his lips, catching fire in the ambient heat before drifting down to sizzle against his chest armor. </p>
 <p>&quot;Kaelen,&quot; the boy repeated, tasting the name as if it were a bitter stone in his mouth. &quot;Yes. I remember when that word meant something. In the cottage. By the hearth. Before the ink was drawn upon my skin. Before he told me I was special. Before he told me I was chosen.&quot;</p>
@@ -10337,6 +10414,9 @@ The figure stopped twenty paces away. He raised his head, revealing a face so pa
 ### II. The Ghost of Oakhaven
 
 Ren felt a cold knot tighten in his stomach—a chill that had nothing to do with the freezing mountain winds outside the caldera rim and everything to do with the terrible realization dawning in his mind.
+
+"Fear is fuel for the weak; passion is the fire that consumes impossibilities!" Ignis proclaimed, the primordial resonance vibrating through the leylines.
+
 
 "You..." Ren breathed, taking half a step back before forcing his feet to plant firmly upon the slag floor. "You’re Kaelen."
 
@@ -10586,7 +10666,7 @@ He stepped off the edge of the slag bridge, launching himself into the soaring s
 
 ---
 
-> *"Anger is fire without a hearth; it consumes the hand that feeds it until nothing remains but ash."*`,stats:{vignette:{words:153,minutes:1},expanded:{words:5158,minutes:26}}},{number:25,title:"Supernova Cataclysm",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Caldera of Cinders",spirit:"Ignis",element:"Fire & Plasma",badge:"Chapter 25 • CALDERA OF CINDERS",elevation:"+1,900m Active Caldera Rim",location:"The Caldera Heart Conduit, Caldera of Cinders",direction:"North-Central",image:"./images/regional_vistas/caldera_cinders.jpg",vignetteHtml:`<p>High atop the nineteen-hundred-meter rim of the Caldera of Cinders, the stifling air reeked of acrid sulfur and scorched stone beneath an ash-choked sky illuminated by violent crimson pulses. At the cavernous threshold of the Caldera Heart Conduit, blistering thermal winds lashed against Ren as he stood weary yet resolute before the subterranean abyss. Below him, the central magma chamber boiled with unnatural fury, its primordial heat trapped beneath thrashing tendrils of dark matter that leeched the mountain&#39;s living fire.</p>
+> *"Anger is fire without a hearth; it consumes the hand that feeds it until nothing remains but ash."*`,stats:{vignette:{words:153,minutes:1},expanded:{words:5180,minutes:26}}},{number:25,title:"Supernova Cataclysm",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Caldera of Cinders",spirit:"Ignis",element:"Fire & Plasma",badge:"Chapter 25 • CALDERA OF CINDERS",elevation:"+1,900m Active Caldera Rim",location:"The Caldera Heart Conduit, Caldera of Cinders",direction:"North-Central",image:"./images/regional_vistas/caldera_cinders.jpg",vignetteHtml:`<p>High atop the nineteen-hundred-meter rim of the Caldera of Cinders, the stifling air reeked of acrid sulfur and scorched stone beneath an ash-choked sky illuminated by violent crimson pulses. At the cavernous threshold of the Caldera Heart Conduit, blistering thermal winds lashed against Ren as he stood weary yet resolute before the subterranean abyss. Below him, the central magma chamber boiled with unnatural fury, its primordial heat trapped beneath thrashing tendrils of dark matter that leeched the mountain&#39;s living fire.</p>
 <p>Channeling the radiant energy of Ignis into his Hollow Core, Ren bound the spirit to seal their covenant, unlocking the terrifying surge of Thermal Overdrive and the devastating Plasma Arc Flare. Together, summoner and spirit plunged their blazing greatsword into the conduit, unleashing a blinding solar blast that incinerated the entropic corruption without leaving ash behind. As the turbulent lava smoothed into peaceful golden streams, Ignis offered a solemn nod of respect, signaling the party to prepare for their descent toward the looming Thunderforge Plateau.</p>
 `,expandedHtml:`<h3>I. The Furnace of the World’s Core</h3>
 <p>The air at nineteen hundred meters above the baseline sea did not behave like air. It was a dense, suffocating soup of vaporized sulfur, microscopic obsidian flakes, and superheated thermals that scorched the back of the throat with every shallow breath. Here, at the summit of the Caldera of Cinders, the world felt incomplete—as if the gods had forgotten to lay down the final layer of cooling stone and left the subterranean furnace exposed to the bleeding sky.</p>
@@ -10649,6 +10729,7 @@ He stepped off the edge of the slag bridge, launching himself into the soaring s
 <hr>
 <h3>IV. Plasma Arc Flare and the Crucible Battle</h3>
 <p>The arc of the basalt greatsword sliced through three major dark-matter tendrils with a blinding hiss of superheated destruction. The void-matter did not just cut—it evaporated instantly into non-existence, unable to maintain its physical anchor against the intense solar heat radiating from the blade.</p>
+<p>&quot;Unleash the thermonuclear core! Thermonuclear Plasma Inferno!&quot; Ignis proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>However, the entropic core sensed its impending destruction.</p>
 <p>The black sphere above the heat vent swelled dramatically, absorbing the surrounding slag. It condensed into a towering, twisted abomination—an Entropic Volcanic Leviathan. The creature had no face, only a gaping maw of void-energy surrounded by jagged ribs of corrupted, purple-glowing obsidian. It let out a soundless scream that shattered the nearby basalt pillars, sending chunks of rock weighing several tons crashing down toward the platform.</p>
 <p>&quot;Vane! Clear the falling debris!&quot; Ren commanded, his voice ringing like a brass bell across the subterranean hall.</p>
@@ -10868,6 +10949,9 @@ His body surged with physical speed. The Rune molten basalt greatsword, which pr
 
 The arc of the basalt greatsword sliced through three major dark-matter tendrils with a blinding hiss of superheated destruction. The void-matter did not just cut—it evaporated instantly into non-existence, unable to maintain its physical anchor against the intense solar heat radiating from the blade.
 
+"Unleash the thermonuclear core! Thermonuclear Plasma Inferno!" Ignis proclaimed, the primordial resonance vibrating through the leylines.
+
+
 However, the entropic core sensed its impending destruction.
 
 The black sphere above the heat vent swelled dramatically, absorbing the surrounding slag. It condensed into a towering, twisted abomination—an Entropic Volcanic Leviathan. The creature had no face, only a gaping maw of void-energy surrounded by jagged ribs of corrupted, purple-glowing obsidian. It let out a soundless scream that shattered the nearby basalt pillars, sending chunks of rock weighing several tons crashing down toward the platform.
@@ -11021,7 +11105,7 @@ The path ahead was steep, dangerous, and plagued by the shadows of Master Kael�
 
 ---
 
-> *"When darkness festers in the deep, only the pure spark of creation can cleanse the wound."*`,stats:{vignette:{words:165,minutes:1},expanded:{words:4611,minutes:23}}},{number:26,title:"The High-Voltage Tempests",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Thunderforge Plateau",spirit:"Astraeus",element:"Lightning & Voltage",badge:"Chapter 26 • THUNDERFORGE PLATEAU",elevation:"+4,200m Electrified Highlands",location:"Conductor Spire Fields, Thunderforge Plateau",direction:"Northeast",image:"./images/regional_vistas/thunderforge_lightning.jpg",vignetteHtml:`<p>High upon the four-thousand-meter heights of the Thunderforge Plateau, the thin mountain air burned with the sharp, metallic bite of ozone and bitter atmospheric frost. Beneath a churning indigo sky, towering rune-etched spires channeled continuous violet-blue lightning down into the glowing granite grids beneath Ren&#39;s boots. The ground shook violently as corrupted dark currents surged through the ley-network, unleashing explosive arc discharges that shattered the crags into blinding shards of glass and stone.</p>
+> *"When darkness festers in the deep, only the pure spark of creation can cleanse the wound."*`,stats:{vignette:{words:165,minutes:1},expanded:{words:4627,minutes:23}}},{number:26,title:"The High-Voltage Tempests",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Thunderforge Plateau",spirit:"Astraeus",element:"Lightning & Voltage",badge:"Chapter 26 • THUNDERFORGE PLATEAU",elevation:"+4,200m Electrified Highlands",location:"Conductor Spire Fields, Thunderforge Plateau",direction:"Northeast",image:"./images/regional_vistas/thunderforge_lightning.jpg",vignetteHtml:`<p>High upon the four-thousand-meter heights of the Thunderforge Plateau, the thin mountain air burned with the sharp, metallic bite of ozone and bitter atmospheric frost. Beneath a churning indigo sky, towering rune-etched spires channeled continuous violet-blue lightning down into the glowing granite grids beneath Ren&#39;s boots. The ground shook violently as corrupted dark currents surged through the ley-network, unleashing explosive arc discharges that shattered the crags into blinding shards of glass and stone.</p>
 <p>To survive the lethal storm, Ren invoked Golgath&#39;s lithic transmutation to slice quartz-lined trenches through the stone, grounding the chaotic surges beneath their feet. Beside him, Valen bent the local magnetic flux lines into shimmering repulsor fields that deflected the remaining lightning strikes away from the party. Pushing through the deafening roar of the tempest, they forged ahead to the highest elevation, where the Great Lightning Conductor Spire pierced the clouds and Astraeus commanded the furious elemental storm.</p>
 `,expandedHtml:`<h3>I. The Sky-Shattered Shelf</h3>
 <p>The air at four thousand two hundred meters did not merely thin; it burned with the sharp, metallic tang of raw ion-shear and scorched copper.</p>
@@ -11580,6 +11664,7 @@ He took a single step forward, and before the sound of his boot hitting the ston
 <hr>
 <h3>II. The Lord of Ion and Arc</h3>
 <p>The Lightning Apex was a vast, circular plateau situated at precisely four thousand two hundred meters above sea level, hanging over the edge of the world like a shelf of dark glass jutting into the storm-choked stratosphere. </p>
+<p>&quot;Strike before the thunder is heard. Let your will flash across the horizon!&quot; Astraeus proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>At the center of this smooth, mirrored floor of dark obsidian sat six giant galvanic spires, arranged in a perfect hexagon. Each spire was tilted inward at a thirty-degree angle, pointing like the fingers of a colossal iron hand toward a central, floating focal point: an orb of concentrated, hyper-pressurized plasma that burned with a blinding, diamond-white radiance. The plasma orb did not rest on any pedestal; it was suspended purely by the colossal magnetic forces generated between the six surrounding spires, spinning with a continuous, terrifying whistle that sounded like a thousand dying whistling kettles.</p>
 <p>Standing at the edge of the floating plasma orb, his back turned to Ren, was a figure.</p>
 <p>He did not look like a ancient, decrepit spirit, nor did he possess the mountain-like, stony immensity of Golgath or the ethereal, detached serenity of Kryos. The Primordial Spirit of Lightning, Astraeus, appeared as an eighteen-year-old youth with a lithe, whip-cord frame, standing casually at the edge of absolute destruction as if he were resting beside a quiet garden pond.</p>
@@ -11601,6 +11686,7 @@ He took a single step forward, and before the sound of his boot hitting the ston
 <hr>
 <h3>III. The Velocity of Steel and Light</h3>
 <p>Before the final word had even finished echoing off the surrounding cobalt spires, Astraeus vanished.</p>
+<p>&quot;We are the synapse connecting the clouds to the earth. Feel the hundred million volts!&quot; Astraeus proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>There was no physical movement, no wind resistance, no wind-up of muscles. There was only a blinding, violet flash of light and a vacuum implosion that sounded like a thunderclap occurring inside Ren’s skull—<em>Flash-Step Catastrophe</em>.</p>
 <p>Ren’s survival instincts, honed by months of brutal life-or-death battles against primordial beasts and high-tier inquisitors, fired instantly. He swung his ironwood staff upward in a blind, desperate defensive arc, attempting to weave a <em>Bramble Aegis</em> combined with a <em>Diamond Aegis Sanctuary</em>.</p>
 <p><em>CRUNCH.</em></p>
@@ -11762,6 +11848,9 @@ Finally, after two hours of relentless vertical climbing, the glass staircase le
 
 The Lightning Apex was a vast, circular plateau situated at precisely four thousand two hundred meters above sea level, hanging over the edge of the world like a shelf of dark glass jutting into the storm-choked stratosphere. 
 
+"Strike before the thunder is heard. Let your will flash across the horizon!" Astraeus proclaimed, the primordial resonance vibrating through the leylines.
+
+
 At the center of this smooth, mirrored floor of dark obsidian sat six giant galvanic spires, arranged in a perfect hexagon. Each spire was tilted inward at a thirty-degree angle, pointing like the fingers of a colossal iron hand toward a central, floating focal point: an orb of concentrated, hyper-pressurized plasma that burned with a blinding, diamond-white radiance. The plasma orb did not rest on any pedestal; it was suspended purely by the colossal magnetic forces generated between the six surrounding spires, spinning with a continuous, terrifying whistle that sounded like a thousand dying whistling kettles.
 
 Standing at the edge of the floating plasma orb, his back turned to Ren, was a figure.
@@ -11803,6 +11892,9 @@ Astraeus slammed the butt of his polearm against the floor. A shockwave of pure 
 ### III. The Velocity of Steel and Light
 
 Before the final word had even finished echoing off the surrounding cobalt spires, Astraeus vanished.
+
+"We are the synapse connecting the clouds to the earth. Feel the hundred million volts!" Astraeus proclaimed, the primordial resonance vibrating through the leylines.
+
 
 There was no physical movement, no wind resistance, no wind-up of muscles. There was only a blinding, violet flash of light and a vacuum implosion that sounded like a thunderclap occurring inside Ren’s skull—*Flash-Step Catastrophe*.
 
@@ -12040,7 +12132,7 @@ He turned toward the eastern ledge of the Thunderforge Apex, took a single step,
 
 ---
 
-> *"Speed without perception is chaos; perception without action is paralysis."*`,stats:{vignette:{words:152,minutes:1},expanded:{words:5403,minutes:27}}},{number:28,title:"The Railgun Discharge",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Thunderforge Plateau",spirit:"Astraeus",element:"Lightning & Voltage",badge:"Chapter 28 • THUNDERFORGE PLATEAU",elevation:"+4,200m Electrified Highlands",location:"The Storm Array, Thunderforge Plateau",direction:"Northeast",image:"./images/regional_vistas/thunderforge_lightning.jpg",vignetteHtml:`<p>At an elevation of four thousand two hundred meters, the sky above the Thunderforge Plateau churned with violent violet tendrils and the suffocating stench of scorched ozone. Freezing mountain gales swept across the Storm Array, where jagged monoliths hummed under the weight of an escalating tempest. Standing at the precipice amidst the blinding glare of unstable ley-arcs, Ren clung to consciousness as a massive Entropic Storm-Beast of black lightning gorged itself on the continent&#39;s electrical mana.</p>
+> *"Speed without perception is chaos; perception without action is paralysis."*`,stats:{vignette:{words:152,minutes:1},expanded:{words:5449,minutes:27}}},{number:28,title:"The Railgun Discharge",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Thunderforge Plateau",spirit:"Astraeus",element:"Lightning & Voltage",badge:"Chapter 28 • THUNDERFORGE PLATEAU",elevation:"+4,200m Electrified Highlands",location:"The Storm Array, Thunderforge Plateau",direction:"Northeast",image:"./images/regional_vistas/thunderforge_lightning.jpg",vignetteHtml:`<p>At an elevation of four thousand two hundred meters, the sky above the Thunderforge Plateau churned with violent violet tendrils and the suffocating stench of scorched ozone. Freezing mountain gales swept across the Storm Array, where jagged monoliths hummed under the weight of an escalating tempest. Standing at the precipice amidst the blinding glare of unstable ley-arcs, Ren clung to consciousness as a massive Entropic Storm-Beast of black lightning gorged itself on the continent&#39;s electrical mana.</p>
 <p>Before total collapse ensued, the Primordial Spirit Astraeus bound his soul to Ren, searing high-frequency voltage into the summoner&#39;s Hollow Core and unlocking the kinetic fury of Flash-Step Catastrophe. Channeling this divine surge, Ren magnetically aligned Valen’s chrome lances, unleashing a hypersonic Superconductive Rail-Discharge that pierced the beast&#39;s core with absolute precision. The violent storm abruptly vanished, leaving the leylines humming with soothing sapphire light while the shimmering Dawn Meridian bloomed across the eastern horizon.</p>
 `,expandedHtml:`<h3>I. The Ozone Eclipse</h3>
 <p>The air at four thousand two hundred meters did not merely thin; it sang with a violent, metallic resonance that tasted of copper and split pine. </p>
@@ -12106,6 +12198,7 @@ He turned toward the eastern ledge of the Thunderforge Apex, took a single step,
 <hr>
 <h3>IV. An Alloy of Thunder</h3>
 <p>The Entropic Fulgurite Behemoth roared—a sound like a grinding tectonic plate mixed with the screech of dying iron—sensing the sudden change in the atmosphere. Realizing that its prey had transformed into a predator, the black monstrosity released its grip on Astraeus and turned its massive, cloud-borne mass toward Ren.</p>
+<p>&quot;Rend the skies asunder! Giga-Volt Thunderstorm Cataclysm!&quot; Astraeus proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>From its central void-maw, it gathered a concentrated beam of black-purple entropic death, drawing in all the corrupted static from the twelve surrounding towers. The air around the pylon began to liquefy under the extreme localized temperature.</p>
 <p>&quot;Ren!&quot; Vane’s voice reached him from below, faint beneath the thunder. &quot;It’s charging a total annihilation wave! Get off the beam!&quot;</p>
 <p>Ren did not move an inch.</p>
@@ -12308,6 +12401,9 @@ Ren opened his eyes. They were no longer brown, nor merely emerald; they burned 
 
 The Entropic Fulgurite Behemoth roared—a sound like a grinding tectonic plate mixed with the screech of dying iron—sensing the sudden change in the atmosphere. Realizing that its prey had transformed into a predator, the black monstrosity released its grip on Astraeus and turned its massive, cloud-borne mass toward Ren.
 
+"Rend the skies asunder! Giga-Volt Thunderstorm Cataclysm!" Astraeus proclaimed, the primordial resonance vibrating through the leylines.
+
+
 From its central void-maw, it gathered a concentrated beam of black-purple entropic death, drawing in all the corrupted static from the twelve surrounding towers. The air around the pylon began to liquefy under the extreme localized temperature.
 
 "Ren!" Vane’s voice reached him from below, faint beneath the thunder. "It’s charging a total annihilation wave! Get off the beam!"
@@ -12446,7 +12542,7 @@ The storm was over. The sky was open. And the final ascent had begun.
 
 ---
 
-> *"When magnetic force guides the spark, distance and armor become meaningless."*`,stats:{vignette:{words:151,minutes:1},expanded:{words:4223,minutes:21}}},{number:29,title:"The Dawn Meridian",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Dawn Citadel",spirit:"Sol-Aureus",element:"Light & Solar Radiance",badge:"Chapter 29 • DAWN CITADEL",elevation:"+10,000m Stratosphere",location:"The Dawn Meridian, Eastern Stratospheric Skyline",direction:"Far East Stratosphere",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Ren set foot upon the Dawn Meridian, a soaring causeway of solidified golden light arching into the upper stratosphere. A crisp, ozone-rich breeze filled his lungs as he ascended past ten thousand meters, leaving the world below shrouded in golden cloudbanks that revealed the soft curvature of Planet Vaelen. Gravity softened to a weightless shimmer beneath his boots, guided by floating celestial rings of solar crystal toward the floating sanctuaries of the Dawn Citadel. Above, white marble colonnades and golden domes glittered within perpetual, warm solar radiance.</p>
+> *"When magnetic force guides the spark, distance and armor become meaningless."*`,stats:{vignette:{words:151,minutes:1},expanded:{words:4239,minutes:21}}},{number:29,title:"The Dawn Meridian",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Dawn Citadel",spirit:"Sol-Aureus",element:"Light & Solar Radiance",badge:"Chapter 29 • DAWN CITADEL",elevation:"+10,000m Stratosphere",location:"The Dawn Meridian, Eastern Stratospheric Skyline",direction:"Far East Stratosphere",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Ren set foot upon the Dawn Meridian, a soaring causeway of solidified golden light arching into the upper stratosphere. A crisp, ozone-rich breeze filled his lungs as he ascended past ten thousand meters, leaving the world below shrouded in golden cloudbanks that revealed the soft curvature of Planet Vaelen. Gravity softened to a weightless shimmer beneath his boots, guided by floating celestial rings of solar crystal toward the floating sanctuaries of the Dawn Citadel. Above, white marble colonnades and golden domes glittered within perpetual, warm solar radiance.</p>
 <p>As Ren approached the Gates of Auroral Dawn, the radiant spirit resonance of Sol-Aureus blazed within his soul, setting his summoner marks aflame with solar light. Celestial choristers perched atop the grand sunburst portal welcomed the Unbound Summoner with a glorious anthem, weaving luminous spells that purged the last lingering shadows of his former trials. With a solemn thunder, the golden portals swung open, inviting him into the sunlit heart of the domain to face the crucible of light.</p>
 `,expandedHtml:`<h3>I. The Hard-Light at the Rim of the World</h3>
 <p>The Eastern Rim of the Thunderforge Plateau ended not in a gentle slope or a crumbling precipice, but in an absolute, sheer abyss that plunged four thousand meters into the churning indigo depths of the Sapphire Gulf. Here, at the easternmost edge of the known continent, the sky was not merely an expanse above; it was an overwhelming, living presence. Cold, rarefied winds whipped across the dark basalt lip, carrying with them the sharp ozone tang of Astraeus’s storm-lands and the acrid, sulfurous heat that still drifted from Ignis’s volcanic heartland far to the west.</p>
@@ -12895,6 +12991,7 @@ Behind him, on the soaring causeway of golden light that stretched down into the
 <hr>
 <h3>IV. The Trial of Photonic Truth</h3>
 <p>The sensation was not pain. It was infinitely worse.</p>
+<p>&quot;Darkness cannot extinguish light; it merely reveals where the dawn must rise.&quot; Sol-Aureus proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>It was absolute exposure.</p>
 <p>The instant Ren&#39;s foot crossed the threshold of the column of light, his physical body seemed to dissolve. He was no longer aware of his boots, his cloak, or the feel of the thin stratospheric air. The light flooded into his senses, stripping away the outer layers of his consciousness like an onion being peeled by a surgeon&#39;s scalpel.</p>
 <p><em>FLASH.</em></p>
@@ -13110,6 +13207,9 @@ He plunged his body straight into the center of the solar beam.
 
 The sensation was not pain. It was infinitely worse.
 
+"Darkness cannot extinguish light; it merely reveals where the dawn must rise." Sol-Aureus proclaimed, the primordial resonance vibrating through the leylines.
+
+
 It was absolute exposure.
 
 The instant Ren's foot crossed the threshold of the column of light, his physical body seemed to dissolve. He was no longer aware of his boots, his cloak, or the feel of the thin stratospheric air. The light flooded into his senses, stripping away the outer layers of his consciousness like an onion being peeled by a surgeon's scalpel.
@@ -13270,7 +13370,7 @@ Ren looked down the golden staircase. He felt the nine elemental chords humming 
 
 He adjusted the strap of his mantle, turned to Sol-Aureus with a respectful nod, and stepped onto the golden stairs, descending into the clouds toward his final destiny.
 
-> *"The light does not conceal flaws; it transforms them into facets of understanding."*`,stats:{vignette:{words:161,minutes:1},expanded:{words:5167,minutes:26}}},{number:31,title:"Dawn Sanctuary",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Dawn Citadel",spirit:"Sol-Aureus",element:"Light & Solar Radiance",badge:"Chapter 31 • DAWN CITADEL",elevation:"+10,000m Stratosphere",location:"The High Celestial Altar, Dawn Citadel",direction:"Far East Stratosphere",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>High within the stratosphere ten thousand meters above Vaelen, the High Celestial Altar of the Dawn Citadel floated in incandescent solar brilliance. Ren stood amidst the bone-chilling air, where the sharp scent of pure ozone mingled with the warmth of an unshielded sun. Above the churning cloud sea, the sky burned in spun gold and crystalline white, casting a blinding luminosity upon the marble sanctuary. Trembling under the celestial pressure, the young summoner approached the altar, his breath frosting in the frigid wind as he summoned the supreme spirit of light.</p>
+> *"The light does not conceal flaws; it transforms them into facets of understanding."*`,stats:{vignette:{words:161,minutes:1},expanded:{words:5188,minutes:26}}},{number:31,title:"Dawn Sanctuary",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Dawn Citadel",spirit:"Sol-Aureus",element:"Light & Solar Radiance",badge:"Chapter 31 • DAWN CITADEL",elevation:"+10,000m Stratosphere",location:"The High Celestial Altar, Dawn Citadel",direction:"Far East Stratosphere",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>High within the stratosphere ten thousand meters above Vaelen, the High Celestial Altar of the Dawn Citadel floated in incandescent solar brilliance. Ren stood amidst the bone-chilling air, where the sharp scent of pure ozone mingled with the warmth of an unshielded sun. Above the churning cloud sea, the sky burned in spun gold and crystalline white, casting a blinding luminosity upon the marble sanctuary. Trembling under the celestial pressure, the young summoner approached the altar, his breath frosting in the frigid wind as he summoned the supreme spirit of light.</p>
 <p>Sol-Aureus descended to infuse Ren’s chest with golden solar mana, manifesting six miniature wings of light behind his shoulders. Channeling the Dawn Sanctuary aura, Ren burned away the corrupted atmospheric strata and restored Vaelen&#39;s light barrier. Yet the primordial spirit warned that divine light alone could not heal the realm without its dark counterpart, Necromancy and the Void, to maintain balance. With this heavy truth lingering in his mind, Ren turned toward the abyss, preparing to descend from the clouds toward the dark waters of the Southern Ocean.</p>
 `,expandedHtml:`<h3>I. The Solar Crucible at the Edge of the World</h3>
 <p>Ten thousand meters above the fractured surface of Planet Vaelen, atmosphere dissolved into the void of the upper sky. At this vertical threshold, where the troposphere thinned into a razor-cold void and the dark vault of space stared down with unblinking stellar eyes, hung the Dawn Citadel. It was not built of mortal masonry or quarried rock, but of solarized quartz and solidified dawn-fire, levitated by ancient ley-gravitational conduits that had hummed uninterrupted since the First Age of Creation.</p>
@@ -13327,6 +13427,7 @@ He adjusted the strap of his mantle, turned to Sol-Aureus with a respectful nod,
 <hr>
 <h3>III. Radiance Over the Atmosphere: Dawn Sanctuary</h3>
 <p>Ren walked to the edge of the alabaster altar and looked down toward the horizon of Planet Vaelen.</p>
+<p>&quot;Walk in the solar radiance, Ren. Our light shall guide the lost back home.&quot; Sol-Aureus proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>From his incredible height at +10,000 meters, the curvature of the world was starkly visible. But the pristine blue envelope of the planet’s upper atmosphere was no longer clean. To the southeast, creeping across thousands of leagues of high-altitude clouds, was a foul, violet-black miasma. It looked like ink spilled into clear water—a sprawling, jagged veil of entropic decay that was slowly suffocating the natural ley-currents of the sky.</p>
 <p>Where the black miasma touched the upper clouds, the light of the sun was devoured, leaving behind dead, gray expanses of ash-laden mist that dropped corrupted frost down onto the oceans below.</p>
 <p>&quot;The Entropic Desolator&#39;s wake,&quot; Ren realized, his jaw setting tight. &quot;Aethelgard-Prime’s presence is bleeding through the seals from the Abyssal Hollow. If that miasma covers the stratosphere, it will block the solar mana completely. The Heartwood will wither. The oceans will turn black.&quot;</p>
@@ -13348,6 +13449,7 @@ He adjusted the strap of his mantle, turned to Sol-Aureus with a respectful nod,
 <hr>
 <h3>IV. The Dual Loom: The Truth of Light and Shadow</h3>
 <p>The great geometric titan had fully dissolved, but its presence remained suspended in the atmosphere—a warm, watchful intelligence that hovered in the light particles surrounding the High Altar.</p>
+<p>&quot;Shine with the brilliance of a million suns! Supernova Solar Radiance!&quot; Sol-Aureus proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>Ren walked back toward the center of the platform, his hard-light wings folding neatly behind his back like six radiant blades tucked along his spine. He sat down cross-legged on the alabaster floor, taking a moment to center his core.</p>
 <p>&quot;You speak of the deep,&quot; Ren said, looking toward the far southeast horizon, where the pristine blue sky met a dark, jagged line of ink-black sea. &quot;You mean Nyx-Malakor.&quot;</p>
 <p>&quot;The Tenth Spirit,&quot; Sol-Aureus replied softly. &quot;The Dark Necromancy and Void. The spirit that dwells at negative two thousand two hundred meters, in the silent depths of the Abyssal Hollow.&quot;</p>
@@ -13514,6 +13616,9 @@ Ren pushed himself up from his knees, his six wings flexing, casting long, brill
 
 Ren walked to the edge of the alabaster altar and looked down toward the horizon of Planet Vaelen.
 
+"Walk in the solar radiance, Ren. Our light shall guide the lost back home." Sol-Aureus proclaimed, the primordial resonance vibrating through the leylines.
+
+
 From his incredible height at +10,000 meters, the curvature of the world was starkly visible. But the pristine blue envelope of the planet’s upper atmosphere was no longer clean. To the southeast, creeping across thousands of leagues of high-altitude clouds, was a foul, violet-black miasma. It looked like ink spilled into clear water—a sprawling, jagged veil of entropic decay that was slowly suffocating the natural ley-currents of the sky.
 
 Where the black miasma touched the upper clouds, the light of the sun was devoured, leaving behind dead, gray expanses of ash-laden mist that dropped corrupted frost down onto the oceans below.
@@ -13555,6 +13660,9 @@ Ren stood upon the altar, his chest heaving, his six wings blazing like mini-sun
 ### IV. The Dual Loom: The Truth of Light and Shadow
 
 The great geometric titan had fully dissolved, but its presence remained suspended in the atmosphere—a warm, watchful intelligence that hovered in the light particles surrounding the High Altar.
+
+"Shine with the brilliance of a million suns! Supernova Solar Radiance!" Sol-Aureus proclaimed, the primordial resonance vibrating through the leylines.
+
 
 Ren walked back toward the center of the platform, his hard-light wings folding neatly behind his back like six radiant blades tucked along his spine. He sat down cross-legged on the alabaster floor, taking a moment to center his core.
 
@@ -13658,7 +13766,7 @@ With a single beat of his radiant wings, he folded his hard-light constructs aro
 
 ---
 
-> *"Dawn is not the defeat of night, but the promise that every darkness gives way to light."*`,stats:{vignette:{words:179,minutes:1},expanded:{words:4460,minutes:22}}},{number:32,title:"The Archives of the First Age",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Dawn Citadel",spirit:"Sol-Aureus",element:"Light & Solar Radiance",badge:"Chapter 32 • DAWN CITADEL",elevation:"+10,000m Stratosphere",location:"The Celestial Scriptorium, Dawn Citadel",direction:"Far East Stratosphere",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Suspended ten thousand meters in the stratosphere, the Celestial Scriptorium shimmered within the Dawn Citadel. Piercing solar light streamed through towering crystal panes, illuminating five millennia of perfectly preserved sun-scrolls. Frost clung to the outer stone, yet the high vault smelled of ozone, frankincense, and Sol-Aureus’s solar radiance. Breathless from the thin, freezing air, Ren entered the silent archive, his spirit core humming in answer to the ancient sky resonance beneath his feet.</p>
+> *"Dawn is not the defeat of night, but the promise that every darkness gives way to light."*`,stats:{vignette:{words:179,minutes:1},expanded:{words:4503,minutes:23}}},{number:32,title:"The Archives of the First Age",act:3,actTitle:"Act III: The Elemental Crucible & Sins of the Past",realm:"Dawn Citadel",spirit:"Sol-Aureus",element:"Light & Solar Radiance",badge:"Chapter 32 • DAWN CITADEL",elevation:"+10,000m Stratosphere",location:"The Celestial Scriptorium, Dawn Citadel",direction:"Far East Stratosphere",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Suspended ten thousand meters in the stratosphere, the Celestial Scriptorium shimmered within the Dawn Citadel. Piercing solar light streamed through towering crystal panes, illuminating five millennia of perfectly preserved sun-scrolls. Frost clung to the outer stone, yet the high vault smelled of ozone, frankincense, and Sol-Aureus’s solar radiance. Breathless from the thin, freezing air, Ren entered the silent archive, his spirit core humming in answer to the ancient sky resonance beneath his feet.</p>
 <p>Unfurling the Chronicle of Aethelgard-Prime, Ren learned of the First Summoner, whose tragic attempt to bond nine spirits faltered when mortals rejected the tenth element of Void. Horror struck when Ren uncovered Master Kael’s astrological seal upon eight-hundred-year-old treatises detailing forbidden core harvesting rituals. As Sol-Aureus flared with blinding light, Ren forged his ultimate resolve: he would not repeat the past, but embrace all ten elements in harmony as the true Unbound.</p>
 `,expandedHtml:`<h3>I. The Stratospheric Sanctuary of Sol-Aureus</h3>
 <p>At an elevation of ten thousand meters above the fractured terra of Planet Vaelen, the air did not merely grow thin; it ceased to belong to the mortal realm entirely. Here, in the absolute heights of the stratosphere, the sky abandoned its familiar canopy of soft summer blue and deepened into a profound, abyss-tinted indigo—a velvet mantle bordering the darkness of the outer void. The sun did not shine from this altitude so much as it reigned, a blinding orb of pure, unfiltered radiance that cast knife-edge shadows across the translucent, gold-veined platforms of the Dawn Citadel.</p>
@@ -14979,6 +15087,7 @@ Behind him, the *Astra-Keel* rested safely on the beach, its light illuminating 
 <hr>
 <h3>IV. The Reciprocity of Decay and Bloom</h3>
 <p>Ren looked at the extended silver gauntlet.</p>
+<p>&quot;In the deep void, stars are born. Do not fear the shadows; master their silence.&quot; Nyx-Malakor proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>Around them, the subterranean void canyon seemed to draw its breath. The floating obsidian monoliths in the high vault hung motionless in their gravity-wells. The glowing amethyst geodes pulsed in a slow, synchronized rhythm that matched the beating of Ren’s own heart. Along the basalt shore, the liquid shadow tide ceased its whispering, smoothing into a flawless, jet-black mirror that reflected the purple starlight from above.</p>
 <p>Ren did not look away from Nyx-Malakor’s hollow, amethyst-lined eyes. He thought of his journey—the long, agonizing miles he had walked across Planet Vaelen since the quiet morning his home in Oakhaven had been shattered.</p>
 <p>He remembered the smell of wet earth in Heartwood Vale, where he had first felt the gentle, sap-thick heartbeat of Sylvan. He remembered the bone-crushing pressure of the Ironheart Plateaus, where Golgath had tested the density of his resolve beneath thousands of tons of amber basalt. He remembered the terrifying, razor-edged storm of chrome blades in the Ferrum Spires, and the moment Commander Vane of the Iron Orthodoxy had stood over him with a drawn broadsword, calling him a &quot;Hollow Heretic&quot; who threatened the holy order of the world.</p>
@@ -15141,6 +15250,9 @@ Nyx-Malakor reached out his pale, metal-gloved right hand. "Tell me, Ren Ashveil
 
 Ren looked at the extended silver gauntlet.
 
+"In the deep void, stars are born. Do not fear the shadows; master their silence." Nyx-Malakor proclaimed, the primordial resonance vibrating through the leylines.
+
+
 Around them, the subterranean void canyon seemed to draw its breath. The floating obsidian monoliths in the high vault hung motionless in their gravity-wells. The glowing amethyst geodes pulsed in a slow, synchronized rhythm that matched the beating of Ren’s own heart. Along the basalt shore, the liquid shadow tide ceased its whispering, smoothing into a flawless, jet-black mirror that reflected the purple starlight from above.
 
 Ren did not look away from Nyx-Malakor’s hollow, amethyst-lined eyes. He thought of his journey—the long, agonizing miles he had walked across Planet Vaelen since the quiet morning his home in Oakhaven had been shattered.
@@ -15231,7 +15343,7 @@ Ren turned toward the ascending shaft of light. He did not run. He did not rush 
 
 Behind him, across the dark basalt shores of the Abyssal Hollow, the purple soul-flames danced in silent celebration, casting their starlight up through the deep earth to greet the coming dawn.
 
-> *"Death is not the enemy of life; it is the soil from which the next blossom rises."*`,stats:{vignette:{words:156,minutes:1},expanded:{words:4146,minutes:21}}},{number:36,title:"The Harmony of Life and Death",act:4,actTitle:"Act IV: The Great Betrayal, The Predecessor & Final Genesis",realm:"The Abyssal Hollow",spirit:"Nyx-Malakor",element:"Dark Necromancy & Void",badge:"Chapter 36 • THE ABYSSAL HOLLOW",elevation:"-2,200m Subterranean Void Canyon",location:"The Void Geode Nexus, Abyssal Hollow",direction:"Far Southeast Island",image:"./images/regional_vistas/abyssal_dark.jpg",vignetteHtml:`<p>Deep within the Abyssal Hollow, two thousand two hundred meters beneath the surface, the suffocating silence of the Void Geode Nexus hung thick with the scent of subterranean ozone and ancient, damp earth. Massive amethyst geodes framed an abyssal sea, casting a dim violet twilight through the cavernous gloom. At the heart of this subterranean void, Ren stood upon an obsidian precipice, his spirit attuned to the freezing currents as he prepared to receive the realm&#39;s ultimate power.</p>
+> *"Death is not the enemy of life; it is the soil from which the next blossom rises."*`,stats:{vignette:{words:156,minutes:1},expanded:{words:4170,minutes:21}}},{number:36,title:"The Harmony of Life and Death",act:4,actTitle:"Act IV: The Great Betrayal, The Predecessor & Final Genesis",realm:"The Abyssal Hollow",spirit:"Nyx-Malakor",element:"Dark Necromancy & Void",badge:"Chapter 36 • THE ABYSSAL HOLLOW",elevation:"-2,200m Subterranean Void Canyon",location:"The Void Geode Nexus, Abyssal Hollow",direction:"Far Southeast Island",image:"./images/regional_vistas/abyssal_dark.jpg",vignetteHtml:`<p>Deep within the Abyssal Hollow, two thousand two hundred meters beneath the surface, the suffocating silence of the Void Geode Nexus hung thick with the scent of subterranean ozone and ancient, damp earth. Massive amethyst geodes framed an abyssal sea, casting a dim violet twilight through the cavernous gloom. At the heart of this subterranean void, Ren stood upon an obsidian precipice, his spirit attuned to the freezing currents as he prepared to receive the realm&#39;s ultimate power.</p>
 <p>The primordial spirit Nyx-Malakor merged his violet void essence into Ren’s chest, sealing the tenth element and binding the full Decarchy into radiant equilibrium. Unleashing the Abyssal World-Bloom, Ren channeled the twin arts of Life and Death, sprouting a luminous spectral World Tree that bathed the dark canyon in translucent emerald brilliance while purifying resting souls. His Hollow Core crystallized into absolute perfection, illuminating the subterranean sea just as a seismic shockwave rocked the continent. Ren’s tracking compass flared with sudden urgency, relaying Master Kael’s commanding summons for his immediate return to the Capital High Altar.</p>
 `,expandedHtml:`<h3>I. The Shadow-Sown Cathedral</h3>
 <p>Two thousand two hundred meters beneath the surface of Planet Vaelen, the world did not breathe so much as it exhaled ancient rust and frozen shadows.</p>
@@ -15282,6 +15394,7 @@ Behind him, across the dark basalt shores of the Abyssal Hollow, the purple soul
 <hr>
 <h3>III. The Spire of Living Shadows</h3>
 <p>Ren landed softly upon his feet, his leather boots striking the black quartz without making a sound. The sensation of absolute wholeness was unlike anything he had ever imagined. The coldness of the Abyssal Hollow no longer chilled his blood; it was simply a friend, a quiet shadow resting at the feet of his inner sun.</p>
+<p>&quot;All light eventually returns to the abyss. In darkness lies the true cradle of all things.&quot; Nyx-Malakor proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>&quot;Thank you, Nyx-Malakor,&quot; Ren said softly, raising his hands. </p>
 <p>He looked at his palms. On his right palm, the pale green leaf-mark of Sylvan bloomed with gentle light; on his left palm, the dark violet soul-rune of Nyx-Malakor burned like an ember of dark velvet.</p>
 <p>&quot;Now,&quot; Ren murmured, looking around at the desolate, black-walled geode canyon. &quot;Let us show this forgotten depth what happens when life and death meet in balance.&quot;</p>
@@ -15310,6 +15423,7 @@ Behind him, across the dark basalt shores of the Abyssal Hollow, the purple soul
 <hr>
 <h3>IV. The Perfect Vessel</h3>
 <p>Ren knelt beside the edge of the subterranean lake, dipping his hand into the clear, shimmering water. The black brine had been transformed; it was now crystal-clear, reflecting the luminous violet lotus flowers blooming above like stars fallen into an underground sky.</p>
+<p>&quot;Collapse the fabric of space! Event Horizon Gravitational Singularity!&quot; Nyx-Malakor proclaimed, the primordial resonance vibrating through the leylines.</p>
 <p>He looked at his reflection in the water.</p>
 <p>The boy staring back at him was barely recognizable as the frightened apprentice who had fled Oakhaven months ago with nothing but a herb-pouch, a battered living-wood staff, and a brass tracking compass. His jawline was firmer, carved by hardship and resolve. His shoulders were broad, bearing the invisible mantle of ten primordial spirits. His eyes held the depth of the ocean, the heat of the volcano, the speed of the wind, and the quiet peace of the void.</p>
 <p>He placed his hand over his sternum again, looking down into his own chest.</p>
@@ -15508,6 +15622,9 @@ Nyx-Malakor withdrew his hand, bowing his towering form until his faceless hood 
 
 Ren landed softly upon his feet, his leather boots striking the black quartz without making a sound. The sensation of absolute wholeness was unlike anything he had ever imagined. The coldness of the Abyssal Hollow no longer chilled his blood; it was simply a friend, a quiet shadow resting at the feet of his inner sun.
 
+"All light eventually returns to the abyss. In darkness lies the true cradle of all things." Nyx-Malakor proclaimed, the primordial resonance vibrating through the leylines.
+
+
 "Thank you, Nyx-Malakor," Ren said softly, raising his hands. 
 
 He looked at his palms. On his right palm, the pale green leaf-mark of Sylvan bloomed with gentle light; on his left palm, the dark violet soul-rune of Nyx-Malakor burned like an ember of dark velvet.
@@ -15563,6 +15680,9 @@ The equilibrium was absolute. Life did not conquer death; death did not extingui
 ### IV. The Perfect Vessel
 
 Ren knelt beside the edge of the subterranean lake, dipping his hand into the clear, shimmering water. The black brine had been transformed; it was now crystal-clear, reflecting the luminous violet lotus flowers blooming above like stars fallen into an underground sky.
+
+"Collapse the fabric of space! Event Horizon Gravitational Singularity!" Nyx-Malakor proclaimed, the primordial resonance vibrating through the leylines.
+
 
 He looked at his reflection in the water.
 
@@ -15745,7 +15865,7 @@ He bent his knees, channeled the hypersonic slipstream of Zephyros beneath his b
 
 Behind him, deep in the absolute dark of the -2,200 meter abyss, the great shadow-tree continued to bloom—its obsidian roots holding the fracturing leylines of Vaelen in silent, indestructible peace.
 
-> *"When life and death hold hands in the crucible, the circle of existence is completed."*`,stats:{vignette:{words:174,minutes:1},expanded:{words:5672,minutes:28}}},{number:37,title:"Return to the Mainland",act:4,actTitle:"Act IV: The Great Betrayal, The Predecessor & Final Genesis",realm:"Heartwood Vale",spirit:"Sylvan",element:"Wood & Flower",badge:"Chapter 37 • HEARTWOOD VALE",elevation:"+300m Central Heartland",location:"The Capital Causeway, Heartwood Vale",direction:"Central Heartland",image:"./images/regional_vistas/heartwood_vale.jpg",vignetteHtml:`<p>High upon the central plateau, three hundred meters above the lowlands, Heartwood Vale lay beneath an ominous, suffocating dusk. Blackened iron suppression pylons hummed along the Capital Causeway, casting harsh glares over damp cobblestones and choking the natural fragrance of crushed pine and blooming jasmine. Yet, as Ren stepped across the southern border, the ambient chill yielded to a miraculous surge of sylvan vitality. Weeping villagers from Oakhaven lined the thoroughfare, their joyful acclamations rising as vibrant ivy sprouted beneath his feet, illuminated by the radiant aura of the Ten Spirits.</p>
+> *"When life and death hold hands in the crucible, the circle of existence is completed."*`,stats:{vignette:{words:174,minutes:1},expanded:{words:5715,minutes:29}}},{number:37,title:"Return to the Mainland",act:4,actTitle:"Act IV: The Great Betrayal, The Predecessor & Final Genesis",realm:"Heartwood Vale",spirit:"Sylvan",element:"Wood & Flower",badge:"Chapter 37 • HEARTWOOD VALE",elevation:"+300m Central Heartland",location:"The Capital Causeway, Heartwood Vale",direction:"Central Heartland",image:"./images/regional_vistas/heartwood_vale.jpg",vignetteHtml:`<p>High upon the central plateau, three hundred meters above the lowlands, Heartwood Vale lay beneath an ominous, suffocating dusk. Blackened iron suppression pylons hummed along the Capital Causeway, casting harsh glares over damp cobblestones and choking the natural fragrance of crushed pine and blooming jasmine. Yet, as Ren stepped across the southern border, the ambient chill yielded to a miraculous surge of sylvan vitality. Weeping villagers from Oakhaven lined the thoroughfare, their joyful acclamations rising as vibrant ivy sprouted beneath his feet, illuminated by the radiant aura of the Ten Spirits.</p>
 <p>Rather than preparing defenses against the Desolator, regimented guards channeled subterranean leylines directly toward the distant High Altar. Ren observed the stolen earth-magic pulsing through their focus arrays, his deep resonance with the Wood and Flower Primordial throbbing like a warning bell. Ignoring the looming betrayal written across the fortress, he strode purposefully up the grand marble stairs of the Imperial Terrace. With every ascending step, his spirit-forged light blazed brighter against the shadowy atmosphere, driving him forward to confront his past and fulfill his ultimate pledge.</p>
 `,expandedHtml:`<h3>I. Iron Roots in the Sacred Canopy</h3>
 <p>The southern gap of the Heartwood Vale did not welcome them with the sweet, humid breath of pine and damp earth that Ren Ashveil had carried in his memory since childhood. Instead, as the trio crested the fog-shrouded rise where the ancient ironwood forest met the terraced foothills of the central heartland, the wind brought the sour, biting reek of cold iron and crushed sap.</p>
@@ -19693,6 +19813,7 @@ Ia bangkit berdiri, menepis tanah gelap dari celananya, mengenakan kembali sarun
 <p>&quot;Aku telah menanti selama dua ribu tahun demi menemukan sebuah wadah yang takkan hancur lebur saat aku melangkah masuk ke dalamnya,&quot; bisik Sylvan, mata hijaunya menyala oleh keputusasaan dan harapan yang teramat membara. &quot;Maukah engkau meminjamkan kehampaanmu padaku, Ren Ashveil? Maukah engkau menjadi taman tempat dunia ini mekar kembali?&quot;</p>
 <h3>IV. Perjanjian Tak Terputus</h3>
 <p>Ren tidak menatap kompas kuningan di sabuknya. Untuk pertama kali dalam hidupnya, ia tidak memikirkan instruksi dingin nan analitis dari Master Kael, ataupun rasa kasihan yang tersirat dari para tetua Oakhaven. Ia menatap lurus ke dalam sepasang mata zamrud padat milik sang Roh Primordial.</p>
+<p>&quot;Bahkan pohon ek termegah bermula dari sebutir benih hening dalam kegelapan. Biarkan akar kita bertaut, Ren.&quot; seru Sylvan, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Ia merasakan ruang hampa di dalam dadanya—gua yang luas dan sunyi yang telah mengundang cemoohan dan penolakan berbalut keheningan selama enam belas tahun. Tempat itu bukan lagi sebuah cacat. Tempat itu adalah sebuah undangan.</p>
 <p>&quot;Ambillah,&quot; kata Ren. Suaranya bukan lagi milik seorang bocah juru obat yang cemas. Suaranya mantap, terpatri oleh derum bawah tanah yang dalam dari bumi di bawah mereka. &quot;Isilah kehampaan ini.&quot;</p>
 <p>Sylvan tersenyum—sebuah ekspresi tajam nan memukau yang menyibak bibirnya, memperlihatkan deretan gigi yang terukir dari kuarsa putih tanpa cela.</p>
@@ -19723,6 +19844,7 @@ Ia bangkit berdiri, menepis tanah gelap dari celananya, mengenakan kembali sarun
 <hr>
 <h3>V. Mandat Garis Ley yang Retak</h3>
 <p>Gesekan sutra yang lembut menandai kembalinya Sylvan ke wujud fisik. Sang Roh Primordial melangkah keluar dari batang Pohon Oak Purba Agung, melayang tiga inci di atas geladak hamparan bunga. Tongkat kayu hidupnya kini lebih pendek, dimahkotai kelopak teratai yang mekar sempurna, memancarkan cahaya lembut yang menenangkan ke wajah Ren.</p>
+<p>&quot;Kehidupan tidak melawan badai; ia meliuk, meminum air hujan, dan mekar kembali.&quot; seru Sylvan, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>&quot;Kau tidak terbakar,&quot; bisik Sylvan, menatap lengan Ren yang bersinar dengan rasa takjub yang hening dan mendalam. &quot;Dalam lima ribu tahun... tidak ada wadah fana yang mampu menampung frekuensi primordialku secara penuh tanpa pembuluh darah mereka meledak menjadi abu dalam tiga helaan napas. Intimu bahkan tidak memanas sedikit pun.&quot;</p>
 <p>Ren berdiri perlahan, menatap kedua tangannya, lalu memandang gua akar luas yang telah pulih di sekeliling mereka. Pembusukan hitam telah sirna, digantikan oleh kehidupan penuh daya yang berdenyut selaras dengan denyut nadinya sendiri.</p>
 <p>&quot;Lumpur apa itu?&quot; tanya Ren, suaranya pelan. &quot;Rasanya... mati. Seolah-olah ingin menelan segalanya.&quot;</p>
@@ -19877,6 +19999,9 @@ Telapak tangan kayu sang roh melayang seujung jari dari tulang dada Ren. Ren dap
 
 Ren tidak menatap kompas kuningan di sabuknya. Untuk pertama kali dalam hidupnya, ia tidak memikirkan instruksi dingin nan analitis dari Master Kael, ataupun rasa kasihan yang tersirat dari para tetua Oakhaven. Ia menatap lurus ke dalam sepasang mata zamrud padat milik sang Roh Primordial.
 
+"Bahkan pohon ek termegah bermula dari sebutir benih hening dalam kegelapan. Biarkan akar kita bertaut, Ren." seru Sylvan, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Ia merasakan ruang hampa di dalam dadanya—gua yang luas dan sunyi yang telah mengundang cemoohan dan penolakan berbalut keheningan selama enam belas tahun. Tempat itu bukan lagi sebuah cacat. Tempat itu adalah sebuah undangan.
 
 "Ambillah," kata Ren. Suaranya bukan lagi milik seorang bocah juru obat yang cemas. Suaranya mantap, terpatri oleh derum bawah tanah yang dalam dari bumi di bawah mereka. "Isilah kehampaan ini."
@@ -19937,6 +20062,9 @@ Ia tidak merasakan kelelahan. Ia tidak merasa kehabisan mana. Kehampaan di dalam
 
 
 Gesekan sutra yang lembut menandai kembalinya Sylvan ke wujud fisik. Sang Roh Primordial melangkah keluar dari batang Pohon Oak Purba Agung, melayang tiga inci di atas geladak hamparan bunga. Tongkat kayu hidupnya kini lebih pendek, dimahkotai kelopak teratai yang mekar sempurna, memancarkan cahaya lembut yang menenangkan ke wajah Ren.
+
+"Kehidupan tidak melawan badai; ia meliuk, meminum air hujan, dan mekar kembali." seru Sylvan, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 "Kau tidak terbakar," bisik Sylvan, menatap lengan Ren yang bersinar dengan rasa takjub yang hening dan mendalam. "Dalam lima ribu tahun... tidak ada wadah fana yang mampu menampung frekuensi primordialku secara penuh tanpa pembuluh darah mereka meledak menjadi abu dalam tiga helaan napas. Intimu bahkan tidak memanas sedikit pun."
 
@@ -20004,7 +20132,7 @@ Dan Planet Vaelen bersiap untuk bangkit.
 
 ---
 
-> *"Kehampaanmu bukanlah sebuah kutukan, Ren; melainkan sebuah undangan bagi dunia untuk mekar."*`,stats:{vignette:{words:173,minutes:1},expanded:{words:4068,minutes:20}}},{number:3,title:"Guncangan di Lembah",act:1,actTitle:"Kisah I: Landasan Terena & Benih-Benih Tipu Daya",realm:"Lembah Heartwood",spirit:"Sylvan",element:"Kayu & Bunga",badge:"Bab 03 • LEMBAH HEARTWOOD",elevation:"+300m Jantung Wilayah Pusat",location:"Jembatan Kincir Oakhaven, Lembah Heartwood",direction:"Jantung Wilayah Pusat",image:"./images/regional_vistas/heartwood_vale.jpg",vignetteHtml:`<p>Tinggi di dalam buaian hijau nan subur Lembah Heartwood, tiga ratus meter di atas dataran rendah, cahaya fajar yang segar tersaring menembus kanopi purba, jatuh menyinari Jembatan Kincir Oakhaven. Udara pagi beraroma pekat akan lumut basah, getah kayu ek, dan kabut sungai saat Ren melangkah melintasi batu-batu jalanan yang tenang. Tiba-tiba, guncangan bawah tanah yang dahsyat meretakkan jalan berbatu tersebut, mengoyak bumi hingga terbuka untuk melepaskan seekor monster semak-duri bayangan yang mengerikan, berlarikkan taring obsidian dan bermatakan kehampaan berongga.</p>
+> *"Kehampaanmu bukanlah sebuah kutukan, Ren; melainkan sebuah undangan bagi dunia untuk mekar."*`,stats:{vignette:{words:173,minutes:1},expanded:{words:4116,minutes:21}}},{number:3,title:"Guncangan di Lembah",act:1,actTitle:"Kisah I: Landasan Terena & Benih-Benih Tipu Daya",realm:"Lembah Heartwood",spirit:"Sylvan",element:"Kayu & Bunga",badge:"Bab 03 • LEMBAH HEARTWOOD",elevation:"+300m Jantung Wilayah Pusat",location:"Jembatan Kincir Oakhaven, Lembah Heartwood",direction:"Jantung Wilayah Pusat",image:"./images/regional_vistas/heartwood_vale.jpg",vignetteHtml:`<p>Tinggi di dalam buaian hijau nan subur Lembah Heartwood, tiga ratus meter di atas dataran rendah, cahaya fajar yang segar tersaring menembus kanopi purba, jatuh menyinari Jembatan Kincir Oakhaven. Udara pagi beraroma pekat akan lumut basah, getah kayu ek, dan kabut sungai saat Ren melangkah melintasi batu-batu jalanan yang tenang. Tiba-tiba, guncangan bawah tanah yang dahsyat meretakkan jalan berbatu tersebut, mengoyak bumi hingga terbuka untuk melepaskan seekor monster semak-duri bayangan yang mengerikan, berlarikkan taring obsidian dan bermatakan kehampaan berongga.</p>
 <p>Saat para penjaga akademi yang panik menyaksikan anak panah api mereka dilahap oleh monster entropis itu, Ren melangkah tepat ke jalur terjangannya yang mengarah ke lumbung padi berisi anak-anak yang terperangkap. Beresonansi secara harmonis dengan Sylvan, ia menyalurkan mana kehidupan untuk menegakkan kubah Aegis Semak Duri yang tak tertembus, sementara spora bioluminesens keemasan berhamburan dari sang roh kayu untuk melarutkan makhluk tersebut menjadi debu bintang perak. Master Kael kemudian mengaruniakan sebuah kompas pelacak kuno berbahan kuningan kepada Ren dengan kehangatan layaknya seorang ayah, mengutus pemanggil muda itu ke selatan menuju Dataran Tinggi Ironheart.</p>
 `,expandedHtml:`<h3>I. Rusuk-Rusuk Heartwood yang Bergeser</h3>
 <p>Fajar tidak sekadar menyingsing di atas Oakhaven; fajar merembes turun dari langit melintasi atap kanopi setinggi tiga ratus kaki, memoles lantai hutan dengan jalur-jalur warna giok transparan dan emas basah. Jauh di dalam cekungan pusat Lembah Heartwood, tiga ratus meter di atas pasang surut samudra yang jauh di sana, udara senantiasa mencecap rasa pinus lembap, remasan kamomil, dan sengatan mineral dingin dari endapan lumpur sungai.</p>
@@ -20072,6 +20200,7 @@ Dan Planet Vaelen bersiap untuk bangkit.
 <p>Ren tidak lari. Ia justru melangkah <em>ke depan</em>, melewati lengkungan samping dari penghalang kayunya sendiri, menempatkan dirinya sepenuhnya di tempat terbuka, tepat di hadapan rahang monster yang meraung hebat.</p>
 <h3>IV. Mekar yang Menelan Kegelapan</h3>
 <p>Bola kehampaan itu memancar membara, memancarkan seberkas energi ungu yang menyesakkan dan melahap cahaya tepat ke dada Ren.</p>
+<p>&quot;Dari jantung purba dunia ini—merekahlah! Mekar Dunia Primordial!&quot; seru Sylvan, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Ren tidak menarik bilah pedang. Ia tidak mengangkat perisai. Ia mengangkat kedua tangannya ke angkasa, merenggangkan jemarinya lebar-lebar seolah hendak menggapai mentari pagi yang menyusup di antara kanopi tinggi.</p>
 <p>&quot;Sylvan! <em>Mekar Dunia Primordial: Spora Penyembuh!</em>&quot;</p>
 <p>Inti Hampa di dalam dada Ren tidak sekadar bersinar; inti itu mengembang ke luar dalam wujud lingkaran fisik cahaya zamrud dan perak yang merobek pakaiannya, memancarkan lingkaran cahaya gemerlap yang transparan di sekeliling tubuhnya.</p>
@@ -20269,6 +20398,9 @@ Ren tidak lari. Ia justru melangkah *ke depan*, melewati lengkungan samping dari
 
 Bola kehampaan itu memancar membara, memancarkan seberkas energi ungu yang menyesakkan dan melahap cahaya tepat ke dada Ren.
 
+"Dari jantung purba dunia ini—merekahlah! Mekar Dunia Primordial!" seru Sylvan, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Ren tidak menarik bilah pedang. Ia tidak mengangkat perisai. Ia mengangkat kedua tangannya ke angkasa, merenggangkan jemarinya lebar-lebar seolah hendak menggapai mentari pagi yang menyusup di antara kanopi tinggi.
 
 "Sylvan! *Mekar Dunia Primordial: Spora Penyembuh!*"
@@ -20383,7 +20515,7 @@ Seiring setiap mil yang dilangkahinya, kanopi hijau yang subur di atas kepala mu
 
 Di tangannya, kompas kuningan itu berdenting ritmis setiap sepuluh langkah, jarum merah nyalanya menunjuk secara konstan ke wilayah tak dikenal, menuntun sang Pemanggil Tak Terikat menuju ujian berikutnya, sepenuhnya tanpa menyadari bayangan yang mengekor di jejak langkahnya.
 
-> *"Saat bumi menggigil ketakutan, dahan yang hidup harus belajar menjadi perisai."*`,stats:{vignette:{words:172,minutes:1},expanded:{words:4186,minutes:21}}},{number:4,title:"Perjalanan Turun ke Mantel Besi",act:1,actTitle:"Babak I: Fondasi Bumi & Benih-Benih Tipu Daya",realm:"Dataran Tinggi Ironheart",spirit:"Golgath",element:"Batu & Kristal",badge:"Bab 04 • DATARAN TINGGI IRONHEART",elevation:"+800m Ngarai Mantel Terbenam",location:"Retakan Terbenam, Dataran Tinggi Ironheart",direction:"Selatan / Selatan-Tengah",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>Di bawah langit perunggu yang lebam, Ren berdiri di bibir tebing curam Dataran Tinggi Ironheart yang memusingkan, tempat ngarai basalt terjal setinggi delapan ratus meter merosot tajam ke dalam jurang-jurang berona amber. Pilar-pilar kuarsa yang menjulang tinggi menusuk udara berkabut, sementara curahan pasir emas halus berjatuhan bagai jam pasir hening di atas reruntuhan batu purba. Saat getaran bawah tanah berguncang melintasi batuan dasar yang gemetar, aroma mineral hancur memenuhi jurang yang dingin. Kompas antik milik Ren sepenuhnya mengabaikan utara magnetis; jarumnya bergetar serempak dengan denyut tektonik yang beresonansi secara langsung di dalam Inti Hampa miliknya.</p>
+> *"Saat bumi menggigil ketakutan, dahan yang hidup harus belajar menjadi perisai."*`,stats:{vignette:{words:172,minutes:1},expanded:{words:4204,minutes:21}}},{number:4,title:"Perjalanan Turun ke Mantel Besi",act:1,actTitle:"Babak I: Fondasi Bumi & Benih-Benih Tipu Daya",realm:"Dataran Tinggi Ironheart",spirit:"Golgath",element:"Batu & Kristal",badge:"Bab 04 • DATARAN TINGGI IRONHEART",elevation:"+800m Ngarai Mantel Terbenam",location:"Retakan Terbenam, Dataran Tinggi Ironheart",direction:"Selatan / Selatan-Tengah",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>Di bawah langit perunggu yang lebam, Ren berdiri di bibir tebing curam Dataran Tinggi Ironheart yang memusingkan, tempat ngarai basalt terjal setinggi delapan ratus meter merosot tajam ke dalam jurang-jurang berona amber. Pilar-pilar kuarsa yang menjulang tinggi menusuk udara berkabut, sementara curahan pasir emas halus berjatuhan bagai jam pasir hening di atas reruntuhan batu purba. Saat getaran bawah tanah berguncang melintasi batuan dasar yang gemetar, aroma mineral hancur memenuhi jurang yang dingin. Kompas antik milik Ren sepenuhnya mengabaikan utara magnetis; jarumnya bergetar serempak dengan denyut tektonik yang beresonansi secara langsung di dalam Inti Hampa miliknya.</p>
 <p>Menelusuri jalan-jalan berundak yang runtuh menuju kedalaman, Ren memanfaatkan tali-tali tanaman menjalar hidup milik Sylvan untuk menurunkan dirinya melintasi jurang-jurang berbahaya dan permukiman penambangan purba yang tertimbun obsidian. Jauh di dalam gua-gua kuarsa, getaran batuan yang ritmis kian menghebat, menuntunnya secara langsung ke ambang pintu Benteng Terbenam. Di hadapannya membentang pintu batu monumental yang diukir dengan roda Dekarki, berdenyut dengan cahaya amber cemerlang yang menandakan kehadiran mutlak Golgath, Roh Primordial Batu dan Kristal.</p>
 `,expandedHtml:`<h3>I. Cakrawala Perunggu dan Gigi-Gigi Ambar</h3>
 <p>Hamparan permadani hijau Lembah Heartwood tidak mengalah dengan lembut ke arah selatan; ia terbelah.</p>
@@ -20935,6 +21067,7 @@ Ia membenahi tas herbalnya, melangkah keluar dari ambang pintu, dan mulai berjal
 <p>&quot;Sylvan!&quot; teriak Ren, suaranya menggema melintasi langit-langit kubah bawah tanah yang melengkung. <em>&quot;Kisi Akar Heartwood! Ikat Batuan Dasar!&quot;</em></p>
 <h3>IV. Akar di Batuan Dasar yang Hancur</h3>
 <p>Dari ujung tongkat kayu besi milik Ren, arus deras energi zamrud benderang yang menyilaukan melesat menghantam retakan-retakan membara di lantai obsidian.</p>
+<p>&quot;Gunung tak pernah tunduk pada angin. Berdirilah di atas batuan dasar, sang pemanggil.&quot; seru Golgath, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Itu bukan sekadar kayu biasa. Itu adalah Heartwood primordial—esensi elemental kehidupan yang telah tumbuh di atas kerak Vaelen selama sepuluh ribu tahun. Saat energi hijau tersebut menyentuh batuan basal yang sangat panas dan merekah, sebuah transformasi ajaib pun terjadi.</p>
 <p>Alih-alih terbakar menjadi abu dalam hawa mantel yang membara, akar-akar tersebut justru menyerap dan memakan panas murni itu sendiri.</p>
 <p>Sulur-sulur kayu besi hijau pucat yang tebal—terjalin bagai kabel tembaga dan setebal tiang layar kapal—merekah hebat dari dalam batuan di sekeliling panggung Golgath. Akar-akar itu tidak mendesak batu hingga terbelah; mereka menembus masuk <em>ke dalam</em> retakan mikro molekuler batuan basal, menancap erat pada batu bagaikan benang hidup yang menyulam luka yang terkoyak.</p>
@@ -21143,6 +21276,9 @@ Di dalam dadanya, bola zamrud transparan bergejolak dengan intensitas yang menyi
 
 Dari ujung tongkat kayu besi milik Ren, arus deras energi zamrud benderang yang menyilaukan melesat menghantam retakan-retakan membara di lantai obsidian.
 
+"Gunung tak pernah tunduk pada angin. Berdirilah di atas batuan dasar, sang pemanggil." seru Golgath, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Itu bukan sekadar kayu biasa. Itu adalah Heartwood primordial—esensi elemental kehidupan yang telah tumbuh di atas kerak Vaelen selama sepuluh ribu tahun. Saat energi hijau tersebut menyentuh batuan basal yang sangat panas dan merekah, sebuah transformasi ajaib pun terjadi.
 
 Alih-alih terbakar menjadi abu dalam hawa mantel yang membara, akar-akar tersebut justru menyerap dan memakan panas murni itu sendiri.
@@ -21290,10 +21426,11 @@ Mengarahkan wajahnya menuju uap yang membumbung dari tangga keluar sebelah utara
 
 ---
 
-> *"Hanya batu yang telah menanggung tekanan berabad-abad yang mampu menambat dunia tanpa menjadi retak."*`,stats:{vignette:{words:176,minutes:1},expanded:{words:4220,minutes:21}}},{number:6,title:"Suaka Benteng Intan",act:1,actTitle:"Babak I: Fondasi Bumi & Benih Tipu Daya",realm:"Dataran Tinggi Ironheart",spirit:"Golgath",element:"Batu & Kristal",badge:"Bab 06 • DATARAN TINGGI IRONHEART",elevation:"+800m Ngarai Mantel Ambles",location:"Nexus Garis Sesar, Dataran Tinggi Ironheart",direction:"Selatan / Selatan-Tengah",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>Jauh di atas jurang terjal setinggi delapan ratus meter di Ngarai Mantel Ambles, angin kencang nan menggigit di Dataran Tinggi Ironheart berbau ozon, remukan granit, dan belerang. Kilat bergerigi berkelebat menembus awan badai, memancarkan cahaya tajam yang menyapu punggung-punggung bukit bergetar di Nexus Garis Sesar. Berdiri di tepi jurang yang menganga lebar, Ren berjuang menjaga keseimbangannya saat guncangan dahsyat menggeletarkan tanah di bawah sepatu botnya, paru-parunya serasa terbakar dalam udara membeku yang tersumbat debu, sementara miasma nekrotik yang gelap mendidih dan membubung dari kedalaman, mengancam lembah-lembah di bawahnya.</p>
+> *"Hanya batu yang telah menanggung tekanan berabad-abad yang mampu menambat dunia tanpa menjadi retak."*`,stats:{vignette:{words:176,minutes:1},expanded:{words:4243,minutes:21}}},{number:6,title:"Suaka Benteng Intan",act:1,actTitle:"Babak I: Fondasi Bumi & Benih Tipu Daya",realm:"Dataran Tinggi Ironheart",spirit:"Golgath",element:"Batu & Kristal",badge:"Bab 06 • DATARAN TINGGI IRONHEART",elevation:"+800m Ngarai Mantel Ambles",location:"Nexus Garis Sesar, Dataran Tinggi Ironheart",direction:"Selatan / Selatan-Tengah",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>Jauh di atas jurang terjal setinggi delapan ratus meter di Ngarai Mantel Ambles, angin kencang nan menggigit di Dataran Tinggi Ironheart berbau ozon, remukan granit, dan belerang. Kilat bergerigi berkelebat menembus awan badai, memancarkan cahaya tajam yang menyapu punggung-punggung bukit bergetar di Nexus Garis Sesar. Berdiri di tepi jurang yang menganga lebar, Ren berjuang menjaga keseimbangannya saat guncangan dahsyat menggeletarkan tanah di bawah sepatu botnya, paru-parunya serasa terbakar dalam udara membeku yang tersumbat debu, sementara miasma nekrotik yang gelap mendidih dan membubung dari kedalaman, mengancam lembah-lembah di bawahnya.</p>
 <p>Melangkah maju, roh Primordial Golgath menekan tongkat basalnya yang berat ke dada Ren, menjalin mana kristal amber ke dalam Inti Hampa milik pemuda itu berdampingan dengan akar-akar zamrud Sylvan. Dengan frekuensi seismik yang berdenyut di dalam pembuluh darahnya, Ren menyalurkan esensi gabungan mereka ke dalam batuan dasar untuk memanifestasikan Suaka Benteng Intan, menegakkan kubah bersisi banyak nan gemerlap yang sepenuhnya menetralkan korupsi dan mengkristalkan celah lelehan tersebut. Saat geoda bawah tanah menerangi jurang yang telah tenang itu dalam cahaya amber yang hangat, Golgath mengikatkan rohnya ke wadah Ren, meretas jalan mereka menuju puncak-puncak logam Menara Ferrum.</p>
 `,expandedHtml:`<h3>I. Resonansi Kompresi</h3>
 <p>Ujung tongkat basal ambar milik Golgath yang berat dan tak tergoyahkan menekan tepat di tengah tulang dada Ren, tepat di atas kain katun tipis berdebu dari tunik magangnya. Tongkat itu tidak merobek kulit, tidak pula menghantam dengan kekuatan kasar, namun di saat batu kuno berukir rune itu bersentuhan, Ren merasa seolah seluruh jajaran pegunungan telah diturunkan dengan tenang ke atas tulang selangkanya.</p>
+<p>&quot;Biarkan beban seluruh benua bertumpu di pundakku. Tak seorang pun dapat menembus benteng ini.&quot; seru Golgath, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Napas terlepas dari paru-parunya dalam tarikan napas tajam setajam kristal.</p>
 <p>&quot;Pertahankan pijakanmu, anak Oakhaven,&quot; suara sang roh bergumam berat, bergema bukan melalui udara di sekitarnya, melainkan merambat langsung melalui tulang rusuk dan tulang selangka Ren. Suara itu menyerupai dua lempeng tektonik yang saling bergesekan tiga liga di bawah permukaan bumi—pekat, bergema, dan sarat akan panas kering dari kompresi bawah tanah. &quot;Bumi tidak tunduk pada kecepatan, tidak pula memuji mereka yang tidak sabaran. Untuk mengendalikan batu, kau harus terlebih dahulu belajar ditekan ke dalam keheningan mutlak tanpa menjadi hancur.&quot;</p>
 <p>Di dalam dada Ren, celah zamrud transparan dari Inti Hampa miliknya—yang sebelumnya hanya ditopang oleh kehangatan hijau nan hidup dari frekuensi kayu Sylvan—mulai bereaksi. Akar-akar hijau yang melilit melingkar di sepanjang jalur spiritualnya tidak mundur; sebaliknya, mereka makin mengencang, merayap keluar untuk memeluk gelombang pasang cahaya ambar-keemasan yang pekat dan melimpah ruah melalui tongkat basal tersebut.</p>
@@ -21363,6 +21500,7 @@ Mengarahkan wajahnya menuju uap yang membumbung dari tangga keluar sebelah utara
 <p>&quot;Aku bisa menahannya,&quot; kata Ren singkat. Ia mengangkat kedua tangannya, telapak tangan terbuka, menghadap jurang yang terkoyak. &quot;Mari kita selamatkan dataran-dataran tinggi ini.&quot;</p>
 <h3>IV. Geometri Kubah Prismatik</h3>
 <p>Dunia seolah melambat hingga hampir berhenti saat Ren merendahkan titik berat tubuhnya, membenamkan kakinya sedalam empat inci ke dalam batu hidup di bawahnya.</p>
+<p>&quot;Dengarkan getaran tektonik! Rekahan Tektonik, Perisai Berlian—bangkitlah!&quot; seru Golgath, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Dia memejamkan mata, memutus kekacauan visual yang menyilaukan dari stalaktit yang berjatuhan dan neraka ungu yang menderu di bawah. Dia merengkuh ke dalam diri, melampaui kenyataan fisik daging dan darahnya, tenggelam jauh ke dalam bola zamrud transparan dari Inti Hampa miliknya.</p>
 <p>Di pusatnya, lambang kayu Sylvan memancar terang, mengirimkan beribu-ribu benang mikro-spektral tak kasat mata ke dalam bumi di sekitarnya, memetakan setiap butir pasir, setiap retakan mikroskopis, dan setiap galon lumpur entropik yang mendidih. Kemudian, lambang ambar Golgath menyala bagaikan matahari yang baru lahir.</p>
 <p>Ren menjangkau dengan benaknya dan mencengkeram bobot mentah dan leleh dari mantel bawah tanah.</p>
@@ -21417,6 +21555,9 @@ Melangkah maju, roh Primordial Golgath menekan tongkat basalnya yang berat ke da
 
 
 Ujung tongkat basal ambar milik Golgath yang berat dan tak tergoyahkan menekan tepat di tengah tulang dada Ren, tepat di atas kain katun tipis berdebu dari tunik magangnya. Tongkat itu tidak merobek kulit, tidak pula menghantam dengan kekuatan kasar, namun di saat batu kuno berukir rune itu bersentuhan, Ren merasa seolah seluruh jajaran pegunungan telah diturunkan dengan tenang ke atas tulang selangkanya.
+
+"Biarkan beban seluruh benua bertumpu di pundakku. Tak seorang pun dapat menembus benteng ini." seru Golgath, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Napas terlepas dari paru-parunya dalam tarikan napas tajam setajam kristal.
 
@@ -21559,6 +21700,9 @@ Ren menatap balik ke arah Master Kael, yang memberinya anggukan stoik dan khidma
 
 Dunia seolah melambat hingga hampir berhenti saat Ren merendahkan titik berat tubuhnya, membenamkan kakinya sedalam empat inci ke dalam batu hidup di bawahnya.
 
+"Dengarkan getaran tektonik! Rekahan Tektonik, Perisai Berlian—bangkitlah!" seru Golgath, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Dia memejamkan mata, memutus kekacauan visual yang menyilaukan dari stalaktit yang berjatuhan dan neraka ungu yang menderu di bawah. Dia merengkuh ke dalam diri, melampaui kenyataan fisik daging dan darahnya, tenggelam jauh ke dalam bola zamrud transparan dari Inti Hampa miliknya.
 
 Di pusatnya, lambang kayu Sylvan memancar terang, mengirimkan beribu-ribu benang mikro-spektral tak kasat mata ke dalam bumi di sekitarnya, memetakan setiap butir pasir, setiap retakan mikroskopis, dan setiap galon lumpur entropik yang mendidih. Kemudian, lambang ambar Golgath menyala bagaikan matahari yang baru lahir.
@@ -21650,7 +21794,7 @@ Di belakang mereka, Suaka Benteng Intan yang luas berkilauan dalam remang senja,
 
 ---
 
-> *"Intan bukanlah sekadar tanah yang mengeras; ia adalah batu yang telah belajar untuk memantulkan cahaya murni."*`,stats:{vignette:{words:184,minutes:1},expanded:{words:3945,minutes:20}}},{number:7,title:"Bayangan Inkuisitor",act:1,actTitle:"Babak I: Pondasi Bumi & Benih-Benih Tipu Daya",realm:"Dataran Tinggi Ironheart",spirit:"Golgath",element:"Batu & Kristal",badge:"Bab 07 • DATARAN TINGGI IRONHEART",elevation:"+800m Ngarai Mantel Tenggelam",location:"Celah Obsidian, Dataran Tinggi Ironheart",direction:"Selatan / Selatan-Tengah",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>Tinggi di dalam celah obsidian Dataran Tinggi Ironheart, delapan ratus meter di atas Ngarai Mantel Tenggelam, udara yang menusuk berbau bijih besi hancur dan embun beku yang pahit. Senja suram menerobos dinding-dinding jurang, menerangi bentrokan sengit pasukan gempur inkuisisi pimpinan Komandan Vane di bawah. Terbalut zirah pelat baja bersihir, para prajurit berjuang melawan binatang duri-bayangan yang lincah, yang cakar entropiknya membuat perisai anti-sihir bersinar milik para Inkuisitor menjadi tak berguna. Hinggap di atas birai basal yang tinggi, Ren mengamati kekacauan tersebut, pikirannya terhubung dengan denyut purba sang gunung.</p>
+> *"Intan bukanlah sekadar tanah yang mengeras; ia adalah batu yang telah belajar untuk memantulkan cahaya murni."*`,stats:{vignette:{words:184,minutes:1},expanded:{words:3986,minutes:20}}},{number:7,title:"Bayangan Inkuisitor",act:1,actTitle:"Babak I: Pondasi Bumi & Benih-Benih Tipu Daya",realm:"Dataran Tinggi Ironheart",spirit:"Golgath",element:"Batu & Kristal",badge:"Bab 07 • DATARAN TINGGI IRONHEART",elevation:"+800m Ngarai Mantel Tenggelam",location:"Celah Obsidian, Dataran Tinggi Ironheart",direction:"Selatan / Selatan-Tengah",image:"./images/regional_vistas/ironheart_mantle.jpg",vignetteHtml:`<p>Tinggi di dalam celah obsidian Dataran Tinggi Ironheart, delapan ratus meter di atas Ngarai Mantel Tenggelam, udara yang menusuk berbau bijih besi hancur dan embun beku yang pahit. Senja suram menerobos dinding-dinding jurang, menerangi bentrokan sengit pasukan gempur inkuisisi pimpinan Komandan Vane di bawah. Terbalut zirah pelat baja bersihir, para prajurit berjuang melawan binatang duri-bayangan yang lincah, yang cakar entropiknya membuat perisai anti-sihir bersinar milik para Inkuisitor menjadi tak berguna. Hinggap di atas birai basal yang tinggi, Ren mengamati kekacauan tersebut, pikirannya terhubung dengan denyut purba sang gunung.</p>
 <p>Ketika keruntuhan mendadak meruntuhkan tebing di bawah Letnan Kaelen dan tiga prajurit, Ren bertindak tanpa ragu. Mengalirkan resonansi roh Golgath, ia menyerukan Transmutasi Litik untuk mengkristalkan serpihan batu yang runtuh secara seketika menjadi tangga-tangga granit padat, menggunakan sulur-sulur hijau Sylvan untuk mengangkat orang-orang yang tergelincir itu ke tempat aman. Para inkuisitor yang terselamatkan itu terperangah dalam kebingungan mutlak menatap sosok yang dijuluki Sang Bidaah Hampa, yang telah menyelamatkan mereka tanpa meminta imbalan apa pun. Sebelum Komandan Vane sempat tiba, Ren menyelinap dengan tenang ke dalam bayang-bayang gunung untuk melanjutkan perjalanannya.</p>
 `,expandedHtml:`<h3>I. Kaca Akustik dan Besi Vulkanik</h3>
 <p>Ngarai Obsidian adalah sebuah luka gores yang teretas delapan ratus meter di atas permukaan laut, mengiris kerak bumi yang mentah dan memar di Ngarai Mantel Tenggelam. Di sini, tulang-tulang tektonik Planet Vaelen tidak sekadar berbicara; mereka menjerit.</p>
@@ -22503,6 +22647,7 @@ Ren menarik napas dalam-dalam, merasakan resonansi ganda yang sejuk dari Kayu da
 <p>Tanah di bawah kaki Ren mendadak berubah dari baja padat menjadi cairan perak kental yang pekat.</p>
 <h3>IV. Harmoni Baja Lentur</h3>
 <p>Ren merasa dirinya tenggelam. Lantai baja-cermin tepat di bawah kakinya telah diubah menjadi kolam air raksa cair berdensitas tinggi oleh <em>Transmutasi Air Raksa</em> milik Valen.</p>
+<p>&quot;Baja ditempa lewat api dan diasah oleh disiplin. Pedangku kini milikmu.&quot; seru Valen, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Logam dingin itu melonjak naik hingga ke pergelangan kakinya, lalu ke betisnya, berat seperti timbal dan dingin seperti es, mengikat anggota tubuhnya dan mencegahnya bergerak. Di atasnya, lima bilah krom yang tersisa melayang dalam lingkaran rapat, berputar begitu cepat hingga menyatu menjadi satu cincin baja mematikan yang berkilauan.</p>
 <p>&quot;Logam tidak sekadar keras, wahai manusia fana,&quot; perintah Valen, membumbung lebih tinggi ke udara, rambut peraknya membentang seperti benang logam. &quot;Logam itu cair. Ia mengalir untuk mengisi cetakan apa pun; ia mengambil bentuk apa pun yang dituntut oleh tungku peleburan. Jika kau tidak bisa mengalir, kau akan tenggelam di dalam bejana!&quot;</p>
 <p>Cincin berkilauan dari lima bilah itu miring ke bawah, bersiap untuk menancap lurus ke bagian atas kubah kayu milik Ren dan menembus tubuhnya yang tak terlindungi dari atas.</p>
@@ -22700,6 +22845,9 @@ Tanah di bawah kaki Ren mendadak berubah dari baja padat menjadi cairan perak ke
 
 Ren merasa dirinya tenggelam. Lantai baja-cermin tepat di bawah kakinya telah diubah menjadi kolam air raksa cair berdensitas tinggi oleh *Transmutasi Air Raksa* milik Valen.
 
+"Baja ditempa lewat api dan diasah oleh disiplin. Pedangku kini milikmu." seru Valen, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Logam dingin itu melonjak naik hingga ke pergelangan kakinya, lalu ke betisnya, berat seperti timbal dan dingin seperti es, mengikat anggota tubuhnya dan mencegahnya bergerak. Di atasnya, lima bilah krom yang tersisa melayang dalam lingkaran rapat, berputar begitu cepat hingga menyatu menjadi satu cincin baja mematikan yang berkilauan.
 
 "Logam tidak sekadar keras, wahai manusia fana," perintah Valen, membumbung lebih tinggi ke udara, rambut peraknya membentang seperti benang logam. "Logam itu cair. Ia mengalir untuk mengisi cetakan apa pun; ia mengambil bentuk apa pun yang dituntut oleh tungku peleburan. Jika kau tidak bisa mengalir, kau akan tenggelam di dalam bejana!"
@@ -22830,7 +22978,7 @@ Ren menegaskan rahangnya, menyesuaikan letak tas kulitnya, dan mulai melangkah t
 
 ---
 
-> *"Bilah pedang yang tidak mengenal kelenturan akan hancur menghantam batu, namun logam yang dituntun oleh tujuan akan menjadi tak terhancurkan."*`,stats:{vignette:{words:171,minutes:1},expanded:{words:4115,minutes:21}}},{number:10,title:"Kolosus Air Raksa",act:1,actTitle:"Babak I: Landasan Terena & Benih-Benih Tipu Daya",realm:"Menara Ferrum",spirit:"Valen",element:"Logam & Air Raksa",badge:"Bab 10 • MENARA FERRUM",elevation:"+2.400m Tulang Punggung Pegunungan",location:"Jurang Peleburan, Menara Ferrum",direction:"Punggung Gunung Barat / Barat Daya",image:"./images/regional_vistas/ferrum_spires.jpg",vignetteHtml:`<p>Tinggi di dalam kawah leburan yang membeku di Menara Ferrum, lebih dari dua ribu meter di atas dasar lembah, Jurang Peleburan berbau amis besi hangus dan amukan angin gunung berbelerang. Panas membakar memancar dari terusan-terusan magma yang dalam, memoles tebing-tebing terjal dengan kilatan merah menyala yang buas sewaktu entropi gelap bergolak di bawah cangkang batu. Ren berdiri di tepi jurang, jubahnya berkibar ditiup angin kencang ketika sebuah automaton purba setinggi empat lantai mendobrak keluar dari tanur-tanur cair, dadanya yang dipenuhi terak bergolak oleh kemurkaan terkorupsi. Di bawah, para pengintai Inkuisitor yang terjebak meringkuk ketakutan berhadapan dengan aliran magma sewaktu gelombang kejut kinetik menghancurkan jalan-jalan setapak batu basal.</p>
+> *"Bilah pedang yang tidak mengenal kelenturan akan hancur menghantam batu, namun logam yang dituntun oleh tujuan akan menjadi tak terhancurkan."*`,stats:{vignette:{words:171,minutes:1},expanded:{words:4136,minutes:21}}},{number:10,title:"Kolosus Air Raksa",act:1,actTitle:"Babak I: Landasan Terena & Benih-Benih Tipu Daya",realm:"Menara Ferrum",spirit:"Valen",element:"Logam & Air Raksa",badge:"Bab 10 • MENARA FERRUM",elevation:"+2.400m Tulang Punggung Pegunungan",location:"Jurang Peleburan, Menara Ferrum",direction:"Punggung Gunung Barat / Barat Daya",image:"./images/regional_vistas/ferrum_spires.jpg",vignetteHtml:`<p>Tinggi di dalam kawah leburan yang membeku di Menara Ferrum, lebih dari dua ribu meter di atas dasar lembah, Jurang Peleburan berbau amis besi hangus dan amukan angin gunung berbelerang. Panas membakar memancar dari terusan-terusan magma yang dalam, memoles tebing-tebing terjal dengan kilatan merah menyala yang buas sewaktu entropi gelap bergolak di bawah cangkang batu. Ren berdiri di tepi jurang, jubahnya berkibar ditiup angin kencang ketika sebuah automaton purba setinggi empat lantai mendobrak keluar dari tanur-tanur cair, dadanya yang dipenuhi terak bergolak oleh kemurkaan terkorupsi. Di bawah, para pengintai Inkuisitor yang terjebak meringkuk ketakutan berhadapan dengan aliran magma sewaktu gelombang kejut kinetik menghancurkan jalan-jalan setapak batu basal.</p>
 <p>Melompat ke dalam jurang demi membuka koridor evakuasi, Ren menyintesiskan akar-akar vegetatif Sylvan dengan air raksa cair milik Valen, melepaskan Semak Duri Air Raksa. Ratusan sulur logam bertunas dan melesat, menembus sendi-sendi berzirah sang titan demi membekukan roda-roda giginya yang berderak dalam embun beku perak. Dengan lonjakan resonansi roh primordial, Ren menyalurkan jurus pamungkas Valen—Badai Seribu Bilah—mencurahkan amukan rapier melayang yang memakukan sang kolosus ke lantai batu. Korupsi gelap melenyap menjadi cahaya aurora yang berkilauan, menstabilkan garis-garis <em>ley</em> barat daya secara permanen dan mengamankan jalur menuju masa depan.</p>
 `,expandedHtml:`<h3>I. Tulang-Tulang Rusuk Besi yang Berbisik</h3>
 <p>Pada ketinggian dua ribu empat ratus meter di atas permukaan laut, angin tidak sekadar berembus melintasi Menara Ferrum; angin melengking menerobos celah-celahnya bagaikan bilah pisau yang digoreskan di atas batu asah besi.</p>
@@ -22848,6 +22996,7 @@ Ren menegaskan rahangnya, menyesuaikan letak tas kulitnya, dan mulai melangkah t
 <p>Jauh di dalam cekungan jurang, dua ratus kaki di bawah sana, danau-danau terak hitam yang tadinya dorman mulai berpendar dengan luminesensi violet pendar-pelangi yang tidak alami.</p>
 <h3>II. Letupan di Kuali Peleburan</h3>
 <p>Hawa panas membumbung terlebih dahulu.</p>
+<p>&quot;Mata pedang tanpa tujuan hanyalah sepotong besi. Namun dengan tekad, ia sanggup membelah takdir.&quot; seru Valen, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Panas itu melesat naik melalui kerongkongan ngarai bagaikan pintu tanur yang mendadak terbuka lebar, seketika melelehkan es pada jembatan titian kuningan dan mengubah debu batu bara hitam menjadi awan uap pedas menyengat yang bergulung-gulung. Ren merayap ke tepi jurang, menatap lurus ke bawah menuju saluran utama peleburan—sebuah mangkuk basal raksasa berdiameter tiga ratus kaki, yang dirancang untuk menampung cairan logam putih membara dari tempat-tempat pengecoran di bagian atas.</p>
 <p>Saluran itu tak lagi dialiri cairan besi. Tempat itu kini mendidih oleh lumpur kental bermuatan entropi ungu pekat—cemaran nyata dari hawar-retakan yang sedang meretakkan garis-garis ley Vaelen. Energi gelap itu berolak dan berbusa, menggerogoti runa-runa penahan kuno karya kaum kurcaci yang terukir di sepanjang tepian bejana.</p>
 <p>Kemudian, sesuatu yang amat besar mulai bangkit dari dalam terak.</p>
@@ -22889,6 +23038,7 @@ Ren menegaskan rahangnya, menyesuaikan letak tas kulitnya, dan mulai melangkah t
 <p><em>Frekuensi Tiga: Valen. Logam Primordial.</em></p>
 <h3>IV. Menenun Semak Duri Air Raksa</h3>
 <p>Sang titan melepaskan tembakan.</p>
+<p>&quot;Tarian kromium cair dan baja tempa! Badai Pedang Raksa Berdaulat!&quot; seru Valen, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Seberkas semburan kerak logam cair yang sangat panas dan tercemar arkana meledak keluar dari ujung pipa berputar di lengan kirinya, menerjang udara bagaikan tombak api ungu. Panasnya begitu dahsyat hingga menyublimkan salju yang gugur dalam radius lima puluh kaki secara seketika.</p>
 <p>Ren menyilangkan kedua tangannya di depan wajah.</p>
 <p><em>Sintesis: Sylvan dan Valen.</em></p>
@@ -23011,6 +23161,9 @@ Jauh di dalam cekungan jurang, dua ratus kaki di bawah sana, danau-danau terak h
 
 Hawa panas membumbung terlebih dahulu.
 
+"Mata pedang tanpa tujuan hanyalah sepotong besi. Namun dengan tekad, ia sanggup membelah takdir." seru Valen, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Panas itu melesat naik melalui kerongkongan ngarai bagaikan pintu tanur yang mendadak terbuka lebar, seketika melelehkan es pada jembatan titian kuningan dan mengubah debu batu bara hitam menjadi awan uap pedas menyengat yang bergulung-gulung. Ren merayap ke tepi jurang, menatap lurus ke bawah menuju saluran utama peleburan—sebuah mangkuk basal raksasa berdiameter tiga ratus kaki, yang dirancang untuk menampung cairan logam putih membara dari tempat-tempat pengecoran di bagian atas.
 
 Saluran itu tak lagi dialiri cairan besi. Tempat itu kini mendidih oleh lumpur kental bermuatan entropi ungu pekat—cemaran nyata dari hawar-retakan yang sedang meretakkan garis-garis ley Vaelen. Energi gelap itu berolak dan berbusa, menggerogoti runa-runa penahan kuno karya kaum kurcaci yang terukir di sepanjang tepian bejana.
@@ -23094,6 +23247,9 @@ Dia memejamkan mata selama sepermilidetik, mengacuhkan deru tungku yang memekakk
 
 
 Sang titan melepaskan tembakan.
+
+"Tarian kromium cair dan baja tempa! Badai Pedang Raksa Berdaulat!" seru Valen, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Seberkas semburan kerak logam cair yang sangat panas dan tercemar arkana meledak keluar dari ujung pipa berputar di lengan kirinya, menerjang udara bagaikan tombak api ungu. Panasnya begitu dahsyat hingga menyublimkan salju yang gugur dalam radius lima puluh kaki secara seketika.
 
@@ -23263,7 +23419,7 @@ Ren perlahan memasukkan kompas itu kembali ke kantong sabuknya, bangkit berdiri 
 
 ---
 
-> *"Baja yang ditempa dalam kedengkian harus diuraikan oleh keanggunan alir keseimbangan."*`,stats:{vignette:{words:195,minutes:1},expanded:{words:4165,minutes:21}}},{number:11,title:"Rahasia Batu Magnet",act:1,actTitle:"Babak I: Landasan Terena & Benih-Benih Tipu Daya",realm:"Menara Ferrum",spirit:"Valen",element:"Logam & Air Raksa",badge:"Bab 11 • MENARA FERRUM",elevation:"+2.400m Tulang Punggung Pegunungan",location:"Anjungan Tinggi Barat, Menara Ferrum",direction:"Punggung Gunung Barat / Barat Daya",image:"./images/regional_vistas/ferrum_spires.jpg",vignetteHtml:`<p>Tinggi di atas jurang terjal barat Menara Ferrum yang terkikis angin, dua ribu empat ratus meter di atas dunia, senja melingkupi puncak-puncak tajam dalam rona lebam ungu dan besi dingin. Udara gunung yang segar membawa aroma tajam ozon, juniper yang teremas, dan asap kayu dari api unggun kesepian, sementara jauh di bawah melintasi dataran barat terbentang pendar pirus samar dari Laut Thalassor yang jauh. Ren duduk di dekat tepi jurang, jubahnya berkibar ditiup angin kencang yang membeku sewaktu ia menyaksikan cahaya petang surut dari ketinggian.</p>
+> *"Baja yang ditempa dalam kedengkian harus diuraikan oleh keanggunan alir keseimbangan."*`,stats:{vignette:{words:195,minutes:1},expanded:{words:4209,minutes:21}}},{number:11,title:"Rahasia Batu Magnet",act:1,actTitle:"Babak I: Landasan Terena & Benih-Benih Tipu Daya",realm:"Menara Ferrum",spirit:"Valen",element:"Logam & Air Raksa",badge:"Bab 11 • MENARA FERRUM",elevation:"+2.400m Tulang Punggung Pegunungan",location:"Anjungan Tinggi Barat, Menara Ferrum",direction:"Punggung Gunung Barat / Barat Daya",image:"./images/regional_vistas/ferrum_spires.jpg",vignetteHtml:`<p>Tinggi di atas jurang terjal barat Menara Ferrum yang terkikis angin, dua ribu empat ratus meter di atas dunia, senja melingkupi puncak-puncak tajam dalam rona lebam ungu dan besi dingin. Udara gunung yang segar membawa aroma tajam ozon, juniper yang teremas, dan asap kayu dari api unggun kesepian, sementara jauh di bawah melintasi dataran barat terbentang pendar pirus samar dari Laut Thalassor yang jauh. Ren duduk di dekat tepi jurang, jubahnya berkibar ditiup angin kencang yang membeku sewaktu ia menyaksikan cahaya petang surut dari ketinggian.</p>
 <p>Keheningan itu sirna ketika Valen memancarkan penglihatan magnetisnya ke kompas antik milik Master Kael, menyingkap sigil pelacak berlapis ganda yang bersinar dan berdenyut ke arah menara Kanselir Agung yang jauh. Saat kebenaran yang meresahkan itu meresap—bahwa perjalanannya dari Oakhaven telah didalang-dalangi sejak awal—keraguan Ren disambut oleh pengabdian teguh dari Sylvan, Golgath, dan Valen, yang menegaskan kembali kesetiaan mereka kepadanya. Dengan tiga roh primordial bersinar terang di dalam dadanya, Ren membelakangi pengkhianatan di belakangnya dan memulai penurunan terjal menyusuri lereng-lereng barat menuju pesisir.</p>
 `,expandedHtml:`<h3>I. Jurang Berbisik saat Matahari Terbenam</h3>
 <p>Angin di ketinggian dua ribu empat ratus meter tidak sekadar berembus; ia meratap dalam rintihan logam yang rendah di antara ceranggah tajam Menara Ferrum. Itu adalah hembusan dingin setajam sembilu yang beraroma serbuk besi, ozon pahit, dan janji samar air asin yang lembap di kejauhan.</p>
@@ -24097,6 +24253,7 @@ Air laut menelannya bulat-bulat—bukan dengan panas atau asam, melainkan dengan
 <p>&quot;Engkau adalah wadah yang diciptakan Kael,&quot; bisik Thalassor, kesedihan yang mengerikan menyentuh raut wajahnya yang elok dan pucat bagaikan cangkang. &quot;Wadah yang dirancang untuk meminum habis kami semua.&quot;</p>
 <h3>III. Penguasa Arus Abisal</h3>
 <p>Ren melangkah mundur setengah tapak, jemarinya secara naluriah menyentuh tas kantong di sisinya. &quot;Master Kael membesarkanku untuk menyembuhkan dunia. Dia memberitahuku bahwa garis-garis ley sedang retak, bahwa para roh membutuhkan sebuah jembatan...&quot;</p>
+<p>&quot;Air mengalah pada segala hal, namun mengikis granit terkeras. Mari mengalir menjadi satu.&quot; seru Thalassor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>&quot;Kael memberitahumu separuh kebenaran yang terbungkus madu,&quot; kata Thalassor, suaranya merendah satu oktaf, terdengar bagaikan batu-batu yang bergesekan di dalam arus bawah. &quot;Dia memang berusaha menyatukan sepuluh frekuensi. Namun bukan untuk memulihkan Vaelen. Dia berusaha membangun sebuah inti mutlak—sebuah puncak tunggal yang tak tergoyahkan yang akan merobek selubung spiritual dari planet ini dan menjadikannya dewa abu.&quot;</p>
 <p>Thalassor mengangkat tangan kirinya. Sutra cair dari lengan bajunya tersingkap, memperlihatkan lengan bawahnya. Urat-urat lumpur nekrotik berwarna hitam yang menyerupai sarang laba-laba terlihat di bawah kulitnya yang tembus pandang, merayap dari pergelangan tangan hingga ke sikunya bagaikan galian cacing gelap.</p>
 <p>&quot;Lihatlah aku, anak muda,&quot; kata Roh Air itu dengan lembut. &quot;Akulah samudra. Setiap tetes hujan yang jatuh di Puncak Sky-Spire, setiap sungai yang mengukir Dataran Tinggi Ironheart, setiap gelombang yang menghempas tebing-tebing barat mengalir melalui kesadaranku. Selama lima ribu tahun, aku telah menjaga keseimbangan. Namun sekarang...&quot;</p>
@@ -24127,6 +24284,7 @@ Air laut menelannya bulat-bulat—bukan dengan panas atau asam, melainkan dengan
 <hr>
 <h3>IV. Pasang Hitam Menjebol</h3>
 <p><em>PRAK!</em></p>
+<p>&quot;Dengarkan deburan pasang surut, Ren. Dalam tiap tetes tersimpan memori samudera pertama.&quot; seru Thalassor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Batu kunci pusat Perisai Hidro-Kinetik retak.</p>
 <p>Seberkas energi hitam yang menyilaukan meluncur menerobos bagian tengah kubah kaca tembus pandang. Seketika, beribu-ribu ton lumpur nekrotik bertekanan tinggi meledak menembus celah tersebut dengan daya hancur yang katastropik. Gelombang kejutnya menghancurkan lengkungan gerbang mutiara di istana luar, seketika melumat patung-patung karang berusia berabad-abad menjadi abu.</p>
 <p>Dinding cairan pekat sehitam jelaga, setinggi lima puluh kaki, menerjang lurus ke dalam Istana Mutiara.</p>
@@ -24281,6 +24439,9 @@ Thalassor mengangkat mata safirnya untuk menatap lurus ke dalam dada Ren, tempat
 
 Ren melangkah mundur setengah tapak, jemarinya secara naluriah menyentuh tas kantong di sisinya. "Master Kael membesarkanku untuk menyembuhkan dunia. Dia memberitahuku bahwa garis-garis ley sedang retak, bahwa para roh membutuhkan sebuah jembatan..."
 
+"Air mengalah pada segala hal, namun mengikis granit terkeras. Mari mengalir menjadi satu." seru Thalassor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 "Kael memberitahumu separuh kebenaran yang terbungkus madu," kata Thalassor, suaranya merendah satu oktaf, terdengar bagaikan batu-batu yang bergesekan di dalam arus bawah. "Dia memang berusaha menyatukan sepuluh frekuensi. Namun bukan untuk memulihkan Vaelen. Dia berusaha membangun sebuah inti mutlak—sebuah puncak tunggal yang tak tergoyahkan yang akan merobek selubung spiritual dari planet ini dan menjadikannya dewa abu."
 
 Thalassor mengangkat tangan kirinya. Sutra cair dari lengan bajunya tersingkap, memperlihatkan lengan bawahnya. Urat-urat lumpur nekrotik berwarna hitam yang menyerupai sarang laba-laba terlihat di bawah kulitnya yang tembus pandang, merayap dari pergelangan tangan hingga ke sikunya bagaikan galian cacing gelap.
@@ -24340,6 +24501,9 @@ Sebelum Thalassor sempat menanggapi, suara bagaikan gunung yang hancur berkeping
 ### IV. Pasang Hitam Menjebol
 
 *PRAK!*
+
+"Dengarkan deburan pasang surut, Ren. Dalam tiap tetes tersimpan memori samudera pertama." seru Thalassor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Batu kunci pusat Perisai Hidro-Kinetik retak.
 
@@ -24405,7 +24569,7 @@ Dalam bab ini, Ren berhasil mengatasi ancaman keabadian abisal yang merusak di s
 
 Menyaksikan kemampuan Ren dalam menyelaraskan dua kekuatan primordial, Thalassor memberikan penghormatan mendalam dan menyerahkan *Tear of the Ocean Trench*. Intisari elemen air tersebut menyatu dengan Inti Hampa (*Hollow Core*) Ren, memulihkan tenaganya serta menciptakan keseimbangan baru antara elemen kayu dan air. Setelah kondisi lautan barat kembali stabil, Ren bersiap melanjutkan perjalanannya menuju wilayah *leylines* lainnya yang sedang mengalami krisis.
 
-Apakah Anda ingin melanjutkan dengan ringkasan untuk bab berikutnya dari kisah ini?`,stats:{vignette:{words:221,minutes:1},expanded:{words:3901,minutes:20}}},{number:14,title:"Singularitas Pasang Surut",act:2,actTitle:"Kisah II: Pendakian Utara & Pergeseran Kesetiaan",realm:"Laut Thalassor",spirit:"Thalassor",element:"Air & Samudra",badge:"Bab 14 • LAUT THALASSOR",elevation:"0m hingga -4.000m Palung Samudra",location:"Palung Pusaran Abisal, Laut Thalassor",direction:"Pesisir Barat",image:"./images/regional_vistas/thalassor_water.jpg",vignetteHtml:`<p>Empat ribu meter di bawah permukaan yang dihantam badai, Palung Pusaran Abisal bergolak dengan bau menyengat dari garam kuno dan besi yang hancur. Pendaran hayati yang berpusar menembus kegelapan air yang pekat, menyinari tenggelamnya kapal induk Komandan Vane sewaktu zirah anti-sihir yang berat menyeret para Inkuisitor yang lemas tenggelam ke dalam pusaran air. Enggan membiarkan para pengejarnya binasa di lautan kelam, Ren terjun ke dalam rahang abisal, paru-parunya serasa terbakar menahan tekanan yang meremukkan.</p>
+Apakah Anda ingin melanjutkan dengan ringkasan untuk bab berikutnya dari kisah ini?`,stats:{vignette:{words:221,minutes:1},expanded:{words:3946,minutes:20}}},{number:14,title:"Singularitas Pasang Surut",act:2,actTitle:"Kisah II: Pendakian Utara & Pergeseran Kesetiaan",realm:"Laut Thalassor",spirit:"Thalassor",element:"Air & Samudra",badge:"Bab 14 • LAUT THALASSOR",elevation:"0m hingga -4.000m Palung Samudra",location:"Palung Pusaran Abisal, Laut Thalassor",direction:"Pesisir Barat",image:"./images/regional_vistas/thalassor_water.jpg",vignetteHtml:`<p>Empat ribu meter di bawah permukaan yang dihantam badai, Palung Pusaran Abisal bergolak dengan bau menyengat dari garam kuno dan besi yang hancur. Pendaran hayati yang berpusar menembus kegelapan air yang pekat, menyinari tenggelamnya kapal induk Komandan Vane sewaktu zirah anti-sihir yang berat menyeret para Inkuisitor yang lemas tenggelam ke dalam pusaran air. Enggan membiarkan para pengejarnya binasa di lautan kelam, Ren terjun ke dalam rahang abisal, paru-parunya serasa terbakar menahan tekanan yang meremukkan.</p>
 <p>Menyatukan sulur-sulur hidup Sylvan dengan kabel-kabel krom mengapung milik Valen, Ren menyeret para perwira yang terbatuk-batuk itu ke atas terumbu karang yang telah distabilkan sebelum menyalurkan kekuatan roh primordial Thalassor. Dengan memadukan kekuatan mereka, mereka melepaskan Singularitas Pasang Surut, memerangkap leviathan entropi itu di dalam bola air bertekanan tanpa gravitasi yang menghancurkan inti gelapnya hingga menjadi debu. Basah kuyup dan tertunduk penuh rasa hormat di atas terumbu karang yang telah pulih, Komandan Vane menurunkan tombak-kapaknya, menawarkan gencatan senjata tanpa kata yang memberikan Ren jalan menuju utara yang membeku.</p>
 `,expandedHtml:`<h3>I. Kapal Besi di Jurang Abisal</h3>
 <p>Tepi barat Planet Vaelen tidak berakhir dengan pasir yang lembut atau perairan dangkal yang tenang; daratan itu runtuh dari ujung landas benua ke dalam Laut Thalassor, sebuah jurang biru membentang yang merosot tajam dari permukaan laut menuju kesunyian sehitam tinta di kedalaman empat ribu meter di bawahnya. Selama tiga hari, garis cakrawala telah mendarahkan warna nila yang tidak alami dan tampak mengerikan. Garis-garis ley yang merajut kerak planet bergetar dalam nada yang amat menyiksa, berdengung menembus sumsum tulang Ren Ashveil bagaikan kawat besi yang dipetik keras.</p>
@@ -24478,6 +24642,7 @@ Apakah Anda ingin melanjutkan dengan ringkasan untuk bab berikutnya dari kisah i
 <p>Ren menghentakkan kaki, meluncur keluar dari bangkai kapal yang kian karam. Dengan tubuh Vane yang terikat erat di punggungnya, aura hidrokinetik di sekeliling Ren memancar hebat menjadi bola cahaya pirus yang menyilaukan. Bak roket samudra, Ren melesatkan mereka menembus lambung kapal yang jatuh, membumbung pesat mengarungi kegelapan air yang bergolak menuju pelataran karang tiga ratus meter di atas mereka.</p>
 <h3>IV. Manifestasi Sang Penjaga Pasang</h3>
 <p>Mereka menerobos masuk ke atas dangkalan karang yang terendam—sebuah mesa datar yang luas dari batu laut purba yang telah memfosil, terletak lima puluh meter di bawah turbulensi permukaan.</p>
+<p>&quot;Dari palung terdalam hingga puncak gelombang—Kataklisme Banjir Abisal!&quot; seru Thalassor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Ren membaringkan Vane dan enam perwira Ortodoksi lain yang selamat ke atas dangkalan tersebut. Area itu terlindung dari tarikan utama pusaran air permukaan oleh menara-menara runcing raksasa dari kristal alami, namun suaka itu hanya bertahan sesaat.</p>
 <p>Dasar samudra di bawah kaki mereka mulai berguncang hebat.</p>
 <p><em>DUM... DUM... DUM...</em></p>
@@ -24711,6 +24876,9 @@ Ren menghentakkan kaki, meluncur keluar dari bangkai kapal yang kian karam. Deng
 
 Mereka menerobos masuk ke atas dangkalan karang yang terendam—sebuah mesa datar yang luas dari batu laut purba yang telah memfosil, terletak lima puluh meter di bawah turbulensi permukaan.
 
+"Dari palung terdalam hingga puncak gelombang—Kataklisme Banjir Abisal!" seru Thalassor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Ren membaringkan Vane dan enam perwira Ortodoksi lain yang selamat ke atas dangkalan tersebut. Area itu terlindung dari tarikan utama pusaran air permukaan oleh menara-menara runcing raksasa dari kristal alami, namun suaka itu hanya bertahan sesaat.
 
 Dasar samudra di bawah kaki mereka mulai berguncang hebat.
@@ -24876,7 +25044,7 @@ Di belakangnya, berdiri hening di atas terumbu karang yang baru tercipta, Komand
 
 ---
 
-> *"Di samudra abisal terdalam, kekuatan terbesar bukanlah perlawanan, melainkan keheningan di titik pusat."*`,stats:{vignette:{words:162,minutes:1},expanded:{words:4973,minutes:25}}},{number:15,title:"Permafrost Gelasia",act:2,actTitle:"Babak II: Pendakian Utara & Pergeseran Kesetiaan",realm:"Tudung Es Kryosia",spirit:"Kryos",element:"Es & Suhu Nol Mutlak",badge:"Bab 15 • TUDUNG ES KRYOSIA",elevation:"+3.600 m Dataran Tinggi Gelasia",location:"Dataran Taiga Membeku, Tudung Es Kryosia",direction:"Barat Laut",image:"./images/regional_vistas/kryos_glacier.jpg",vignetteHtml:`<p>Menembus punggung bukit setajam bilah di ketinggian tiga ribu enam ratus meter, Ren melangkah ke dataran tinggi Tudung Es Kryosia yang menyilaukan, tempat badai salju beriklim di bawah nol membawa aroma logam yang tajam dari suhu nol mutlak. Di angkasa, tirai zamrud aurora borealis bergelombang melintasi kehampaan langit, menerangi lengkungan karang laut biru yang tembus cahaya dan gletser-gletser purba. Hama embun beku yang merayap seketika mengancam sulur-sulur vegetatif Sylvan yang rapuh, membuat dedaunan cantiknya menjadi getas. Bereaksi cepat, Ren menyalurkan induksi magnetik Valen melalui sarung pelindung tangannya, mengalirkan dengung kehangatan termal untuk melindungi pendamping setianya itu.</p>
+> *"Di samudra abisal terdalam, kekuatan terbesar bukanlah perlawanan, melainkan keheningan di titik pusat."*`,stats:{vignette:{words:162,minutes:1},expanded:{words:4991,minutes:25}}},{number:15,title:"Permafrost Gelasia",act:2,actTitle:"Babak II: Pendakian Utara & Pergeseran Kesetiaan",realm:"Tudung Es Kryosia",spirit:"Kryos",element:"Es & Suhu Nol Mutlak",badge:"Bab 15 • TUDUNG ES KRYOSIA",elevation:"+3.600 m Dataran Tinggi Gelasia",location:"Dataran Taiga Membeku, Tudung Es Kryosia",direction:"Barat Laut",image:"./images/regional_vistas/kryos_glacier.jpg",vignetteHtml:`<p>Menembus punggung bukit setajam bilah di ketinggian tiga ribu enam ratus meter, Ren melangkah ke dataran tinggi Tudung Es Kryosia yang menyilaukan, tempat badai salju beriklim di bawah nol membawa aroma logam yang tajam dari suhu nol mutlak. Di angkasa, tirai zamrud aurora borealis bergelombang melintasi kehampaan langit, menerangi lengkungan karang laut biru yang tembus cahaya dan gletser-gletser purba. Hama embun beku yang merayap seketika mengancam sulur-sulur vegetatif Sylvan yang rapuh, membuat dedaunan cantiknya menjadi getas. Bereaksi cepat, Ren menyalurkan induksi magnetik Valen melalui sarung pelindung tangannya, mengalirkan dengung kehangatan termal untuk melindungi pendamping setianya itu.</p>
 <p>Kedamaian beku itu pecah seketika saat Arwah Permafrost dari es hitam bergerigi menyergap rombongan mereka dari tundra. Memadukan pita-pita air deras Thalassor dengan resonansi batu Golgath, Ren melepaskan gelombang kejut hidrostatik yang meremukkan monster-monster bayangan tersebut secara dahsyat hingga hancur menjadi debu yang berkilauan. Setelah kemenangan diraih, badai salju yang melolong perlahan mereda, menyibakkan tujuan mereka yang sebenarnya: Menara Mahkota Es, sebuah katedral kristal monumental yang berpendar dalam cahaya bintang pirus nan magis milik Roh Primordial Kryos.</p>
 `,expandedHtml:`<h3>I. Napas Kubah Biru Tinggi</h3>
 <p>Udara di ketinggian tiga ribu enam ratus meter di atas permukaan laut tidak sekadar memiliki rasa dingin; udara itu memiliki taring. Terdapat cita rasa tembaga yang terkikis, granit purba, dan kemurnian mengerikan dari dunia yang telah ditanggalkan dari seluruh kehangatan fana.</p>
@@ -25355,6 +25523,7 @@ Di belakang mereka, jejak-jejak kaki yang mereka tinggalkan di lapisan tanah bek
 <p>Itu bukanlah gema. Itu adalah denting kedua, memiliki tinggi nada yang identik namun berlawanan secara intonasi, mengalun dari kedalaman lantai yang membeku. Bayangan di bawah tubuh Ren tidak ikut bergerak ketika ia bergerak. Saat ia mengangkat kaki kanannya untuk mengambil langkah kedua, sosok di dalam cermin es itu tetap tak bergeming; wajahnya menengadah, dan mata pucatnya menatap lurus, menembus tepat ke dalam matanya sendiri.</p>
 <h3>II. Paragon Rapier Glasia</h3>
 <p>&quot;Sebuah inti yang menyimpan empat suara,&quot; sebuah suara berkata.</p>
+<p>&quot;Dalam keheningan mutlak, kejernihan sejati ditemukan. Rasakan embun beku abadi.&quot; seru Kryos, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Suara itu tidak datang dari kiri ataupun kanan. Suara itu berasal dari udara itu sendiri—dari getaran struktural pilar-pilar es, dari keheningan molekuler atmosfer yang membeku.</p>
 <p>Di tengah lantai cermin, tujuh puluh yard di depan, udara dingin yang membeku berkondensasi. Udara itu tidak mengembun atau berpusar seperti uap; udara itu mengristal. Debu halus yang berkilau melayang di udara, mengunci satu sama lain dengan kesempurnaan geometris membentuk sosok sesosok tubuh.</p>
 <p>Kryos melangkah keluar dari cahaya.</p>
@@ -25378,6 +25547,7 @@ Di belakang mereka, jejak-jejak kaki yang mereka tinggalkan di lapisan tanah bek
 <p>&quot;Hunus tongkatmu, Sang Magang dari Oakhaven. Mari kita lihat apakah jiwamu adalah kaca... atau intan.&quot;</p>
 <h3>III. Resonansi Permukaan yang Membeku</h3>
 <p>Sebelum Ren sempat menyelesaikan tarikan napas yang dibutuhkan untuk menyalurkan daya-hidup hijau Sylvan, Kryos telah bergerak.</p>
+<p>&quot;Api menghabiskan dirinya dalam amukan, namun es bertahan melintasi ribuan tahun.&quot; seru Kryos, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Tak ada bunyi derap sepatu yang menerjang, tak ada pergeseran tumpuan beban. Roh Es itu meluncur begitu saja di atas lantai-cermin bagaikan bayangan yang dilemparkan oleh kilat. Bilah biru tua dari rapier gletser itu melebur menjadi kaburan garis-garis perak-biru yang memenuhi lorong tengah katedral.</p>
 <p><em>Jarum Kryo Bawah-Nol.</em></p>
 <p>Ren tidak mencoba menghindar. Udara di sekitarnya telah merosot melampaui ambang batas di mana otot manusia mampu bereaksi dengan cepat. Alih-alih menghindar, ia menghentakkan pangkal tongkat kayu-terasnya ke es-cermin.</p>
@@ -25410,6 +25580,7 @@ Di belakang mereka, jejak-jejak kaki yang mereka tinggalkan di lapisan tanah bek
 <p>Suaka itu berubah menjadi badai cahaya putih dan gemerincing baja. Setiap permukaan seketika terkonversi menjadi kaleidokop mematikan dari anak-anak panah kriogenik yang memantul liar.</p>
 <h3>IV. Kelenturan di Bawah Lapisan Es</h3>
 <p>Ren jatuh berlutut.</p>
+<p>&quot;Biarkan waktu dan napas membeku dalam keheningan! Stasis Glasial Nol Mutlak!&quot; seru Kryos, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Dia tidak melakukannya untuk menyerah; dia melakukannya untuk merendahkan tubuhnya demi menghindari badai jarum yang menderu secara horizontal. Dia menghempaskan kedua telapak tangannya—yang berdarah dan robek akibat terkelupas dari tongkat teras kayu—langsung ke atas permukaan es-kaca di bawahnya.</p>
 <p><em>Aku tidak bisa menggunakan Tanah. Tanah hancur berkerai di bawah guncangan termal.</em><br><em>Aku tidak bisa menggunakan Kayu. Kayu meledak ketika getahnya membeku menjadi es.</em></p>
 <p><em>Apa yang tidak hancur saat membeku?</em></p>
@@ -25555,6 +25726,9 @@ Itu bukanlah gema. Itu adalah denting kedua, memiliki tinggi nada yang identik n
 
 "Sebuah inti yang menyimpan empat suara," sebuah suara berkata.
 
+"Dalam keheningan mutlak, kejernihan sejati ditemukan. Rasakan embun beku abadi." seru Kryos, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Suara itu tidak datang dari kiri ataupun kanan. Suara itu berasal dari udara itu sendiri—dari getaran struktural pilar-pilar es, dari keheningan molekuler atmosfer yang membeku.
 
 Di tengah lantai cermin, tujuh puluh yard di depan, udara dingin yang membeku berkondensasi. Udara itu tidak mengembun atau berpusar seperti uap; udara itu mengristal. Debu halus yang berkilau melayang di udara, mengunci satu sama lain dengan kesempurnaan geometris membentuk sosok sesosok tubuh.
@@ -25601,6 +25775,9 @@ Pupil safir Sang Roh Es berbinar tajam.
 
 
 Sebelum Ren sempat menyelesaikan tarikan napas yang dibutuhkan untuk menyalurkan daya-hidup hijau Sylvan, Kryos telah bergerak.
+
+"Api menghabiskan dirinya dalam amukan, namun es bertahan melintasi ribuan tahun." seru Kryos, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Tak ada bunyi derap sepatu yang menerjang, tak ada pergeseran tumpuan beban. Roh Es itu meluncur begitu saja di atas lantai-cermin bagaikan bayangan yang dilemparkan oleh kilat. Bilah biru tua dari rapier gletser itu melebur menjadi kaburan garis-garis perak-biru yang memenuhi lorong tengah katedral.
 
@@ -25666,6 +25843,9 @@ Suaka itu berubah menjadi badai cahaya putih dan gemerincing baja. Setiap permuk
 
 
 Ren jatuh berlutut.
+
+"Biarkan waktu dan napas membeku dalam keheningan! Stasis Glasial Nol Mutlak!" seru Kryos, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Dia tidak melakukannya untuk menyerah; dia melakukannya untuk merendahkan tubuhnya demi menghindari badai jarum yang menderu secara horizontal. Dia menghempaskan kedua telapak tangannya—yang berdarah dan robek akibat terkelupas dari tongkat teras kayu—langsung ke atas permukaan es-kaca di bawahnya.
 
@@ -25876,7 +26056,7 @@ Mereka melangkah bersama melintasi gletser tinggi itu—sang pemuda bidaah berin
 
 ---
 
-> *"Cermin yang murni memantulkan tanpa menghakimi, namun akan hancur berkeping bila dihantam oleh amarah."*`,stats:{vignette:{words:166,minutes:1},expanded:{words:5302,minutes:27}}},{number:17,title:"Zaman Es Glasial",act:2,actTitle:"Babak II: Pendakian Utara & Pergeseran Kesetiaan",realm:"Tudung Es Kryosia",spirit:"Kryos",element:"Es & Suhu Nol Mutlak",badge:"Bab 17 • TUDUNG ES KRYOSIA",elevation:"+3.600m Dataran Tinggi Glasial",location:"Suaka Celah Glasial, Tudung Es Kryosia",direction:"Barat Laut",image:"./images/regional_vistas/kryos_glacier.jpg",vignetteHtml:`<p>Jauh di ketinggian Tudung Es Kryosia yang merenggut napas, tiga ribu enam ratus meter di atas dunia yang disinari mentari, Suaka Celah Glasial terbaring diselimuti remang biru yang gaib. Udara tipis beraroma ozon menggigit kulit yang terbuka dengan ganas, berbau fros purba dan debu mineral hancur saat hembusan angin meraung melewati lengkungan-lengkungan es. Berdiri di tengah reruntuhan katedral, Ren menguatkan anggota tubuhnya yang lelah saat kubah di atas kepalanya hancur berkeping-keping. Dari celah gelap itu muncul seekor Titan Fros-Bayangan mengerikan dari es hitam terdistorsi, mengancam akan menenggelamkan garis-garis ley utara dalam kegelapan abadi.</p>
+> *"Cermin yang murni memantulkan tanpa menghakimi, namun akan hancur berkeping bila dihantam oleh amarah."*`,stats:{vignette:{words:166,minutes:1},expanded:{words:5364,minutes:27}}},{number:17,title:"Zaman Es Glasial",act:2,actTitle:"Babak II: Pendakian Utara & Pergeseran Kesetiaan",realm:"Tudung Es Kryosia",spirit:"Kryos",element:"Es & Suhu Nol Mutlak",badge:"Bab 17 • TUDUNG ES KRYOSIA",elevation:"+3.600m Dataran Tinggi Glasial",location:"Suaka Celah Glasial, Tudung Es Kryosia",direction:"Barat Laut",image:"./images/regional_vistas/kryos_glacier.jpg",vignetteHtml:`<p>Jauh di ketinggian Tudung Es Kryosia yang merenggut napas, tiga ribu enam ratus meter di atas dunia yang disinari mentari, Suaka Celah Glasial terbaring diselimuti remang biru yang gaib. Udara tipis beraroma ozon menggigit kulit yang terbuka dengan ganas, berbau fros purba dan debu mineral hancur saat hembusan angin meraung melewati lengkungan-lengkungan es. Berdiri di tengah reruntuhan katedral, Ren menguatkan anggota tubuhnya yang lelah saat kubah di atas kepalanya hancur berkeping-keping. Dari celah gelap itu muncul seekor Titan Fros-Bayangan mengerikan dari es hitam terdistorsi, mengancam akan menenggelamkan garis-garis ley utara dalam kegelapan abadi.</p>
 <p>Saat sang titan menyerang, Roh Primordial Kryos menyentuh Inti Hampa milik Ren, memadukan mana es-intan ke dalam pelindung lengan elemental miliknya bersama air, logam, batu, dan kayu. Ren mengaktifkan domain Zaman Es Glasial, menghempaskan suaka tersebut ke suhu nol mutlak dan membalut medan perang dalam fros abadi intan yang padat. Makhluk raksasa yang tak berkutik itu hancur menjadi salju berkilauan yang tak berbahaya saat es mencair. Dengan bergabungnya Kryos ke dalam wadahnya, kabut es menyingsing untuk menyingkapkan jalan menuju Puncak Sky-Spire yang menembus awan.</p>
 `,expandedHtml:`<h3>I. Katedral Cermin Retak</h3>
 <p>Udara di ketinggian tiga ribu enam ratus meter tidak sekadar mendinginkan kulit; udara itu menggigit hingga menembus tulang dengan kelaparan yang presisi dan metodis bagaikan pahat besi.</p>
@@ -27035,6 +27215,7 @@ Dia menoleh menatap Vane, sebuah sunggingan senyum tipis yang penuh percaya diri
 <p>Di atas mereka, awan badai berurat legam terbelah layaknya netra yang menjelang ajal. Dari celah robekan langit tersebut, seberkas pendar cahaya sian yang gilang-gemilang menyambar dahsyat ke bawah, menghantam tepat di tengah altar cincin kuarsa yang membentang lima puluh langkah di hadapan mereka.</p>
 <h3>II. Bisikan Badai Lazuardi</h3>
 <p>Anjungan itu adalah sebuah amfiteater alami yang terpahat di puncak jarum tertinggi dalam gugusan pegunungan—sebuah lingkaran kuarsa putih mengristal bagai kaca sepanjang enam ratus langkah, menggantung melayang di atas jurang awan tak berdasar. Di pusat lingkaran tersebut, di mana pilar cahaya sian menghantam batu, angin tidak sekadar bertiup; angin itu berputar dalam kesempurnaan geometris dan matematis.</p>
+<p>&quot;Kau tak bisa menangkap angin, Ren, tapi kau bisa membentangkan sayap dan terbang bersamanya!&quot; seru Zephyros, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Ren melangkah ke atas anjungan kuarsa, sepatu boot-nya berdetak halus menimpa permukaan licin bagai kaca. Pada setiap langkah, tekanan di sekeliling tubuhnya bergeser. Bila udara di luar anjungan terasa tipis dan membeku, bagian dalam lingkaran itu berdegung dengan potensi kinetik yang amat sangat padat.</p>
 <p>Dari tengah-tengah pilar cahaya sian, sebuah sosok mewujud.</p>
 <p>Wujud itu tidak memiliki bentuk fana, bukan pula binatang berotot dan bertulang. Zephyros memanifestasikan diri sebagai siluet bersayap yang menjulang tinggi, seluruhnya tercipta dari arus angin yang menderu, cahaya biru langit yang berpendar, dan pecahan-pecahan kaca atmosfer. Rentang sayapnya mencapai empat puluh yard, helai bulunya terbuat dari bilah hampa udara terkompresi yang berdegung dengan nada hipersonik yang mengerikan. Melayang di sekitar entitas tersebut adalah sepasang belati kaca-angin—bilah yang ditempa dari tekanan udara yang mengristal, bergetar begitu cepat hingga tampak nyaris transparan, memancarkan kilatan prismatik ke atas salju.</p>
@@ -27059,6 +27240,7 @@ Dia menoleh menatap Vane, sebuah sunggingan senyum tipis yang penuh percaya diri
 <hr>
 <h3>III. Konvergensi Deru Badai dan Inti</h3>
 <p>Roh Primordial Udara melipat sayap sian raksasanya mengelilingi dirinya sendiri. Belati kembar dari kaca-angin melarut menjadi arus cair udara bertekanan tinggi yang berpusar di sekeliling pusat tubuh Zephyros.</p>
+<p>&quot;Langit tiada mengenal batas ataupun belenggu. Selama kau bernapas, kau bebas tak terikat.&quot; seru Zephyros, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p><strong>&quot;TERIMALAH PERJANJIAN INI, SANG PEMILIK KEHAMPAAN,&quot;</strong> seru Zephyros bergaung. <strong>&quot;JADILAH ARUS LUNCUR. JADILAH GUNTINGAN ANGIN. BIARKAN LANGIT VAELEN MENJADI JALANMU, BUKAN PENJARAMU.&quot;</strong></p>
 <p>Zephyros meluncur lurus ke atas menuju stratosfer, lalu berbalik dan menghujam ke bawah bagai bintang jatuh dari cahaya biru azur. Ia tidak menghantam Ren sebagai seorang musuh, melainkan menancapkan dirinya secara langsung ke dada Ren yang terbuka.</p>
 <p><em>THUUUUM.</em></p>
@@ -27087,6 +27269,7 @@ Dia menoleh menatap Vane, sebuah sunggingan senyum tipis yang penuh percaya diri
 <p>&quot;Itu barulah bagian pinggirnya,&quot; ucap Ren, sepasang mata siannya berkilat-kilat saat ia menatap lurus ke pusat super-siklon yang menderu dahsyat. &quot;Kini, saatnya kita membersihkan langit.&quot;</p>
 <h3>IV. Mata Hiper-Topan Dilepaskan</h3>
 <p>Ren berjalan menuju titik pusat mutlak dari anjungan kuarsa itu—titik tempat simpul <em>leyline</em> bersimpangan dengan langit stratosfer. Dia menancapkan tongkat Kayu Jantung Sylvan miliknya dengan kokoh ke dalam batu yang telah mengkaca, menghunjamkan pangkalnya yang berujung akar sejauh tiga inci ke dalam lantai.</p>
+<p>&quot;Tunggangi badai supersonik! Pusaran Siklon Hipersonik!&quot; seru Zephyros, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Dia merengkuh jauh ke dalam Inti Hampa miliknya, menarik tiga jalinan elemental secara bersamaan: Sylvan untuk pertumbuhan dan kestabilan akar, Golgath untuk resonansi batu, dan Zephyros untuk kendali atmosferik.</p>
 <p>&quot;Zephyros,&quot; bisik Ren. &quot;Pinjamkan aku langit.&quot;</p>
 <p>Pilar energi sian meletus dari inti Ren, membumbung lurus ke angkasa bagaikan tombak kilat biru. Batang cahaya itu menembus tepat di tengah badai entropik yang gelap, tujuh ribu meter di atas mereka.</p>
@@ -27188,6 +27371,9 @@ Di atas mereka, awan badai berurat legam terbelah layaknya netra yang menjelang 
 
 Anjungan itu adalah sebuah amfiteater alami yang terpahat di puncak jarum tertinggi dalam gugusan pegunungan—sebuah lingkaran kuarsa putih mengristal bagai kaca sepanjang enam ratus langkah, menggantung melayang di atas jurang awan tak berdasar. Di pusat lingkaran tersebut, di mana pilar cahaya sian menghantam batu, angin tidak sekadar bertiup; angin itu berputar dalam kesempurnaan geometris dan matematis.
 
+"Kau tak bisa menangkap angin, Ren, tapi kau bisa membentangkan sayap dan terbang bersamanya!" seru Zephyros, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Ren melangkah ke atas anjungan kuarsa, sepatu boot-nya berdetak halus menimpa permukaan licin bagai kaca. Pada setiap langkah, tekanan di sekeliling tubuhnya bergeser. Bila udara di luar anjungan terasa tipis dan membeku, bagian dalam lingkaran itu berdegung dengan potensi kinetik yang amat sangat padat.
 
 Dari tengah-tengah pilar cahaya sian, sebuah sosok mewujud.
@@ -27236,6 +27422,9 @@ Zephyros tertegun di udara, wujud bersayapnya goyah selama sepersekian detik saa
 
 
 Roh Primordial Udara melipat sayap sian raksasanya mengelilingi dirinya sendiri. Belati kembar dari kaca-angin melarut menjadi arus cair udara bertekanan tinggi yang berpusar di sekeliling pusat tubuh Zephyros.
+
+"Langit tiada mengenal batas ataupun belenggu. Selama kau bernapas, kau bebas tak terikat." seru Zephyros, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 **"TERIMALAH PERJANJIAN INI, SANG PEMILIK KEHAMPAAN,"** seru Zephyros bergaung. **"JADILAH ARUS LUNCUR. JADILAH GUNTINGAN ANGIN. BIARKAN LANGIT VAELEN MENJADI JALANMU, BUKAN PENJARAMU."**
 
@@ -27293,6 +27482,9 @@ Vane menurunkan pedangnya secara perlahan, mulutnya sedikit ternganga. "Demi par
 
 
 Ren berjalan menuju titik pusat mutlak dari anjungan kuarsa itu—titik tempat simpul *leyline* bersimpangan dengan langit stratosfer. Dia menancapkan tongkat Kayu Jantung Sylvan miliknya dengan kokoh ke dalam batu yang telah mengkaca, menghunjamkan pangkalnya yang berujung akar sejauh tiga inci ke dalam lantai.
+
+"Tunggangi badai supersonik! Pusaran Siklon Hipersonik!" seru Zephyros, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Dia merengkuh jauh ke dalam Inti Hampa miliknya, menarik tiga jalinan elemental secara bersamaan: Sylvan untuk pertumbuhan dan kestabilan akar, Golgath untuk resonansi batu, dan Zephyros untuk kendali atmosferik.
 
@@ -27407,7 +27599,7 @@ Di bawahnya, Benua Vaelen menanti badai yang akan datang.
 
 ---
 
-> *"Badai paling ganas tidak dijinakkan dengan menentang kekuatannya, melainkan dengan mengisi ketenangannya."*`,stats:{vignette:{words:154,minutes:1},expanded:{words:3993,minutes:20}}},{number:21,title:"Perlintasan Gunung Tinggi",act:2,actTitle:"Babak II: Pendakian Utara & Pergeseran Kesetiaan",realm:"Puncak Sky-Spire",spirit:"Zephyros",element:"Udara & Terbang Hipersonik",badge:"Bab 21 • PUNCAK SKY-SPIRE",elevation:"+7.800m Puncak Jarum Garis Awan",location:"Jembatan Alpen Tepi Pisau, Puncak Sky-Spire",direction:"Utara-Tengah",image:"./images/regional_vistas/sky_spire_air.jpg",vignetteHtml:`<p>Jauh di atas batas awan pada ketinggian hampir delapan ribu meter, Jembatan Alpen Tepi Pisau menggantung melayang di atas jurang tanpa dasar; bentangan marmer dan besi kunonya mengerang menahan deru angin kencang Puncak Sky-Spire. Ren menerobos maju ke dalam cahaya biru nila yang menyilaukan, paru-parunya serasa terbakar oleh udara tipis yang dingin membeku, sementara bisikan Zephyros yang mahadir berdesir melintasi jubahnya yang tertutup debu embun beku. Di bawahnya terhampar lautan kabut tanpa tepi, namun di depan, langit yang tersengat beku mulai ternoda warna merah darah yang menekan saat uap belerang melayang naik dari punggung bukit utara yang kian mendekat.</p>
+> *"Badai paling ganas tidak dijinakkan dengan menentang kekuatannya, melainkan dengan mengisi ketenangannya."*`,stats:{vignette:{words:154,minutes:1},expanded:{words:4056,minutes:20}}},{number:21,title:"Perlintasan Gunung Tinggi",act:2,actTitle:"Babak II: Pendakian Utara & Pergeseran Kesetiaan",realm:"Puncak Sky-Spire",spirit:"Zephyros",element:"Udara & Terbang Hipersonik",badge:"Bab 21 • PUNCAK SKY-SPIRE",elevation:"+7.800m Puncak Jarum Garis Awan",location:"Jembatan Alpen Tepi Pisau, Puncak Sky-Spire",direction:"Utara-Tengah",image:"./images/regional_vistas/sky_spire_air.jpg",vignetteHtml:`<p>Jauh di atas batas awan pada ketinggian hampir delapan ribu meter, Jembatan Alpen Tepi Pisau menggantung melayang di atas jurang tanpa dasar; bentangan marmer dan besi kunonya mengerang menahan deru angin kencang Puncak Sky-Spire. Ren menerobos maju ke dalam cahaya biru nila yang menyilaukan, paru-parunya serasa terbakar oleh udara tipis yang dingin membeku, sementara bisikan Zephyros yang mahadir berdesir melintasi jubahnya yang tertutup debu embun beku. Di bawahnya terhampar lautan kabut tanpa tepi, namun di depan, langit yang tersengat beku mulai ternoda warna merah darah yang menekan saat uap belerang melayang naik dari punggung bukit utara yang kian mendekat.</p>
 <p>Di tengah perlintasan, seekor elang mekanis berbulu perak membelah angin badai, menguraikan peringatan mengerikan dari Komandan Vane mengenai larik penindas yang baru saja dikerahkan oleh Ibu Kota. Pesan itu membuat Ren merenungi keterikatan Master Kael yang meresahkan dengan perintah-perintah Kanselir Agung, walau ia meneguhkan hatinya untuk menuntut kebenaran begitu ia mencapai Benteng Fajar. Mengalirkan letupan resonansi roh hipersonik dari Zephyros demi menstabilkan pijakannya yang rawan di tengah gempuran angin bergolak, Ren terus melangkah maju menuju pendar termal yang mendadak menyengat, menapak mantap mendekati ambang batas Kaldera Abu Bara yang sarat akan bara api.</p>
 `,expandedHtml:`<h3>I. Utas di Atas Kehampaan</h3>
 <p>Pada ketinggian tujuh ribu delapan ratus meter di atas permukaan Planet Vaelen, udara tidak sekadar berembus; udara di sana menyayat. Itu adalah terpaan hampa udara yang kering dan setajam silet, begitu tipis dan jernih hingga setiap tarikan napas yang diambil Ren terasa seperti menelan berenggam bubuk kaca.</p>
@@ -28311,6 +28503,7 @@ Berdampingan, diselubungi oleh pusaran kabut pelindung dari iklim mikro mereka n
 <hr>
 <h3>IV. Perapian bagi Api Tanpa Batas</h3>
 <p>Ren menurunkan kedua tangannya. Telapak tangannya lecet dan kemerahan, tuniknya robek dan menghitam di dada, menyingkapkan inti zamrud transparan yang berpijar di bawah tulang dadanya. Inti itu tak lagi sekadar hijau; di dalam kedalamannya yang pekat dan berkristal, sebentuk percikan emas yang mungil namun terang sempurna melayang, berpusar perlahan bak bintang yang terperangkap.</p>
+<p>&quot;Sebutir percik api di kegelapan dapat membakar seisi dunia. Menyalah bersamaku, sang pemanggil!&quot; seru Ignis, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Ignis menatap dada Ren. Dia menjatuhkan ujung pedang besarnya yang sepanjang tujuh kaki ke lantai dengan dentuman pelan. Alur logam cair di sepanjang bilahnya menghening, kilau tajamnya melembut menjadi cahaya perapian berpalet ambar yang hangat.</p>
 <p>&quot;Kau mengalirkannya,&quot; bisik Ignis, melangkah maju dengan perlahan. Zirah basal gelapnya berdenting lembut, tak lagi memercikkan bunga api plasma yang kacau. &quot;Kau tidak memadamkannya. Kau tidak membenamkannya ke dalam air samudra, dan kau tidak membekukannya di bawah es Kryos. Kau... kau memberinya cerobong.&quot;</p>
 <p>&quot;Api bukanlah musuh yang harus ditaklukkan, Ignis,&quot; ujar Ren pelan, suaranya parau oleh panas, namun sarat akan keyakinan mutlak. Dia melangkah menuju sang roh, melintasi kaca keras yang mulai mendingin di bawah sepatu botnya. &quot;Master Kael mengajari kami bahwa elemen adalah kekuatan yang harus diikat, dirantai, dan dibelanjakan bagai keping emas. Dia memperlakukan api seperti senjata untuk menghanguskan musuh-musuhnya. Namun guruku di Oakhaven... dia mengajariku cara merawat perapian musim dingin.&quot;</p>
@@ -28518,6 +28711,9 @@ Satu-satunya suara yang tersisa hanyalah dentum irama berat dari sungai lava cai
 
 Ren menurunkan kedua tangannya. Telapak tangannya lecet dan kemerahan, tuniknya robek dan menghitam di dada, menyingkapkan inti zamrud transparan yang berpijar di bawah tulang dadanya. Inti itu tak lagi sekadar hijau; di dalam kedalamannya yang pekat dan berkristal, sebentuk percikan emas yang mungil namun terang sempurna melayang, berpusar perlahan bak bintang yang terperangkap.
 
+"Sebutir percik api di kegelapan dapat membakar seisi dunia. Menyalah bersamaku, sang pemanggil!" seru Ignis, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Ignis menatap dada Ren. Dia menjatuhkan ujung pedang besarnya yang sepanjang tujuh kaki ke lantai dengan dentuman pelan. Alur logam cair di sepanjang bilahnya menghening, kilau tajamnya melembut menjadi cahaya perapian berpalet ambar yang hangat.
 
 "Kau mengalirkannya," bisik Ignis, melangkah maju dengan perlahan. Zirah basal gelapnya berdenting lembut, tak lagi memercikkan bunga api plasma yang kacau. "Kau tidak memadamkannya. Kau tidak membenamkannya ke dalam air samudra, dan kau tidak membekukannya di bawah es Kryos. Kau... kau memberinya cerobong."
@@ -28651,7 +28847,7 @@ Tungku di dalam dadanya telah menyala, dan hawa dingin dunia tak lagi mampu menj
 
 ---
 
-> *"Hati yang takut akan nyala api takkan pernah mampu menempa kedamaian yang abadi."*`,stats:{vignette:{words:191,minutes:1},expanded:{words:4932,minutes:25}}},{number:24,title:"Duel Sang Pengikat Abu",act:3,actTitle:"Babak III: Kuali Elemen & Dosa-Dosa Masa Lalu",realm:"Kaldera Abu Bara",spirit:"Ignis",element:"Api & Plasma",badge:"Bab 24 • KALDERA ABU BARA",elevation:"+1.900m Pinggiran Kaldera Aktif",location:"Kuali Terak, Kaldera Abu Bara",direction:"Utara-Tengah",image:"./images/regional_vistas/caldera_cinders.jpg",vignetteHtml:`<p>Tinggi di sepanjang pinggiran seribu sembilan ratus meter Kaldera Abu Bara, Kuali Terak bergetar oleh plasma murni dan gelombang belerang yang mencekik. Angin tajam menyapu menara-menara obsidian yang mencuat gerigi, memancarkan pendar merah darah yang mengerikan di atas jembatan magma yang memadat. Ren tertegun di ambang batas, tenggorokannya terbakar oleh belerang saat ia menyiapkan rohnya untuk memasuki domain Ignis.</p>
+> *"Hati yang takut akan nyala api takkan pernah mampu menempa kedamaian yang abadi."*`,stats:{vignette:{words:191,minutes:1},expanded:{words:4955,minutes:25}}},{number:24,title:"Duel Sang Pengikat Abu",act:3,actTitle:"Babak III: Kuali Elemen & Dosa-Dosa Masa Lalu",realm:"Kaldera Abu Bara",spirit:"Ignis",element:"Api & Plasma",badge:"Bab 24 • KALDERA ABU BARA",elevation:"+1.900m Pinggiran Kaldera Aktif",location:"Kuali Terak, Kaldera Abu Bara",direction:"Utara-Tengah",image:"./images/regional_vistas/caldera_cinders.jpg",vignetteHtml:`<p>Tinggi di sepanjang pinggiran seribu sembilan ratus meter Kaldera Abu Bara, Kuali Terak bergetar oleh plasma murni dan gelombang belerang yang mencekik. Angin tajam menyapu menara-menara obsidian yang mencuat gerigi, memancarkan pendar merah darah yang mengerikan di atas jembatan magma yang memadat. Ren tertegun di ambang batas, tenggorokannya terbakar oleh belerang saat ia menyiapkan rohnya untuk memasuki domain Ignis.</p>
 <p>Tiba-tiba, Kaelen sang Pengikat Abu merintangi jalannya, sabit gelapnya bergemelotok dengan jelaga nekrotik dan kemurkaan seorang murid yang terbuang. Kebenaran pahit tercurah bersama ayunan mautnya, mengungkap bagaimana Master Kael telah mencampakkannya ketika intinya gagal menampung banyak elemen. Tergerak oleh duka yang mendalam, Ren mengesampingkan kekerasan, memintal arus tenang milik Thalassor dengan spora pemberi kehidupan milik Sylvan untuk memadamkan api pembusuk itu secara lembut tanpa menumpahkan darah. Saat abu berguguran dari lengan bawah Kaelen, pemuda yang hancur itu rebah dalam tangis, menempa ikatan persaudaraan tak terucap yang melapangkan jalan di depan.</p>
 `,expandedHtml:`<h3>I. Kawah Ujian Besi dan Belerang</h3>
 <p>Udara di ketinggian seribu sembilan ratus meter di atas permukaan Planet Vaelen tidak sekadar mengalir; udara itu membakar, mencairkan, dan mencabik-cabik paru-paru fana mana pun yang cukup dungu untuk menghirup napas tanpa perlindungan spiritual. Di sini, di atas bibir bergerigi Kaldera Abu Bara, seluruh dunia dibentuk dari kekerasan dan cahaya. Di bawah dinding pertahanan basal kuno terbentang Kuali Terak—sebuah arena lingkar raksasa dari batuan ter-kaca padat nan gelap yang tergantung di atas samudra gelisah berisi besi cair dan kaca magma bersuhu pijar putih.</p>
@@ -28672,6 +28868,7 @@ Tungku di dalam dadanya telah menyala, dan hawa dingin dunia tak lagi mampu menj
 <p>&quot;Jadi,&quot; parau pemuda itu. Suaranya terdengar bagai dua batu kilangan yang bergesek di dalam lumpur, kehilangan sama sekali sisa-sisa jiwa muda maupun kelembutan. &quot;Sang guru akhirnya mengirimkan benih berharganya ke tanur pengapian.&quot;</p>
 <h3>II. Hantu Oakhaven</h3>
 <p>Ren merasakan simpul dingin mengencang di perutnya—sebuah rasa menggigil yang sama sekali tak ada hubungannya dengan angin gunung yang membekukan di luar lingkar kaldera, melainkan bersumber sepenuhnya dari kesadaran mengerikan yang perlahan terbit dalam pikirannya.</p>
+<p>&quot;Ketakutan adalah bahan bakar kaum lemah; gairah adalah api yang melahap segala kemustahilan!&quot; seru Ignis, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>&quot;Kau...&quot; bisik Ren menahan napas, melangkah setengah tindak ke belakang sebelum memaksa kedua kakinya menapak kokoh di atas lantai terak. &quot;Kau adalah Kaelen.&quot;</p>
 <p>Sang Pengikat Abu melepaskan tawa kasar yang menyalak, yang lantas meluruh menjadi batuk yang hebat dan menyiksa. Abu hitam menghembus dari bibirnya, menyambar api di udara panas sekitar sebelum melayang turun dan mendesis saat menyentuh baju zirah dadanya.</p>
 <p>&quot;Kaelen,&quot; pemuda itu mengulangi, mengecap nama itu seolah itu adalah sebongkah batu pahit di dalam mulutnya. &quot;Ya. Aku ingat ketika kata itu masih memiliki arti. Di pondok kecil itu. Di dekat perapian. Sebelum tinta dirajah di atas kulitku. Sebelum dia memberitahuku bahwa aku istimewa. Sebelum dia memberitahuku bahwa aku adalah sang terpilih.&quot;</p>
@@ -28837,6 +29034,9 @@ Sosok tersebut terhenti dua puluh langkah di hadapannya. Ia mendongakkan kepala,
 
 
 Ren merasakan simpul dingin mengencang di perutnya—sebuah rasa menggigil yang sama sekali tak ada hubungannya dengan angin gunung yang membekukan di luar lingkar kaldera, melainkan bersumber sepenuhnya dari kesadaran mengerikan yang perlahan terbit dalam pikirannya.
+
+"Ketakutan adalah bahan bakar kaum lemah; gairah adalah api yang melahap segala kemustahilan!" seru Ignis, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 "Kau..." bisik Ren menahan napas, melangkah setengah tindak ke belakang sebelum memaksa kedua kakinya menapak kokoh di atas lantai terak. "Kau adalah Kaelen."
 
@@ -29087,7 +29287,7 @@ Dia melangkah melompati tepi jembatan terak, meluncurkan dirinya ke dalam arus a
 
 ---
 
-> *"Kemarahan adalah api tanpa perapian; ia menelan tangan yang memberinya makan hingga tak ada yang tersisa selain abu."*`,stats:{vignette:{words:149,minutes:1},expanded:{words:4939,minutes:25}}},{number:25,title:"Kataklisma Supernova",act:3,actTitle:"Babak III: Kawah Elemental & Dosa Masa Lalu",realm:"Kaldera Abu Bara",spirit:"Ignis",element:"Api & Plasma",badge:"Bab 25 • KALDERA ABU BARA",elevation:"+1.900m Pinggiran Kaldera Aktif",location:"Saluran Jantung Kaldera, Kaldera Abu Bara",direction:"Utara-Tengah",image:"./images/regional_vistas/caldera_cinders.jpg",vignetteHtml:`<p>Jauh di atas pinggiran Kaldera Abu Bara setinggi seribu sembilan ratus meter, udara yang menyesakkan berbau sengatan belerang dan batu hangus di bawah langit yang tercekik abu, diterangi oleh denyut-denyut merah darah yang ganas. Di ambang pintu gua Saluran Jantung Kaldera, angin termal yang membakar menerpa Ren saat ia berdiri letih namun teguh di hadapan jurang bawah tanah itu. Di bawahnya, ruang magma pusat mendidih dalam murka yang tak alami, panas primordialnya terperangkap di bawah sulur-sulur materi gelap yang menghempas dan menyedot api kehidupan gunung tersebut.</p>
+> *"Kemarahan adalah api tanpa perapian; ia menelan tangan yang memberinya makan hingga tak ada yang tersisa selain abu."*`,stats:{vignette:{words:149,minutes:1},expanded:{words:4962,minutes:25}}},{number:25,title:"Kataklisma Supernova",act:3,actTitle:"Babak III: Kawah Elemental & Dosa Masa Lalu",realm:"Kaldera Abu Bara",spirit:"Ignis",element:"Api & Plasma",badge:"Bab 25 • KALDERA ABU BARA",elevation:"+1.900m Pinggiran Kaldera Aktif",location:"Saluran Jantung Kaldera, Kaldera Abu Bara",direction:"Utara-Tengah",image:"./images/regional_vistas/caldera_cinders.jpg",vignetteHtml:`<p>Jauh di atas pinggiran Kaldera Abu Bara setinggi seribu sembilan ratus meter, udara yang menyesakkan berbau sengatan belerang dan batu hangus di bawah langit yang tercekik abu, diterangi oleh denyut-denyut merah darah yang ganas. Di ambang pintu gua Saluran Jantung Kaldera, angin termal yang membakar menerpa Ren saat ia berdiri letih namun teguh di hadapan jurang bawah tanah itu. Di bawahnya, ruang magma pusat mendidih dalam murka yang tak alami, panas primordialnya terperangkap di bawah sulur-sulur materi gelap yang menghempas dan menyedot api kehidupan gunung tersebut.</p>
 <p>Mengarahkan energi pancaran Ignis ke dalam Inti Hampanya, Ren mengikat sang roh demi memeteraikan ikrar mereka, membangkitkan lonjakan mengerikan dari Overdrive Termal serta Kilatan Busur Plasma yang membinasakan. Bersama-sama, sang pemanggil dan sang roh menghujamkan pedang besar mereka yang menyala-nyala ke dalam saluran, melepaskan ledakan surya yang membutahkan mata hingga membumihanguskan korupsi entropik tanpa menyisakan abu sedikit pun. Saat lava yang bergolak mereda menjadi aliran-aliran emas yang tenang, Ignis memberikan anggukan hormat yang khidmat, memberi isyarat kepada rombongan untuk bersiap turun menuju Dataran Tinggi Thunderforge yang menjulang membayangi.</p>
 `,expandedHtml:`<h3>I. Tanur Inti Dunia</h3>
 <p>Udara di ketinggian seribu sembilan ratus meter di atas permukaan laut tidak berperilaku seperti udara pada umumnya. Udara itu adalah sup pekat yang menyesakkan dari uap belerang, serpihan obsidiana mikroskopis, dan arus termal super-panas yang memanggang bagian belakang tenggorokan setiap kali napas dangkal dihirup. Di sini, di puncak Kaldera Abu Bara, dunia terasa belum selesai—seolah-olah para dewa lupa membentangkan lapisan terakhir batu pendingin dan membiarkan tanur bawah tanah itu terekspos ke langit yang berdarah.</p>
@@ -29147,6 +29347,7 @@ Dia melangkah melompati tepi jembatan terak, meluncurkan dirinya ke dalam arus a
 <p>Tubuhnya bergolak dengan kecepatan fisik yang luar biasa. Pedang besar basal meleleh berukir Runa itu, yang sebelumnya berbobot ratusan pon, kini terasa seringan bulu pinus di genggamannya. Dia mengayunkan bilah raksasa itu dalam tebasan melengkung yang luas dan menyapu.</p>
 <h3>IV. Semburan Lengkung Plasma dan Pertempuran Kawah Peleburan</h3>
 <p>Lengkungan pedang besar basal itu membelah tiga sulur utama materi gelap dengan desisan memekakkan dari kehancuran bertemperatur sangat tinggi. Materi kehampaan itu tidak sekadar terpotong—ia menguap seketika menjadi ketiadaan, tak sanggup mempertahankan jangkar fisiknya melawan radiasi panas surya yang begitu dahsyat dari bilah pedang.</p>
+<p>&quot;Lepaskan inti termonuklir! Inferno Plasma Termonuklir!&quot; seru Ignis, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Namun, inti entropik itu merasakan kehancuran yang kian mendekat.</p>
 <p>Bola hitam di atas lubang panas itu membengkak secara drastis, menyerap terak di sekitarnya. Ia memadat menjadi wujud mengerikan yang menjulang dan terdistorsi—seekor Leviatan Vulkanik Entropik. Makhluk itu tak berwajah, hanya memiliki rahang menganga berisi energi kehampaan yang dikelilingi tulang-tulang rusuk bergerigi dari obsidian terkorupsi yang berpendar ungu. Ia melepaskan jeritan tanpa suara yang menghancurkan pilar-pilar basal di dekatnya, menghempaskan bongkahan batu berbobot beberapa ton yang runtuh menimpa anjungan.</p>
 <p>&quot;Vane! Bersihkan puing-puing yang jatuh!&quot; perintah Ren, suaranya bergema nyaring bagai lonceng kuningan di seluruh aula bawah tanah.</p>
@@ -29362,6 +29563,9 @@ Tubuhnya bergolak dengan kecepatan fisik yang luar biasa. Pedang besar basal mel
 
 Lengkungan pedang besar basal itu membelah tiga sulur utama materi gelap dengan desisan memekakkan dari kehancuran bertemperatur sangat tinggi. Materi kehampaan itu tidak sekadar terpotong—ia menguap seketika menjadi ketiadaan, tak sanggup mempertahankan jangkar fisiknya melawan radiasi panas surya yang begitu dahsyat dari bilah pedang.
 
+"Lepaskan inti termonuklir! Inferno Plasma Termonuklir!" seru Ignis, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Namun, inti entropik itu merasakan kehancuran yang kian mendekat.
 
 Bola hitam di atas lubang panas itu membengkak secara drastis, menyerap terak di sekitarnya. Ia memadat menjadi wujud mengerikan yang menjulang dan terdistorsi—seekor Leviatan Vulkanik Entropik. Makhluk itu tak berwajah, hanya memiliki rahang menganga berisi energi kehampaan yang dikelilingi tulang-tulang rusuk bergerigi dari obsidian terkorupsi yang berpendar ungu. Ia melepaskan jeritan tanpa suara yang menghancurkan pilar-pilar basal di dekatnya, menghempaskan bongkahan batu berbobot beberapa ton yang runtuh menimpa anjungan.
@@ -29513,7 +29717,7 @@ Jalan di hadapan terasa terjal, berbahaya, dan dirundung oleh bayang-bayang tent
 
 ---
 
-> *"Ketika kegelapan membusuk di kedalaman, hanya percikan penciptaan yang murnilah yang dapat menyucikan lukanya."*`,stats:{vignette:{words:174,minutes:1},expanded:{words:4434,minutes:22}}},{number:26,title:"Badai Tegangan Tinggi",act:3,actTitle:"Kisah III: Cawan Peleburan Elemental & Dosa-Dosa Masa Lalu",realm:"Dataran Tinggi Thunderforge",spirit:"Astraeus",element:"Petir & Tegangan Sinaptik",badge:"Bab 26 • DATARAN TINGGI THUNDERFORGE",elevation:"+4.200m Dataran Tinggi Berlistrik",location:"Ladang Menara Konduktor, Dataran Tinggi Thunderforge",direction:"Timur Laut",image:"./images/regional_vistas/thunderforge_lightning.jpg",vignetteHtml:`<p>Jauh di ketinggian empat ribu meter di atas Dataran Tinggi Thunderforge, udara pegunungan yang tipis terasa membakar oleh sengatan logam ozon yang tajam serta embun beku atmosfer yang menggigit. Di bawah naungan langit nila yang bergolak, menara-menara menjulang berukirkan runa menyalurkan petir biru-violet secara terus-menerus menuju kisi-kisi granit yang membara tepat di bawah sepatu bot Ren. Bumi berguncang hebat saat arus gelap yang terkorupsi menerjang melintasi jaringan ley, memicu pelepasan busur listrik eksplosif yang memecahkan tebing-tebing karang menjadi serpihan kaca dan batu yang menyilaukan.</p>
+> *"Ketika kegelapan membusuk di kedalaman, hanya percikan penciptaan yang murnilah yang dapat menyucikan lukanya."*`,stats:{vignette:{words:174,minutes:1},expanded:{words:4450,minutes:22}}},{number:26,title:"Badai Tegangan Tinggi",act:3,actTitle:"Kisah III: Cawan Peleburan Elemental & Dosa-Dosa Masa Lalu",realm:"Dataran Tinggi Thunderforge",spirit:"Astraeus",element:"Petir & Tegangan Sinaptik",badge:"Bab 26 • DATARAN TINGGI THUNDERFORGE",elevation:"+4.200m Dataran Tinggi Berlistrik",location:"Ladang Menara Konduktor, Dataran Tinggi Thunderforge",direction:"Timur Laut",image:"./images/regional_vistas/thunderforge_lightning.jpg",vignetteHtml:`<p>Jauh di ketinggian empat ribu meter di atas Dataran Tinggi Thunderforge, udara pegunungan yang tipis terasa membakar oleh sengatan logam ozon yang tajam serta embun beku atmosfer yang menggigit. Di bawah naungan langit nila yang bergolak, menara-menara menjulang berukirkan runa menyalurkan petir biru-violet secara terus-menerus menuju kisi-kisi granit yang membara tepat di bawah sepatu bot Ren. Bumi berguncang hebat saat arus gelap yang terkorupsi menerjang melintasi jaringan ley, memicu pelepasan busur listrik eksplosif yang memecahkan tebing-tebing karang menjadi serpihan kaca dan batu yang menyilaukan.</p>
 <p>Demi bertahan dari badai yang mematikan tersebut, Ren menyerukan transmutasi batu milik Golgath untuk memotong parit-parit berlapis kuarsa menembus batuan keras, mengalirkan lonjakan kaotis itu ke dalam tanah di bawah kaki mereka. Di sampingnya, Valen membengkokkan garis fluks magnetik setempat menjadi medan penolak yang berkilauan, memalingkan sisa-sisa sambaran petir menjauhi rombongan mereka. Menerjang gemuruh badai yang memekakkan telinga, mereka terus melangkah mantap menuju puncak tertinggi, tempat Menara Konduktor Petir Agung menembus awan-awan dan Astraeus bertitah atas badai elemental yang murka.</p>
 `,expandedHtml:`<h3>I. Pelataran Terberai Langit</h3>
 <p>Udara di ketinggian empat ribu dua ratus meter tidak sekadar menipis; udara itu membakar dengan sengat logam yang tajam dari geseran ion murni dan aroma tembaga hangus.</p>
@@ -30063,6 +30267,7 @@ Dia melangkah satu kali ke depan, dan sebelum suara sepatu botnya yang menghanta
 <p>Akhirnya, setelah dua jam pendakian vertikal yang tanpa ampun, tangga kaca itu melandai, terbuka menuju sebuah amfiteater luas dan megah yang dikenal sebagai Lightning Apex.</p>
 <h3>II. Sang Penguasa Ion dan Busur Listrik</h3>
 <p>Puncak Petir adalah sebuah dataran tinggi melingkar yang amat luas, terhampar tepat empat ribu dua ratus meter di atas permukaan laut, menggantung di ambang dunia bagai rak kaca gelap yang menjorok ke dalam stratosfer yang terkepung badai.</p>
+<p>&quot;Menyambarlah sebelum gemuruh terdengar. Biarkan kehendakmu berkilat di ufuk cakrawala!&quot; seru Astraeus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Di pusat lantai obsidian gelap yang licin bagai cermin ini, berdirilah enam menara galvanis raksasa, tersusun dalam bentuk heksagon sempurna. Masing-masing menara miring ke dalam dengan sudut tiga puluh derajat, mengacung seperti jari-jari tangan besi kolosal ke arah titik fokus tengah yang melayang: sebuah bola plasma terkonsentrasi yang bertekanan mahatinggi, berkobar dengan pancaran putih murni seilau intan. Bola plasma itu tidak bertengger di atas alas apa pun; bola itu melayang murni oleh gaya magnetik kolosal yang dihasilkan di antara enam menara di sekelilingnya, berputar dengan siulan mengerikan yang tak henti-hentinya, terdengar bagaikan jeritan ribuan ketel uap yang sekarat.</p>
 <p>Berdiri di tepi bola plasma yang melayang itu, dengan punggung menghadap Ren, berdirilah sesosok figur.</p>
 <p>Dia tidak tampak seperti roh kuno yang renta, tidak pula memiliki kemegahan berbatu serupa gunung milik Golgath atau ketenangan Kryos yang halus dan tak terjangkau. Roh Primordial Petir, Astraeus, menampakkan diri sebagai pemuda berusia delapan belas tahun dengan perawakan ramping dan liat bagai tali cambuk, berdiri santai di ambang kehancuran mutlak seolah-olah dia sedang beristirahat di samping kolam taman yang tenang.</p>
@@ -30083,6 +30288,7 @@ Dia melangkah satu kali ke depan, dan sebelum suara sepatu botnya yang menghanta
 <p>&quot;Oh, aku tidak hanya akan mengujimu,&quot; Astraeus tertawa, tubuhnya mulai kabur saat busur-busur petir mikroskopis menyelimuti zirahnya. &quot;Aku akan mengalirkan seratus juta volt langsung melalui sistem sarafmu. Mari kita lihat apakah Inti Hampa kecilmu itu adalah sebuah bejana... atau sekering!&quot;</p>
 <h3>III. Kecepatan Baja dan Cahaya</h3>
 <p>Sebelum kata terakhir selesai menggema dari menara-menara kobalt di sekelilingnya, Astraeus telah lenyap.</p>
+<p>&quot;Kita adalah sinapsis penghubung langit dan bumi. Rasakan seratus juta volt!&quot; seru Astraeus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Tidak ada gerakan fisik, tidak ada hambatan angin, tidak ada ancang-ancang otot. Yang ada hanyalah kilatan cahaya ungu yang menyilaukan dan implosi vakum yang terdengar seperti dentuman petir yang meledak di dalam tengkorak Ren—<em>Bencana Langkah Kilat</em>.</p>
 <p>Naluri bertahan hidup Ren, yang ditempa oleh pertarungan hidup-mati nan brutal selama berbulan-bulan melawan binatang primordial dan inkuisitor tingkat tinggi, menyala seketika. Dia mengayunkan tongkat kayu besinya ke atas dalam busur pertahanan yang kalap dan nekat, berusaha menenun <em>Pelindung Semak Duri</em> yang digabungkan dengan <em>Suaka Benteng Intan</em>.</p>
 <p><em>KRAK.</em></p>
@@ -30231,6 +30437,9 @@ Akhirnya, setelah dua jam pendakian vertikal yang tanpa ampun, tangga kaca itu m
 
 Puncak Petir adalah sebuah dataran tinggi melingkar yang amat luas, terhampar tepat empat ribu dua ratus meter di atas permukaan laut, menggantung di ambang dunia bagai rak kaca gelap yang menjorok ke dalam stratosfer yang terkepung badai.
 
+"Menyambarlah sebelum gemuruh terdengar. Biarkan kehendakmu berkilat di ufuk cakrawala!" seru Astraeus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Di pusat lantai obsidian gelap yang licin bagai cermin ini, berdirilah enam menara galvanis raksasa, tersusun dalam bentuk heksagon sempurna. Masing-masing menara miring ke dalam dengan sudut tiga puluh derajat, mengacung seperti jari-jari tangan besi kolosal ke arah titik fokus tengah yang melayang: sebuah bola plasma terkonsentrasi yang bertekanan mahatinggi, berkobar dengan pancaran putih murni seilau intan. Bola plasma itu tidak bertengger di atas alas apa pun; bola itu melayang murni oleh gaya magnetik kolosal yang dihasilkan di antara enam menara di sekelilingnya, berputar dengan siulan mengerikan yang tak henti-hentinya, terdengar bagaikan jeritan ribuan ketel uap yang sekarat.
 
 Berdiri di tepi bola plasma yang melayang itu, dengan punggung menghadap Ren, berdirilah sesosok figur.
@@ -30271,6 +30480,9 @@ Astraeus menghentakkan pangkal tombaknya ke lantai. Gelombang kejut listrik nila
 
 
 Sebelum kata terakhir selesai menggema dari menara-menara kobalt di sekelilingnya, Astraeus telah lenyap.
+
+"Kita adalah sinapsis penghubung langit dan bumi. Rasakan seratus juta volt!" seru Astraeus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Tidak ada gerakan fisik, tidak ada hambatan angin, tidak ada ancang-ancang otot. Yang ada hanyalah kilatan cahaya ungu yang menyilaukan dan implosi vakum yang terdengar seperti dentuman petir yang meledak di dalam tengkorak Ren—*Bencana Langkah Kilat*.
 
@@ -30488,7 +30700,7 @@ Astraeus berbalik menatap Ren kembali, mengarahkan ujung tombaknya ke dada peman
 
 Astraeus memetik jarinya. Zirah kobaltnya yang tergeletak melompat dari lantai, terpasang kembali ke tubuhnya dalam serangkaian bunyi gemerincing magnetik yang tajam.
 
-"Delapan elemen telah ditaklukkan," kata Astraeus, sikapnya yang energik dan bicara cepat kembali dalam sekejap kil`,stats:{vignette:{words:176,minutes:1},expanded:{words:4936,minutes:25}}},{number:28,title:"Pelepasan Senjata Rel",act:3,actTitle:"Babak III: Kawah Elemental & Dosa-Dosa Masa Lalu",realm:"Dataran Tinggi Thunderforge",spirit:"Astraeus",element:"Petir & Tegangan",badge:"Bab 28 • DATARAN TINGGI THUNDERFORGE",elevation:"+4.200m Dataran Tinggi Berlistrik",location:"Larik Badai, Dataran Tinggi Thunderforge",direction:"Timur Laut",image:"./images/regional_vistas/thunderforge_lightning.jpg",vignetteHtml:`<p>Di ketinggian empat ribu dua ratus meter, langit di atas Dataran Tinggi Thunderforge bergolak oleh sulur-sulur ungu yang dahsyat dan bau ozon hangus yang mencekik napas. Angin kencang pegunungan yang membeku menerpa Larik Badai, tempat monolit-monolit runcing berdengung di bawah bobot badai yang kian hebat. Berdiri di tepi jurang di tengah silau membutakan dari busur-busur ley yang tak stabil, Ren berjuang keras mempertahankan kesadarannya kala seekor Binatang Badai Entropik raksasa yang terbuat dari petir hitam melahap mana listrik benua itu dengan serakah.</p>
+"Delapan elemen telah ditaklukkan," kata Astraeus, sikapnya yang energik dan bicara cepat kembali dalam sekejap kil`,stats:{vignette:{words:176,minutes:1},expanded:{words:4977,minutes:25}}},{number:28,title:"Pelepasan Senjata Rel",act:3,actTitle:"Babak III: Kawah Elemental & Dosa-Dosa Masa Lalu",realm:"Dataran Tinggi Thunderforge",spirit:"Astraeus",element:"Petir & Tegangan",badge:"Bab 28 • DATARAN TINGGI THUNDERFORGE",elevation:"+4.200m Dataran Tinggi Berlistrik",location:"Larik Badai, Dataran Tinggi Thunderforge",direction:"Timur Laut",image:"./images/regional_vistas/thunderforge_lightning.jpg",vignetteHtml:`<p>Di ketinggian empat ribu dua ratus meter, langit di atas Dataran Tinggi Thunderforge bergolak oleh sulur-sulur ungu yang dahsyat dan bau ozon hangus yang mencekik napas. Angin kencang pegunungan yang membeku menerpa Larik Badai, tempat monolit-monolit runcing berdengung di bawah bobot badai yang kian hebat. Berdiri di tepi jurang di tengah silau membutakan dari busur-busur ley yang tak stabil, Ren berjuang keras mempertahankan kesadarannya kala seekor Binatang Badai Entropik raksasa yang terbuat dari petir hitam melahap mana listrik benua itu dengan serakah.</p>
 <p>Sebelum kehancuran total terjadi, Roh Primordial Astraeus mengikat jiwanya kepada Ren, mematrikan tegangan frekuensi tinggi ke dalam Inti Hampa sang pemanggil dan membuka amuk kinetik Katastrofe Langkah-Kilat. Mengarahkan lonjakan ilahi ini, Ren menyelaraskan tombak-tombak krom milik Valen secara magnetik, melepaskan Pelepasan Senjata Rel Superkonduktif hipersonik yang menembus inti binatang itu dengan presisi mutlak. Badai dahsyat tersebut mendadak sirna, menyisakan garis-garis ley yang berdengung dengan cahaya safir menenangkan, sementara Meridian Fajar yang berkilauan mekar di sepanjang cakrawala timur.</p>
 `,expandedHtml:`<h3>I. Gerhana Ozon</h3>
 <p>Udara di ketinggian empat ribu dua ratus meter tidak hanya menghembus tipis; udara itu bernyanyi dengan resonansi logam bergelora yang berasa tembaga dan kayu pinus terbelah. </p>
@@ -30553,6 +30765,7 @@ Astraeus memetik jarinya. Zirah kobaltnya yang tergeletak melompat dari lantai, 
 <hr>
 <h3>IV. Paduan Logam Guntur</h3>
 <p>Behemoth Fulgurit Entropik itu meraung—sebuah suara yang menyerupai gesekan lempeng tektonik bertaut dengan jeritan besi yang merenggang maut—merasakan perubahan mendadak pada atmosfer di sekitarnya. Menyadari bahwa mangsanya telah berubah menjadi seekor pemangsa, monster hitam raksasa itu melepaskan cengkeramannya dari Astraeus dan memalingkan wujudnya yang masif dan terselubung awan menuju ke arah Ren.</p>
+<p>&quot;Koyaklah langit hingga terbelah! Kataklisme Badai Petir Giga-Volt!&quot; seru Astraeus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Dari rongga-mulut kehampaan di pusat tubuhnya, makhluk itu menghimpun pancaran tembakan kematian entropik berwarna hitam-ungu yang terpusat, menyedot seluruh daya statis terdistorsi dari dua belas menara di sekelilingnya. Udara di sekitar pylon mulai mencair di bawah derita suhu lokal yang sangat ekstrem.</p>
 <p>&quot;Ren!&quot; Suara Vane menjangkau pemuda itu dari bawah, terdengar samar di balik deburan guntur. &quot;Dia sedang menghimpun gelombang pemusnahan total! Menjauhlah dari garis tembaknya!&quot;</p>
 <p>Ren tidak bergeming sedikit pun.</p>
@@ -30757,6 +30970,9 @@ Ren membuka matanya. Sepasang manik itu tak lagi berwarna cokelat, tidak pula se
 
 Behemoth Fulgurit Entropik itu meraung—sebuah suara yang menyerupai gesekan lempeng tektonik bertaut dengan jeritan besi yang merenggang maut—merasakan perubahan mendadak pada atmosfer di sekitarnya. Menyadari bahwa mangsanya telah berubah menjadi seekor pemangsa, monster hitam raksasa itu melepaskan cengkeramannya dari Astraeus dan memalingkan wujudnya yang masif dan terselubung awan menuju ke arah Ren.
 
+"Koyaklah langit hingga terbelah! Kataklisme Badai Petir Giga-Volt!" seru Astraeus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Dari rongga-mulut kehampaan di pusat tubuhnya, makhluk itu menghimpun pancaran tembakan kematian entropik berwarna hitam-ungu yang terpusat, menyedot seluruh daya statis terdistorsi dari dua belas menara di sekelilingnya. Udara di sekitar pylon mulai mencair di bawah derita suhu lokal yang sangat ekstrem.
 
 "Ren!" Suara Vane menjangkau pemuda itu dari bawah, terdengar samar di balik deburan guntur. "Dia sedang menghimpun gelombang pemusnahan total! Menjauhlah dari garis tembaknya!"
@@ -30896,7 +31112,7 @@ Badai telah usai. Langit telah terbuka. Dan pendakian terakhir telah dimulai.
 
 ---
 
-> *"Ketika gaya magnet menuntun percikan api, jarak dan zirah tak lagi berarti."*`,stats:{vignette:{words:159,minutes:1},expanded:{words:4105,minutes:21}}},{number:29,title:"Meridian Fajar",act:3,actTitle:"Babak III: Kawah Tempa Elemen & Dosa Masa Lalu",realm:"Benteng Fajar",spirit:"Sol-Aureus",element:"Cahaya & Radiasi Surya",badge:"Bab 29 • BENTENG FAJAR",elevation:"+10.000m Lapisan Stratosfer",location:"Meridian Fajar, Cakrawala Stratosfer Timur",direction:"Stratosfer Ujung Timur",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Ren menjejakkan kakinya di atas Meridian Fajar, sebuah laluan megah dari cahaya emas padat yang menjulang melengkung menuju lapisan stratosfer atas. Hembusan angin dingin kaya ozon memenuhi paru-parunya saat ia mendaki melampaui ketinggian sepuluh ribu meter, meninggalkan dunia di bawahnya berselimut lautan awan keemasan yang menampakkan kelengkungan lembut Benua Vaelen. Gravitasi melunak menjadi pendaran tanpa bobot di bawah sol sepatunya, dipandu oleh cincin-cincin kristal surya melayang menuju suaka terapung di Benteng Fajar. Di atas, deretan pilar marmer putih dan kubah-kubah emas berkilauan dalam kehangatan abadi radiasi surya.</p>
+> *"Ketika gaya magnet menuntun percikan api, jarak dan zirah tak lagi berarti."*`,stats:{vignette:{words:159,minutes:1},expanded:{words:4123,minutes:21}}},{number:29,title:"Meridian Fajar",act:3,actTitle:"Babak III: Kawah Tempa Elemen & Dosa Masa Lalu",realm:"Benteng Fajar",spirit:"Sol-Aureus",element:"Cahaya & Radiasi Surya",badge:"Bab 29 • BENTENG FAJAR",elevation:"+10.000m Lapisan Stratosfer",location:"Meridian Fajar, Cakrawala Stratosfer Timur",direction:"Stratosfer Ujung Timur",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Ren menjejakkan kakinya di atas Meridian Fajar, sebuah laluan megah dari cahaya emas padat yang menjulang melengkung menuju lapisan stratosfer atas. Hembusan angin dingin kaya ozon memenuhi paru-parunya saat ia mendaki melampaui ketinggian sepuluh ribu meter, meninggalkan dunia di bawahnya berselimut lautan awan keemasan yang menampakkan kelengkungan lembut Benua Vaelen. Gravitasi melunak menjadi pendaran tanpa bobot di bawah sol sepatunya, dipandu oleh cincin-cincin kristal surya melayang menuju suaka terapung di Benteng Fajar. Di atas, deretan pilar marmer putih dan kubah-kubah emas berkilauan dalam kehangatan abadi radiasi surya.</p>
 <p>Saat Ren mendekati Gerbang Fajar Auroral, resonansi spiritual Sol-Aureus menyala berkobar di dalam jiwanya, mengobarkan tanda pemanggilnya dengan sinar surya. Para pelantun kidung selestial yang bertengger di atas gerbang menyambut sang Pemanggil Tanpa Ikatan dengan kidung agung, merajut mantra cahaya yang menyucikan sisa-sisa bayangan dari ujian masa lalunya. Dengan dentum gemuruh yang khidmat, gerbang emas terbuka lebar, mengundangnya masuk ke jantung ranah bercahaya mentari untuk menghadapi kawah ujian cahaya.</p>
 `,expandedHtml:`<h3>I. Cahaya Padat di Tepian Dunia</h3>
 <p>Tepian Timur Dataran Tinggi Thunderforge tidak berakhir pada lereng landai atau tebing runtuh, melainkan pada jurang mutlak yang anjlok empat ribu meter menuju kedalaman Samudra Safir yang bergolak biru pekat. Di sini, di ujung paling timur benua yang dikenal, langit bukan sekadar bentangan di atas kepala; langit adalah kehadiran hidup yang luar biasa megah. Angin dingin dan tipis menerpa bibir basal hitam, membawa aroma ozon tajam dari tanah badai Astraeus serta panas belerang pedas yang masih berhembus dari jantung vulkanis Ignis jauh di barat.</p>
@@ -31343,6 +31559,7 @@ Di belakangnya, di atas laluan megah cahaya emas yang membentang menembus awan, 
 <p>Ia menerjunkan tubuhnya lurus ke dalam pusat berkas sinar surya.</p>
 <h3>IV. Ujian Kebenaran Fotonik</h3>
 <p>Sensasi itu bukanlah rasa sakit. Sensasi itu jauh, tak terhingga lebih buruk.</p>
+<p>&quot;Kegelapan takkan sanggup memadamkan cahaya; ia hanya menyingkap di mana fajar harus terbit.&quot; seru Sol-Aureus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Itu adalah ketersingkapan mutlak.</p>
 <p>Saat kaki Ren melangkahi ambang pilar cahaya tersebut, tubuh fisiknya seolah meluruh. Ia tak lagi menyadari sepatu botnya, jubahnya, atau usapan udara stratosfer yang tipis. Cahaya itu membanjiri indranya, mengelupas lapisan luar kesadarannya bagaikan bawang yang dikupas oleh pisau bedah seorang ahli bedah.</p>
 <p><em>KILATAN.</em></p>
@@ -31557,6 +31774,9 @@ Ia menerjunkan tubuhnya lurus ke dalam pusat berkas sinar surya.
 
 Sensasi itu bukanlah rasa sakit. Sensasi itu jauh, tak terhingga lebih buruk.
 
+"Kegelapan takkan sanggup memadamkan cahaya; ia hanya menyingkap di mana fajar harus terbit." seru Sol-Aureus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Itu adalah ketersingkapan mutlak.
 
 Saat kaki Ren melangkahi ambang pilar cahaya tersebut, tubuh fisiknya seolah meluruh. Ia tak lagi menyadari sepatu botnya, jubahnya, atau usapan udara stratosfer yang tipis. Cahaya itu membanjiri indranya, mengelupas lapisan luar kesadarannya bagaikan bawang yang dikupas oleh pisau bedah seorang ahli bedah.
@@ -31718,7 +31938,7 @@ Ren menatap ke bawah tangga emas itu. Ia merasakan sembilan akor elemental berge
 
 Ia membenarkan tali jubahnya, berbalik menatap Sol-Aureus dengan anggukan hormat, lalu melangkah ke atas tangga emas, turun menembus awan menuju takdir terakhirnya.
 
-> *"Cahaya tidak menyembunyikan cacat; cahaya mengubahnya menjadi sisi-sisi pemahaman."*`,stats:{vignette:{words:177,minutes:1},expanded:{words:4871,minutes:24}}},{number:31,title:"Suaka Fajar",act:3,actTitle:"Bagian III: Tanur Elemen & Dosa-Dosa Masa Lalu",realm:"Benteng Fajar",spirit:"Sol-Aureus",element:"Cahaya & Radiasi Surya",badge:"Bab 31 • BENTENG FAJAR",elevation:"+10.000m Stratosfer",location:"Altar Langit Tinggi, Benteng Fajar",direction:"Stratosfer Ujung Timur",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Tinggi di dalam stratosfer sepuluh ribu meter di atas Vaelen, Altar Langit Tinggi dari Benteng Fajar melayang dalam keagungan surya yang berpijar menyilaukan. Ren berdiri di tengah udara yang merengkuh tulang dengan dinginnya, tempat aroma tajam ozon murni berpadu dengan kehangatan mentari yang tak terhalang. Di atas lautan awan yang bergolak, langit membara dalam pintalan emas dan putih kristal, memancarkan pendaran cahaya yang membutakan ke atas suaka marmer tersebut. Gemetar di bawah tekanan sorgawi, sang pemanggil muda mendekati altar, napasnya membeku menjadi embun es di tengah angin gigil saat ia memanggil roh tertinggi cahaya.</p>
+> *"Cahaya tidak menyembunyikan cacat; cahaya mengubahnya menjadi sisi-sisi pemahaman."*`,stats:{vignette:{words:177,minutes:1},expanded:{words:4894,minutes:24}}},{number:31,title:"Suaka Fajar",act:3,actTitle:"Bagian III: Tanur Elemen & Dosa-Dosa Masa Lalu",realm:"Benteng Fajar",spirit:"Sol-Aureus",element:"Cahaya & Radiasi Surya",badge:"Bab 31 • BENTENG FAJAR",elevation:"+10.000m Stratosfer",location:"Altar Langit Tinggi, Benteng Fajar",direction:"Stratosfer Ujung Timur",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Tinggi di dalam stratosfer sepuluh ribu meter di atas Vaelen, Altar Langit Tinggi dari Benteng Fajar melayang dalam keagungan surya yang berpijar menyilaukan. Ren berdiri di tengah udara yang merengkuh tulang dengan dinginnya, tempat aroma tajam ozon murni berpadu dengan kehangatan mentari yang tak terhalang. Di atas lautan awan yang bergolak, langit membara dalam pintalan emas dan putih kristal, memancarkan pendaran cahaya yang membutakan ke atas suaka marmer tersebut. Gemetar di bawah tekanan sorgawi, sang pemanggil muda mendekati altar, napasnya membeku menjadi embun es di tengah angin gigil saat ia memanggil roh tertinggi cahaya.</p>
 <p>Sol-Aureus turun untuk mengalirkan mana surya keemasan ke dalam dada Ren, menampakkan enam sayap cahaya miniatur di balik bahunya. Mengalirkan aura Suaka Fajar, Ren membumihanguskan strata atmosfer yang terkorupsi dan memulihkan penghalang cahaya Vaelen. Namun, sang roh primordial memperingatkan bahwa cahaya ilahi semata tidak akan mampu menyembuhkan alam ini tanpa tandingannya yang gelap, Nekromansi dan Kehampaan, demi menjaga keseimbangan. Dengan kebenaran berat yang bersemayam di benaknya, Ren berpaling ke arah jurang abisal, bersiap untuk turun dari balik awan menuju perairan gelap Samudra Selatan.</p>
 `,expandedHtml:`<h3>I. Kawah Peleburan Surya di Ujung Dunia</h3>
 <p>Sepuluh ribu meter di atas permukaan Planet Vaelen yang retak, atmosfer melenyap ke dalam kehampaan langit atas. Di ambang batas vertikal ini, tempat troposfer menipis menjadi ruang hampa dingin setajam sembilu dan kubah gelap angkasa menatap ke bawah dengan mata-mata bintang tanpa berkedip, bergantunglah Benteng Fajar. Benteng itu tidak dibangun dari pertukangan fana atau batu pahatan tambang, melainkan dari kuarsa tersurya dan api fajar yang memadat, terangkat oleh saluran ley-gravitasi purba yang telah berdengung tanpa henti sejak Era Pertama Penciptaan.</p>
@@ -31773,6 +31993,7 @@ Ia membenarkan tali jubahnya, berbalik menatap Sol-Aureus dengan anggukan hormat
 <p>&quot;Lihat ke bawah,&quot; jawab Sol-Aureus, suaranya memudar bagaikan cahaya hangat senja. &quot;Lihatlah atmosfer tempat kau berpijak. Pembusukan abisal tidak lagi terkurung di parit-parit samudra. Ia sedang bangkit.&quot;</p>
 <h3>III. Pancaran Cahaya di Atas Atmosfer: Suaka Fajar</h3>
 <p>Ren melangkah ke tepi altar pualam putih itu dan menatap ke bawah, menuju cakrawala Planet Vaelen.</p>
+<p>&quot;Melangkahlah dalam binar surya, Ren. Cahaya kita akan menuntun mereka yang tersesat pulang.&quot; seru Sol-Aureus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Dari ketinggiannya yang luar biasa di atas +10.000 meter, kelengkungan dunia terlihat dengan sangat jelas. Namun, selubung biru murni dari atmosfer atas planet ini tidak lagi bersih. Di sebelah tenggara, menjalar melintasi ribuan mil awan di ketinggian tinggi, tampak miasma kehitaman berbias ungu yang keji. Miasma itu menyerupai tinta yang tumpah ke dalam air jernih—sebuah cadar pembusukan entropik bergerigi yang terbentang luas, perlahan-lahan mencekik arus-ley alami langit.</p>
 <p>Di tempat miasma hitam itu menyentuh awan-awan atas, cahaya matahari dilahap habis, menyisakan hamparan kabut kelabu mati bertabur abu yang menjatuhkan embun beku terkorupsi ke samudra di bawahnya.</p>
 <p>&quot;Jejak kebinasaan Sang Pembinasa Entropik,&quot; gumam Ren menyadari, rahangnya mengatup rapat. &quot;Kehadiran Aethelgard-Prime merembes menembus segel-segel dari Lubang Abisal. Jika miasma itu menutupi stratosfer, ia akan memblokir mana surya secara total. Lembah Heartwood akan layu. Samudra akan berubah menjadi hitam.&quot;</p>
@@ -31793,6 +32014,7 @@ Ia membenarkan tali jubahnya, berbalik menatap Sol-Aureus dengan anggukan hormat
 <p>&quot;Untuk saat ini,&quot; suara Sol-Aureus bergema sekali lagi dari pusat halo surya di atas. &quot;Engkau telah menyucikan langit, wahai sang Tanpa Pengikat muda. Namun akar dari kebusukan itu tidak bersemayam di angkasa. Ia bersemayam di kedalaman.&quot;</p>
 <h3>IV. Alat Tenun Ganda: Kebenaran Cahaya dan Bayangan</h3>
 <p>Raksasa geometris yang megah itu telah meluruh sepenuhnya, namun keberadaannya tetap mengambang di udara—sebuah kecerdasan hangat dan waspada yang melayang dalam partikel-partikel cahaya yang mengelilingi Altar Tinggi.</p>
+<p>&quot;Bersinarlah dengan keagungan sejuta matahari! Radiasi Surya Supernova!&quot; seru Sol-Aureus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Ren berjalan kembali ke arah pusat landasan, sayap cahaya padatnya terlipat rapi di belakang punggungnya bagaikan enam bilah bercahaya yang terselip di sepanjang tulang belakangnya. Ia duduk bersila di atas lantai pualam, mengambil napas sejenak untuk memusatkan intinya.</p>
 <p>&quot;Engkau berbicara tentang kedalaman,&quot; ujar Ren, menatap ke arah ufuk jauh di tenggara, tempat langit biru murni bertemu dengan garis pantai berbatu yang gelap bagaikan tinta hitam. &quot;Maksudmu adalah Nyx-Malakor.&quot;</p>
 <p>&quot;Roh Kesepuluh,&quot; sahut Sol-Aureus lembut. &quot;Nekromansi Gelap dan Kehampaan. Roh yang bersemayam di kedalaman minus dua ribu dua ratus meter, di dalam sunyinya Lubang Abisal.&quot;</p>
@@ -31957,6 +32179,9 @@ Ren bangkit berdiri dari lututnya, keenam sayapnya meregang, menghempaskan bayan
 
 Ren melangkah ke tepi altar pualam putih itu dan menatap ke bawah, menuju cakrawala Planet Vaelen.
 
+"Melangkahlah dalam binar surya, Ren. Cahaya kita akan menuntun mereka yang tersesat pulang." seru Sol-Aureus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Dari ketinggiannya yang luar biasa di atas +10.000 meter, kelengkungan dunia terlihat dengan sangat jelas. Namun, selubung biru murni dari atmosfer atas planet ini tidak lagi bersih. Di sebelah tenggara, menjalar melintasi ribuan mil awan di ketinggian tinggi, tampak miasma kehitaman berbias ungu yang keji. Miasma itu menyerupai tinta yang tumpah ke dalam air jernih—sebuah cadar pembusukan entropik bergerigi yang terbentang luas, perlahan-lahan mencekik arus-ley alami langit.
 
 Di tempat miasma hitam itu menyentuh awan-awan atas, cahaya matahari dilahap habis, menyisakan hamparan kabut kelabu mati bertabur abu yang menjatuhkan embun beku terkorupsi ke samudra di bawahnya.
@@ -31997,6 +32222,9 @@ Ren berdiri di atas altar, dadanya naik-turun terengah-engah, enam sayapnya memb
 
 
 Raksasa geometris yang megah itu telah meluruh sepenuhnya, namun keberadaannya tetap mengambang di udara—sebuah kecerdasan hangat dan waspada yang melayang dalam partikel-partikel cahaya yang mengelilingi Altar Tinggi.
+
+"Bersinarlah dengan keagungan sejuta matahari! Radiasi Surya Supernova!" seru Sol-Aureus, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Ren berjalan kembali ke arah pusat landasan, sayap cahaya padatnya terlipat rapi di belakang punggungnya bagaikan enam bilah bercahaya yang terselip di sepanjang tulang belakangnya. Ia duduk bersila di atas lantai pualam, mengambil napas sejenak untuk memusatkan intinya.
 
@@ -32101,7 +32329,7 @@ Dengan satu kepakan sayap gemilangnya, dia melipat bentukan cahaya padatnya meng
 
 ---
 
-> *"Fajar bukanlah kekalahan bagi malam, melainkan janji bahwa setiap kegelapan akan memberi jalan bagi cahaya."*`,stats:{vignette:{words:177,minutes:1},expanded:{words:4231,minutes:21}}},{number:32,title:"Arsip-Arsip Era Pertama",act:3,actTitle:"Babak III: Kuali Peleburan Elementalis & Dosa Masa Lalu",realm:"Benteng Fajar",spirit:"Sol-Aureus",element:"Cahaya & Radiasi Surya",badge:"Bab 32 • BENTENG FAJAR",elevation:"+10.000m Stratosfer",location:"Skriptorium Surgawi, Benteng Fajar",direction:"Stratosfer Timur Jauh",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Melayang sepuluh ribu meter di stratosfer, Skriptorium Surgawi berkilauan di dalam Benteng Fajar. Cahaya surya yang menembus tajam mengalir melintasi kaca-kaca kristal nan menjulang, menerangi gulungan-gulungan surya berusia lima milenium yang terpelihara secara sempurna. Embun beku melekat pada batu bagian luar, namun kubah tinggi itu beraroma ozon, kemenyan, dan pancaran surya Sol-Aureus. Terengah-engah oleh udara tipis yang membeku, Ren melangkah masuk ke dalam arsip hening tersebut, inti rohnya berdengung menjawab resonansi langit purba di bawah kakinya.</p>
+> *"Fajar bukanlah kekalahan bagi malam, melainkan janji bahwa setiap kegelapan akan memberi jalan bagi cahaya."*`,stats:{vignette:{words:177,minutes:1},expanded:{words:4272,minutes:21}}},{number:32,title:"Arsip-Arsip Era Pertama",act:3,actTitle:"Babak III: Kuali Peleburan Elementalis & Dosa Masa Lalu",realm:"Benteng Fajar",spirit:"Sol-Aureus",element:"Cahaya & Radiasi Surya",badge:"Bab 32 • BENTENG FAJAR",elevation:"+10.000m Stratosfer",location:"Skriptorium Surgawi, Benteng Fajar",direction:"Stratosfer Timur Jauh",image:"./images/regional_vistas/dawn_citadel_light.jpg",vignetteHtml:`<p>Melayang sepuluh ribu meter di stratosfer, Skriptorium Surgawi berkilauan di dalam Benteng Fajar. Cahaya surya yang menembus tajam mengalir melintasi kaca-kaca kristal nan menjulang, menerangi gulungan-gulungan surya berusia lima milenium yang terpelihara secara sempurna. Embun beku melekat pada batu bagian luar, namun kubah tinggi itu beraroma ozon, kemenyan, dan pancaran surya Sol-Aureus. Terengah-engah oleh udara tipis yang membeku, Ren melangkah masuk ke dalam arsip hening tersebut, inti rohnya berdengung menjawab resonansi langit purba di bawah kakinya.</p>
 <p>Merekah gulungan Kronik Aethelgard-Prime, Ren mempelajari kisah Pemanggil Pertama, yang upaya tragisnya untuk mengikat sembilan roh goyah ketika kaum mortal menolak elemen kesepuluh, Kehampaan. Kehororan melanda tatkala Ren menemukan segel astrologis Master Kael tertera di atas risalah berusia delapan ratus tahun yang merincikan ritual pemanenan inti terlarang. Saat Sol-Aureus memancar gilang-gemilang dengan cahaya yang menyilaukan, Ren menempa tekad pamungkasnya: ia tidak akan mengulangi masa lalu, melainkan merangkul kesepuluh elemen dalam keharmonisan sebagai sang Tak Terikat yang sejati.</p>
 `,expandedHtml:`<h3>I. Suaka Stratosfer Sol-Aureus</h3>
 <p>Di ketinggian sepuluh ribu meter di atas persada Planet Vaelen yang retak, udara tidak sekadar menipis; ia berhenti menjadi milik alam fana sepenuhnya. Di sini, di puncak mutlak stratosfer, langit menanggalkan kanopi biru musim panasnya yang akrab, melarut menjadi nila abisal nan pekat—sebuah mantel beludru yang berbatasan langsung dengan kegelapan kehampaan luar. Di ketinggian ini, matahari tidak sekadar bersinar, melainkan bertakhta; sebuah bola cahaya murni nan menyilaukan tanpa hampa-saring yang memancarkan bayang-bayang tajam bagai sembilu di atas anjungan tembus pandang bertulang emas milik Benteng Fajar.</p>
@@ -33319,6 +33547,7 @@ Di belakangnya, *Astra-Keel* beristirahat dengan aman di pantai, cahayanya mener
 <p>Nyx-Malakor mengulurkan tangan kanannya yang pucat dan berbalut sarung tangan logam. &quot;Katakan padaku, Ren Ashveil: apakah kau berani memeluk kehampaan?&quot;</p>
 <h3>IV. Resiprositas Pembusukan dan Pemekaran</h3>
 <p>Ren menatap sarung tangan perak yang terulur itu.</p>
+<p>&quot;Di dalam kehampaan yang sunyi, bintang-bintang tercipta. Jangan takut pada bayangan; kuasai keheningannya.&quot; seru Nyx-Malakor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Di sekeliling mereka, ngarai kehampaan bawah tanah itu seakan menahan napasnya. Monolit-monolit obsidian yang melayang di kubah tinggi tergantung tak bergerak di dalam sumur-sumur gravitasinya. Geode-geode ametis yang menyala berdenyut dalam irama lambat dan tersinkronisasi, selaras dengan detak jantung Ren sendiri. Di sepanjang pesisir basal, pasang surut bayangan cair menghentikan bisikannya, merata menjadi cermin hitam-pekat sempurna yang memantulkan cahaya bintang ungu dari atas.</p>
 <p>Ren tidak berpaling dari mata Nyx-Malakor yang hampa dan bertepikan warna ametis. Dia teringat akan perjalanannya—bermil-mil jarak yang panjang dan penuh penderitaan yang telah dia tempuh di seantero Planet Vaelen sejak pagi yang tenang ketika rumahnya di Oakhaven hancur berantakan.</p>
 <p>Dia mengingat aroma tanah basah di Lembah Heartwood, tempat dia pertama kali merasakan detak jantung Sylvan yang lembut dan sekental getah. Dia mengingat tekanan yang meremukkan tulang di Dataran Tinggi Ironheart, tempat Golgath menguji ketebalan tekadnya di bawah ribuan ton basal ambar. Dia mengingat badai pedang krom berbilah tajam yang mengerikan di Menara Ferrum, dan saat Komandan Vane dari Ortodoksi Besi berdiri di atasnya dengan pedang panjang terhunus, menjulukinya seorang &quot;Penyesat Hampa&quot; yang mengancam tatanan suci dunia.</p>
@@ -33483,6 +33712,9 @@ Nyx-Malakor mengulurkan tangan kanannya yang pucat dan berbalut sarung tangan lo
 
 Ren menatap sarung tangan perak yang terulur itu.
 
+"Di dalam kehampaan yang sunyi, bintang-bintang tercipta. Jangan takut pada bayangan; kuasai keheningannya." seru Nyx-Malakor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 Di sekeliling mereka, ngarai kehampaan bawah tanah itu seakan menahan napasnya. Monolit-monolit obsidian yang melayang di kubah tinggi tergantung tak bergerak di dalam sumur-sumur gravitasinya. Geode-geode ametis yang menyala berdenyut dalam irama lambat dan tersinkronisasi, selaras dengan detak jantung Ren sendiri. Di sepanjang pesisir basal, pasang surut bayangan cair menghentikan bisikannya, merata menjadi cermin hitam-pekat sempurna yang memantulkan cahaya bintang ungu dari atas.
 
 Ren tidak berpaling dari mata Nyx-Malakor yang hampa dan bertepikan warna ametis. Dia teringat akan perjalanannya—bermil-mil jarak yang panjang dan penuh penderitaan yang telah dia tempuh di seantero Planet Vaelen sejak pagi yang tenang ketika rumahnya di Oakhaven hancur berantakan.
@@ -33574,7 +33806,7 @@ Ren berbalik menuju celah cahaya yang membumbung naik. Dia tidak berlari. Dia ti
 
 Di belakangnya, di sepanjang pantai basal gelap di Lubang Abisal, nyala-jiwa ungu menari dalam perayaan sunyi, memancarkan cahaya bintang mereka menembus bumi dalam untuk menyambut fajar yang akan datang.
 
-> *"Kematian bukanlah musuh kehidupan; ia adalah tanah subur tempat mekarnya bunga berikutnya."*`,stats:{vignette:{words:158,minutes:1},expanded:{words:4025,minutes:20}}},{number:36,title:"Harmoni Kehidupan dan Kematian",act:4,actTitle:"Babak IV: Pengkhianatan Besar, Sang Pendahulu & Kejadian Akhir",realm:"Lubang Abisal",spirit:"Nyx-Malakor",element:"Nekromansi Gelap & Kehampaan",badge:"Bab 36 • LUBANG ABISAL",elevation:"-2.200m Ngarai Kehampaan Bawah Tanah",location:"Neksus Geoda Kehampaan, Lubang Abisal",direction:"Pulau Ujung Tenggara",image:"./images/regional_vistas/abyssal_dark.jpg",vignetteHtml:`<p>Jauh di dalam Lubang Abisal, dua ribu dua ratus meter di bawah permukaan tanah, kesunyian Neksus Geoda Kehampaan yang mencekik bergayut tebal dengan aroma ozon bawah tanah dan tanah lembap purba. Geoda kecubung raksasa membingkai samudra abisal, memancarkan temaram senja ungu yang redup melintasi kegelapan gua yang amat luas. Di jantung kehampaan bawah tanah ini, Ren berdiri di atas jurang terjal obsidian, rohnya terlaras dengan arus yang membeku sewaktu ia bersiap menerima kekuatan tertinggi alam tersebut.</p>
+> *"Kematian bukanlah musuh kehidupan; ia adalah tanah subur tempat mekarnya bunga berikutnya."*`,stats:{vignette:{words:158,minutes:1},expanded:{words:4048,minutes:20}}},{number:36,title:"Harmoni Kehidupan dan Kematian",act:4,actTitle:"Babak IV: Pengkhianatan Besar, Sang Pendahulu & Kejadian Akhir",realm:"Lubang Abisal",spirit:"Nyx-Malakor",element:"Nekromansi Gelap & Kehampaan",badge:"Bab 36 • LUBANG ABISAL",elevation:"-2.200m Ngarai Kehampaan Bawah Tanah",location:"Neksus Geoda Kehampaan, Lubang Abisal",direction:"Pulau Ujung Tenggara",image:"./images/regional_vistas/abyssal_dark.jpg",vignetteHtml:`<p>Jauh di dalam Lubang Abisal, dua ribu dua ratus meter di bawah permukaan tanah, kesunyian Neksus Geoda Kehampaan yang mencekik bergayut tebal dengan aroma ozon bawah tanah dan tanah lembap purba. Geoda kecubung raksasa membingkai samudra abisal, memancarkan temaram senja ungu yang redup melintasi kegelapan gua yang amat luas. Di jantung kehampaan bawah tanah ini, Ren berdiri di atas jurang terjal obsidian, rohnya terlaras dengan arus yang membeku sewaktu ia bersiap menerima kekuatan tertinggi alam tersebut.</p>
 <p>Roh primordial Nyx-Malakor menyatukan esensi kehampaan ungunya ke dalam dada Ren, memeteraikan elemen kesepuluh dan mengikat seluruh Dekarki ke dalam keseimbangan yang bersinar terang. Memancarkan Mekar-Dunia Abisal, Ren menyalurkan seni kembar Kehidupan dan Kematian, menumbuhkan Pohon Dunia spektral bercahaya yang memandikan ngarai gelap dalam kecemerlangan zamrud transparan seraya memurnikan jiwa-jiwa yang beristirahat. Inti Hampanya mengkristal menjadi kesempurnaan mutlak, menerangi laut bawah tanah tepat saat gelombang kejut seismik mengguncang benua. Kompas pelacak Ren menyala dengan desakan mendadak, menyampaikan panggilan penuh perintah dari Master Kael untuk segera kembali ke Altar Tinggi Ibu Kota.</p>
 `,expandedHtml:`<h3>I. Katedral Tersemai Bayangan</h3>
 <p>Dua ribu dua ratus meter di bawah permukaan Planet Vaelen, dunia tidak begitu bernapas melainkan mengembuskan karat kuno dan bayangan yang membeku.</p>
@@ -33625,6 +33857,7 @@ Di belakangnya, di sepanjang pantai basal gelap di Lubang Abisal, nyala-jiwa ung
 <hr>
 <h3>III. Menara Bayangan Hidup</h3>
 <p>Ren mendarat dengan lembut di atas kedua kakinya, sepatu bot kulitnya menapak kuarsa hitam tanpa menimbulkan suara sedikit pun. Sensasi keutuhan mutlak ini sungguh tidak seperti apa pun yang pernah ia bayangkan. Keperihan dingin dari Lubang Abisal tak lagi membekukan darahnya; hawa dingin itu kini hanyalah seorang sahabat, bayang-bayang tenang yang bersemayam di kaki sang surya batinnya.</p>
+<p>&quot;Semua cahaya pada akhirnya kembali ke abisal. Dalam kegelapanlah tersimpan rahim sejati segala ciptaan.&quot; seru Nyx-Malakor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>&quot;Terima kasih, Nyx-Malakor,&quot; ucap Ren pelan sembari mengangkat kedua tangannya. </p>
 <p>Ia menatap telapak tangannya. Di telapak tangan kanannya, tanda daun hijau pucat milik Sylvan mekar dengan cahaya lembut; di telapak tangan kirinya, runa jiwa violet gelap milik Nyx-Malakor membara bagaikan bara beludru hitam.</p>
 <p>&quot;Sekarang,&quot; bisik Ren, memandang sekeliling ngarai geoda berdinding hitam yang suwung itu. &quot;Mari kita tunjukkan pada Kedalaman Terlupakan ini apa yang terjadi saat kehidupan dan kematian bertemu dalam keseimbangan.&quot;</p>
@@ -33652,6 +33885,7 @@ Di belakangnya, di sepanjang pantai basal gelap di Lubang Abisal, nyala-jiwa ung
 <p>Keseimbangan itu bersifat mutlak. Kehidupan tidak menaklukkan kematian; kematian tidak memadamkan kehidupan. Keduanya berjalan berdampingan melintasi taman kegelapan, menyempurnakan siklus yang menopang dunia.</p>
 <h3>IV. Bejana Sempurna</h3>
 <p>Ren berlutut di tepi danau bawah tanah, mencelupkan tangannya ke dalam air yang jernih dan berkilauan. Air asin berwarna hitam itu telah bertransformasi; kini menjadi sebening kristal, memantulkan bunga-bunga teratai ungu bercahaya yang mekar di atas bagaikan bintang-bintang yang jatuh ke langit bawah tanah.</p>
+<p>&quot;Runtuhkan dimensi ruang! Singularitas Gravitasi Cakrawala Peristiwa!&quot; seru Nyx-Malakor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.</p>
 <p>Dia menatap bayangannya sendiri di dalam air.</p>
 <p>Pemuda yang menatapnya balik hampir tidak lagi menyerupai murid ketakutan yang melarikan diri dari Oakhaven beberapa bulan lalu—seorang pemuda yang saat itu hanya berbekal kantong herba, tongkat kayu-hidup yang usang, dan kompas pelacak dari kuningan. Garis rahangnya kini lebih tegas, terukir oleh penderitaan dan keteguhan hati. Bahunya terentang bidang, menopang mantel tak kasat mata dari sepuluh roh primordial. Matanya menyimpan kedalaman samudra, kehangatan gunung berapi, kecepatan angin, dan kedamaian hening dari kehampaan.</p>
 <p>Dia meletakkan tangannya di atas tulang dada lagi, menatap ke dalam dadanya sendiri.</p>
@@ -33852,6 +34086,9 @@ Nyx-Malakor menarik tangannya kembali, membungkukkan wujudnya yang menjulang tin
 
 Ren mendarat dengan lembut di atas kedua kakinya, sepatu bot kulitnya menapak kuarsa hitam tanpa menimbulkan suara sedikit pun. Sensasi keutuhan mutlak ini sungguh tidak seperti apa pun yang pernah ia bayangkan. Keperihan dingin dari Lubang Abisal tak lagi membekukan darahnya; hawa dingin itu kini hanyalah seorang sahabat, bayang-bayang tenang yang bersemayam di kaki sang surya batinnya.
 
+"Semua cahaya pada akhirnya kembali ke abisal. Dalam kegelapanlah tersimpan rahim sejati segala ciptaan." seru Nyx-Malakor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
+
 "Terima kasih, Nyx-Malakor," ucap Ren pelan sembari mengangkat kedua tangannya. 
 
 Ia menatap telapak tangannya. Di telapak tangan kanannya, tanda daun hijau pucat milik Sylvan mekar dengan cahaya lembut; di telapak tangan kirinya, runa jiwa violet gelap milik Nyx-Malakor membara bagaikan bara beludru hitam.
@@ -33906,6 +34143,9 @@ Keseimbangan itu bersifat mutlak. Kehidupan tidak menaklukkan kematian; kematian
 
 
 Ren berlutut di tepi danau bawah tanah, mencelupkan tangannya ke dalam air yang jernih dan berkilauan. Air asin berwarna hitam itu telah bertransformasi; kini menjadi sebening kristal, memantulkan bunga-bunga teratai ungu bercahaya yang mekar di atas bagaikan bintang-bintang yang jatuh ke langit bawah tanah.
+
+"Runtuhkan dimensi ruang! Singularitas Gravitasi Cakrawala Peristiwa!" seru Nyx-Malakor, resonansi primordialnya bergetar dahsyat merambat melintasi garis-garis ley.
+
 
 Dia menatap bayangannya sendiri di dalam air.
 
@@ -34088,7 +34328,7 @@ Ia membengkokkan lututnya, menyalurkan arus udara hipersonik milik Zephyros di b
 
 Di belakangnya, jauh di dalam kegelapan mutlak jurang -2.200 meter, pohon-bayangan raksasa itu terus mekar—akar-akar obsidiannya menggenggam garis-garis ley Vaelen yang meretak dalam kedamaian yang hening dan tak terhancurkan.
 
-> *"Ketika kehidupan dan kematian bergandengan tangan di dalam kawah ujian, lingkaran keberadaan pun menjadi sempurna."*`,stats:{vignette:{words:167,minutes:1},expanded:{words:5404,minutes:27}}},{number:37,title:"Kembali ke Tanah Utama",act:4,actTitle:"Babak IV: Pengkhianatan Agung, Sang Pendahulu & Genesis Akhir",realm:"Lembah Heartwood",spirit:"Sylvan",element:"Kayu & Bunga",badge:"Bab 37 • LEMBAH HEARTWOOD",elevation:"+300m Jantung Utama Tengah",location:"Jalan Raya Ibu Kota, Lembah Heartwood",direction:"Jantung Utama Tengah",image:"./images/regional_vistas/heartwood_vale.jpg",vignetteHtml:`<p>Jauh di atas dataran tinggi tengah, tiga ratus meter melayang di atas dataran rendah, Lembah Heartwood terhampar di bawah naungan senja yang mencekam dan menyesakkan. Tiang-tiang penekan dari besi yang menghitam berdengung di sepanjang Jalan Raya Ibu Kota, memancarkan kilauan tajam ke atas batu-batu jalanan yang lembap dan mencekik aroma alami dari gilingan pinus serta melati yang tengah bermekaran. Namun, ketika Ren melangkah melintasi perbatasan selatan, hawa dingin yang mengepung melunak di hadapan lonjakan keajaiban vitalitas sylvan. Warga Oakhaven yang berlinang air mata berderet di sepanjang jalan utama, sorak-sorai penuh sukacita mereka membumbung seiring berseminya tanaman ivy yang cerah di bawah pijakan kakinya, diterangi oleh pancaran aura gilang-gemilang dari Sepuluh Roh.</p>
+> *"Ketika kehidupan dan kematian bergandengan tangan di dalam kawah ujian, lingkaran keberadaan pun menjadi sempurna."*`,stats:{vignette:{words:167,minutes:1},expanded:{words:5445,minutes:27}}},{number:37,title:"Kembali ke Tanah Utama",act:4,actTitle:"Babak IV: Pengkhianatan Agung, Sang Pendahulu & Genesis Akhir",realm:"Lembah Heartwood",spirit:"Sylvan",element:"Kayu & Bunga",badge:"Bab 37 • LEMBAH HEARTWOOD",elevation:"+300m Jantung Utama Tengah",location:"Jalan Raya Ibu Kota, Lembah Heartwood",direction:"Jantung Utama Tengah",image:"./images/regional_vistas/heartwood_vale.jpg",vignetteHtml:`<p>Jauh di atas dataran tinggi tengah, tiga ratus meter melayang di atas dataran rendah, Lembah Heartwood terhampar di bawah naungan senja yang mencekam dan menyesakkan. Tiang-tiang penekan dari besi yang menghitam berdengung di sepanjang Jalan Raya Ibu Kota, memancarkan kilauan tajam ke atas batu-batu jalanan yang lembap dan mencekik aroma alami dari gilingan pinus serta melati yang tengah bermekaran. Namun, ketika Ren melangkah melintasi perbatasan selatan, hawa dingin yang mengepung melunak di hadapan lonjakan keajaiban vitalitas sylvan. Warga Oakhaven yang berlinang air mata berderet di sepanjang jalan utama, sorak-sorai penuh sukacita mereka membumbung seiring berseminya tanaman ivy yang cerah di bawah pijakan kakinya, diterangi oleh pancaran aura gilang-gemilang dari Sepuluh Roh.</p>
 <p>Alih-alih menyiapkan pertahanan untuk menghadapi Sang Pemusnah, barisan penjaga yang teratur justru menyalurkan garis ley bawah tanah secara langsung menuju Mezbah Tinggi di kejauhan. Ren mengamati sihir bumi yang dicuri itu berdenyut melalui larik-larik fokus mereka, sementara resonansi mendalamnya dengan Primordial Kayu dan Bunga berdegup kencang bagaikan lonceng peringatan. Tanpa memedulikan pengkhianatan yang membayang nyata di seantero benteng, ia melangkah penuh tekad menaiki tangga marmer megah di Teras Kekaisaran. Dengan setiap jengkal langkah yang menanjak, cahaya bertempaan rohnya berkobar kian benderang menembus atmosfer berselimut bayang-bayang, memacu dirinya ke depan untuk menghadapi masa lalunya dan menunaikan janji tertingginya.</p>
 `,expandedHtml:`<h3>I. Akar Besi di Kanopi Suci</h3>
 <p>Celah selatan Lembah Heartwood tidak menyambut mereka dengan nafas pinus dan tanah lembap yang manis dan hangat, aroma yang senantiasa diusung Ren Ashveil dalam ingatannya sejak masa kanak-kanak. Alih-alih, saat bertiga mereka menaiki bukit berselimut kabut di mana hutan kayu besi kuno bertemu dengan kaki bukit bertingkat di wilayah inti tengah, angin justru membawa bau busuk dan tajam dari besi dingin serta getah yang tergerus.</p>
